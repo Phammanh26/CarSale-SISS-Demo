@@ -1,0 +1,135 @@
+ISNULL( [brand] ) || ISNULL(  [name]  ) ||  ISNULL( [bodyType]  )||  ISNULL( [color]) || ISNULL( [mileage]) ||  ISNULL([transmission]) ||  ISNULL([power]) ||  ISNULL([price]) ||  ISNULL([location])  || ISNULL(  [color]  )|| ISNULL(  [year]  )|| ISNULL(  [power]  )|| ISNULL(  [engineName]  )|| ISNULL(  [engineDisplacement]  )|| ISNULL(  [vehicleConfiguration]  )
+
+
+
+CREATE TABLE [Dim_Date] (
+    [IdPurchaseDate]  nvarchar(10),
+    [purchaseDay] int,
+    [purchaseMonth] int,
+    [purchaseYear] int,
+    Constraint pk_Dim_Date primary key (IdPurchaseDate)
+)
+
+
+
+CREATE TABLE [Dim_Car] (
+[Id_Car] int identity(1,1),
+    [brand] nvarchar(50),
+    [bodyType] nvarchar(50),
+    [color] nvarchar(50),
+    [fuelType] nvarchar(50),
+    [year] int,
+    [mileage] int,
+    [transmission] nvarchar(50),
+    [power] int,
+    [engineName] nvarchar(50),
+    [engineDisplacement] nvarchar(50),
+    [vehicleConfiguration] nvarchar(100),
+    [name] nvarchar(50),
+Constraint pk_Dim_Car primary key (Id_Car)
+)
+
+
+CREATE TABLE [Dim_Location] (
+    [Id_Location]  int identity(1,1),
+    [Ward] nvarchar(50),
+    [Province] nvarchar(50),
+Constraint pk_Dim_Location primary key (Id_Location)
+)
+
+
+CREATE TABLE [Dim_Brand] (
+[Id_Brand]  int identity(1,1),
+    [brand] nvarchar(50),
+Constraint pk_Dim_Brand primary key (Id_Brand)
+)
+
+
+
+CREATE TABLE [Fact_CarSales] (
+	[Id]  int identity(1,1),
+    	[Id_Car] int,
+    	[Id_Location] int,
+	[price] int,
+    	[Id_Brand] int,
+    	[IdPurchaseDate] nvarchar(10),
+)
+
+
+
+CREATE TABLE [Not_Cleaned_Temp] (
+    [Id] bigint,
+    [brand] nvarchar(50),
+    [name] nvarchar(50),
+    [bodyType] nvarchar(50),
+    [color] nvarchar(50),
+    [fuelType] nvarchar(50),
+    [year] int,
+    [mileage] int,
+    [transmission] nvarchar(50),
+    [power] int,
+    [price] int,
+    [location] nvarchar(50),
+    [parse_date] nvarchar(27),
+    [engineName] nvarchar(50),
+    [engineDisplacement] nvarchar(50),
+    [vehicleConfiguration] nvarchar(100)
+)
+
+
+CREATE TABLE [Cleaned_Temp] (
+    [Id] bigint,
+    [brand] nvarchar(50),
+    [name] nvarchar(50),
+    [bodyType] nvarchar(50),
+    [color] nvarchar(50),
+    [fuelType] nvarchar(50),
+    [year] int,
+    [mileage] int,
+    [transmission] nvarchar(50),
+    [power] int,
+    [price] int,
+    [location] nvarchar(50),
+    [parse_date] nvarchar(27),
+    [engineName] nvarchar(50),
+    [engineDisplacement] nvarchar(50),
+    [vehicleConfiguration] nvarchar(100)
+)
+
+ALTER TABLE  [Fact_CarSales]
+DROP CONSTRAINT FK_CarSales_Car
+
+ALTER TABLE  [Fact_CarSales]
+DROP CONSTRAINT FK_CarSales_Location
+
+ALTER TABLE  [Fact_CarSales]
+DROP CONSTRAINT FK_CarSales_Brand
+
+ALTER TABLE  [Fact_CarSales]
+DROP CONSTRAINT FK_CarSales_Date
+
+ALTER TABLE [Fact_CarSales]
+ADD CONSTRAINT FK_CarSales_Car FOREIGN KEY (Id_Car)
+REFERENCES [Dim_Car] (Id_Car);
+
+ALTER TABLE [Fact_CarSales]
+ADD CONSTRAINT FK_CarSales_Location FOREIGN KEY (Id_Location)
+REFERENCES [Dim_Location] (Id_Location);
+
+ALTER TABLE [Fact_CarSales]
+ADD CONSTRAINT FK_CarSales_Brand FOREIGN KEY (Id_Brand)
+REFERENCES [Dim_Brand] (Id_Brand);
+
+
+ALTER TABLE [Fact_CarSales]
+ADD CONSTRAINT FK_CarSales_Date FOREIGN KEY (IdPurchaseDate)
+REFERENCES [Dim_Date] (IdPurchaseDate);
+
+
+delete from [CarSales_DataWarehouse].[dbo].[Dim_Date];
+delete from [CarSales_DataWarehouse].[dbo].[Dim_Car]
+Delete from [CarSales_DB].[dbo].[Not_Cleaned_Temp];
+Delete from [CarSales_DB].[dbo].[Cleaned_Temp];
+Delete from  [CarSales_DataWarehouse].[dbo].[Debug_Not_Map]
+Delete from  [CarSales_DataWarehouse].[dbo].[Fact_CarSales]
+Delete from  [CarSales_DataWarehouse].[dbo].[Dim_Location]
