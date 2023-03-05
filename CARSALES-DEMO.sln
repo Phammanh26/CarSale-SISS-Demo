@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CARSALES-DEMO", "..\..\..\Documents\CARSALES-DEMO-Export.dtproj", "{BDEC6A7F-38A6-4C6C-A2BC-E0292DA47AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEC6A7F-38A6-4C6C-A2BC-E0292DA47AD4}.Development|Default.ActiveCfg = Development
+		{BDEC6A7F-38A6-4C6C-A2BC-E0292DA47AD4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67085F45-DE6B-4229-A1D5-7E880DE2DFFF}
+	EndGlobalSection
+EndGlobal
