@@ -1,0 +1,7 @@
+Delete from  [CarSales_DataWarehouse].[dbo].[Fact_CarSales]
+Delete from [CarSales_DataWarehouse].[dbo].[Dim_Date];
+Delete from [CarSales_DataWarehouse].[dbo].[Dim_Car]
+Delete from [CarSales_DB].[dbo].[Not_Cleaned_Temp];
+Delete from [CarSales_DB].[dbo].[Cleaned_Temp];
+Delete from  [CarSales_DataWarehouse].[dbo].[Debug_Not_Map]
+Delete from  [CarSales_DataWarehouse].[dbo].[Dim_Location]

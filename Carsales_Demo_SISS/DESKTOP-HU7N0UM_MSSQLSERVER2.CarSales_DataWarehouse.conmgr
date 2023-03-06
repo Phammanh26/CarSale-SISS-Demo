@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-HU7N0UM_MSSQLSERVER2.CarSales_DataWarehouse"
+  DTS:DTSID="{61431294-D166-4D5F-A26E-5B4D3E1FC4E4}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-HU7N0UM\MSSQLSERVER2;Initial Catalog=CarSales_DataWarehouse;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-CARSALES-DEMO-{61431294-D166-4D5F-A26E-5B4D3E1FC4E4}DESKTOP-HU7N0UM\MSSQLSERVER2.CarSales_DataWarehouse;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

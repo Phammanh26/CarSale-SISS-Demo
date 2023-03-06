@@ -1,0 +1,5 @@
+// Check Data is Null
+// Expression
+ISNULL( [brand] ) || ISNULL(  [name]  ) ||  ISNULL( [bodyType]  )||  ISNULL( [color]) || ISNULL( [mileage]) ||  ISNULL([transmission]) ||  ISNULL([power]) ||  ISNULL([price]) ||  ISNULL([location])  || ISNULL(  [color]  )|| ISNULL(  [year]  )|| ISNULL(  [power]  )|| ISNULL(  [engineName]  )|| ISNULL(  [engineDisplacement]  )|| ISNULL(  [vehicleConfiguration]  )
+
+
