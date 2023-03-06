@@ -7,7 +7,9 @@
 ### Define datasource:
 - Car sales datasets: https://www.kaggle.com/datasets/ekibee/car-sales-information
 + Notes:
+
   ++ I had processed data for adapting with problems.
+  
   ++ We upload to database (SQL Server) as Source System.
 
 ### Facts & Dim:
@@ -25,14 +27,23 @@
 - Define the necessary attributes for the Dim, Fact table.
 3. Dev on SISS Tools
   + Note SISS Tools has 3 components:
+  
     ++ Connection
+   
     ++ Control Flows
+    
     ++ Data Flows
+    
   + Step 1: Create schema
+  
     ++ I use SQL Server to store datawarehouse
+    
     ++ I will do create schema for Dim and Fact tables.
+    
     ++ In addition, I have some Temp tables, the purpose of this table is to preprocess data that is not yet clean.
+    
   + Step 2: Add connections in SISS
+  
     ++ Add connection in Connection
   + Step 3: Create a data cleaning task.
     ++ Handling methods: Filter Null, transform string date -> date.
@@ -41,8 +52,11 @@
   + Step 6: Load data to Demension source
   
   + Step 6: Testing
+  
     ++ Data Integrity Check
+    
     ++ Check data correctness
+    
     ++ Check the correctness of Business Requirements
 
 ### Best Practice Tricks:
