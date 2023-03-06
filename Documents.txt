@@ -1,0 +1,10 @@
+// ETL package gồm 3 component chính:
++ Connection: kết nối dữ liệu nguồn (được thiết kế để đáp ưng các loại dữ liệu khác nhau, operation khác nhau) 
++ Control flows: quản lý, control các task
++ Data flows: quy trinh chuyển đổi dữ liệu: clean, transform, aggregate 
+
+// Best practices:
++ Không load hết toàn bộ data từ dữ liệu nguồn, lựa chọn những dữ liệu quan tâm (ví dụ: table, column)
++ Loại bỏ data trùng lặp
++ Xử lý song song các task độc lập 
++ Không add những data đã tồn tại
