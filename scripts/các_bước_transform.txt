@@ -1,0 +1,19 @@
+Bước 1: Thêm một Data Flow Task vào giao diện điều khiển của gói tích hợp dữ liệu.
+
+Bước 2: Thêm một Flat File Source hoặc một OLE DB Source để lấy dữ liệu đầu vào từ tệp dữ liệu hoặc cơ sở dữ liệu nguồn.
+
+Bước 3: Thêm một Derived Column Transformation vào Data Flow Task bằng cách kéo và thả từ hộp công cụ SSIS Toolbox.
+
+Bước 4: Cấu hình Derived Column Transformation bằng cách tạo một cột mới và sử dụng biểu thức sau để chuyển đổi giá trị.
+
+Ở đây, "FieldName" là tên của cột chứa giá trị Float đầu vào.
+
+Bước 5: Thêm một Flat File Destination hoặc một OLE DB Destination để xuất dữ liệu chuyển đổi ra tệp dữ liệu hoặc cơ sở dữ liệu đích.
+
+Bước 6: Kết nối các thành phần trong Data Flow Task và chạy gói tích hợp dữ liệu.
+
+Sau khi thực hiện các bước trên, dữ liệu đầu vào sẽ được chuyển đổ, có thể xuất ra tệp dữ liệu hoặc cơ sở dữ liệu đích.
+
+
+
+
