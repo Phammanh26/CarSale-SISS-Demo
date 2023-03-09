@@ -1,0 +1,1001 @@
+,brand,name,bodyType,color,fuelType,year,mileage,transmission,power,price,vehicleConfiguration,engineName,engineDisplacement,location,parse_date
+610,Lexus,LX570,jeep 5 doors,black,GasolineMixBlack,,226000.0,AT,367.0,4100000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-20 04:00:00
+993,Toyota,Hiace,minivan,grey,Diesel,,193000.0,Automatic,144.0,1551000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-20 05:00:00
+531,Nissan,Note,hatchback 5 doors,whitemixblack,GasolineMixBlack,2013.0,1000.0,CVT,98.0,641000,1.2 Medalist,HR12DDR,1.2 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-20 06:00:00
+656,Lada,Priora,sedan,silver,GasolineMixBlack,2007.0,135000.0,Manual,98.0,245000,1.6 MT Люкс 21703-03-031,VAZ-21126,1.6 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 07:00:00
+210,Lexus,RX350,jeep 5 doors,whitemixblack,GasolineMixBlack,2019.0,26000.0,AT,300.0,6310000,3.5 AT F Sport,2GR-FKS ,3.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 08:00:00
+951,Nissan,Teana,sedan,grey,GasolineMixBlack,2016.0,21000.0,CVT,173.0,1651000, 2.5 XL Navi AVM Package,QR25DE,2.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-20 09:00:00
+522,Honda,Fit,hatchback 5 doors,grey,GasolineMixBlack,,81000.0,CVT,130.0,691000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-20 10:00:00
+215,Toyota,Succeed,station wagon,grey,GasolineMixBlack,2016.0,172000.0,CVT,109.0,751000, 1.5 UL,1NZ-FE,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-20 10:00:00
+389,Toyota,Prius,liftback,grey,GasolineMixBlack,2009.0,210000.0,CVT,76.0,715000,1.5 EX,1NZ-FXE,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-20 11:00:00
+429,Mazda,CX-8,jeep 5 doors,grey,Diesel,,51000.0,AT,190.0,2210000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-20 11:00:00
+705,Toyota,Corolla Fielder,station wagon,grey,GasolineMixBlack,2012.0,128000.0,CVT,103.0,751000,1.5 G 4WD,1NZ-FE,1.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-20 12:00:00
+164,Toyota,white,sedan,burgundy,GasolineMixBlack,2016.0,18000.0,CVT,143.0,1465000, 1.8 X EX Package,2ZR-FAE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-20 13:00:00
+352,Toyota,Harrier,jeep 5 doors,black,GasolineMixBlack,2014.0,163000.0,CVT,152.0,2211000,2.5 Hybrid E-Four Elegance,2AR-FXE,2.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-20 13:00:00
+515,Toyota,Corolla,sedan,whitemixblack,GasolineMixBlack,1997.0,74000.0,Manual,110.0,321000,1.6 XE saloon,4A-FE,1.6 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-20 15:00:00
+240,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,13000.0,AT,163.0,4251000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-20 15:00:00
+140,Toyota,Ipsum,minivan,black,GasolineMixBlack,1998.0,259000.0,AT,135.0,367000,2.0 aero touring,3S-FE,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 16:00:00
+177,Suzuki,Jimny Sierra,jeep 3 doors,,GasolineMixBlack,2018.0,21000.0,AT,102.0,1999999,1.5 JL Safety Support 4WD,K15B,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-20 16:00:00
+549,Mitsubishi,Pajero Mini,jeep 3 doors,grey,GasolineMixBlack,,241000.0,Manual,64.0,251000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-20 17:00:00
+624,Toyota,Corolla Axio,sedan,burgundy,GasolineMixBlack,2012.0,97000.0,CVT,109.0,771000,1.5 X,1NZ-FE,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-20 17:00:00
+848,Toyota,Corolla,sedan,whitemixblack,GasolineMixBlack,,161000.0,AT,105.0,451000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-20 17:00:00
+365,Toyota,Vitz,hatchback 5 doors,blue,GasolineMixBlack,2005.0,161000.0,CVT,71.0,410000,1.0 B intelligent package,1KR-FE,1.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-20 18:00:00
+444,Honda,HR-V,jeep 5 doors,whitemixblack,GasolineMixBlack,1999.0,251000.0,CVT,105.0,265000,1.6 J4,D16A,1.6 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-20 18:00:00
+713,Toyota,Hilux Surf,jeep 5 doors,whitemixblack,Diesel,,319000.0,AT,140.0,910000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-20 18:00:00
+677,Toyota,Corolla Fielder,station wagon,black,GasolineMixBlack,2015.0,110000.0,CVT,74.0,681000, 1.5 Hybrid G WxB,1NZ-FXE,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-20 19:00:00
+684,Honda,Crossroad,jeep 5 doors,whitemixblack,GasolineMixBlack,2007.0,162000.0,AT,140.0,935000,1.8 18X HID edition 4WD,R18A,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 19:00:00
+906,Nissan,Teana,sedan,grey,GasolineMixBlack,,148000.0,AT,160.0,381000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 20:00:00
+870,Toyota,Ipsum,minivan,,GasolineMixBlack,,1000.0,AT,160.0,415000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-20 20:00:00
+896,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,2010.0,56000.0,CVT,71.0,497000,1.0 B S edition,1KR-FE,1.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 20:00:00
+975,Honda,S-MX,hatchback 5 doors,grey,GasolineMixBlack,2000.0,281000.0,AT,140.0,235000,2.0,B20B,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-20 21:00:00
+554,Honda,MDX,jeep 5 doors,black,GasolineMixBlack,2003.0,241000.0,AT,260.0,441000,3.5 Exclusive,J35A,3.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-20 22:00:00
+733,Lexus,CT200h,hatchback 5 doors,whitemixblack,GasolineMixBlack,2010.0,185000.0,CVT,99.0,1051000,200h F sport,2ZR-FXE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-20 22:00:00
+916,Toyota,Premio,sedan,blue,GasolineMixBlack,2010.0,21000.0,CVT,110.0,995000,1.5 F L package,1NZ-FE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-20 22:00:00
+745,Honda,Fit,hatchback 5 doors,black,GasolineMixBlack,2015.0,141000.0,Robot,110.0,941000,1.5 Hybrid S Package,LEB,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-20 23:00:00
+8,Nissan,Note,hatchback 5 doors,grey,GasolineMixBlack,2016.0,58000.0,CVT,79.0,851000, 1.2 X,HR12DE,1.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-21 00:00:00
+218,Toyota,Land Cruiser Prado,jeep 5 doors,green,GasolineMixBlack,2009.0,122000.0,AT,276.0,3100000,4.0 TZ 4WD,1GR-FE,4.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-21 00:00:00
+748,Toyota,Alphard,minivan,whitemixblack,GasolineMixBlack,,151000.0,CVT,170.0,1765000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-21 00:00:00
+222,Toyota,Camry,sedan,green,GasolineMixBlack,2006.0,256000.0,AT,167.0,691000,2.4 G,2AZ-FE,2.4 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-21 03:00:00
+669,Nissan,AD,station wagon,whitemixblack,GasolineMixBlack,,251000.0,AT,100.0,195000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-21 04:00:00
+692,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,,155000.0,CVT,110.0,310000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-21 06:00:00
+599,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,49000.0,AT,163.0,3759000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-21 06:00:00
+859,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2010.0,218000.0,CVT,99.0,635000,1.8 G LED edition,2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-21 06:00:00
+489,Nissan,Avenir,station wagon,grey,GasolineMixBlack,,121000.0,AT,125.0,91000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-21 08:00:00
+395,Mitsubishi,ASX,jeep 5 doors,black,GasolineMixBlack,2010.0,173000.0,CVT,150.0,888888,2.0 Exclusive,4B11,2.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-21 10:00:00
+328,Nissan,Note,hatchback 5 doors,red,GasolineMixBlack,2015.0,85000.0,CVT,79.0,611000, 1.2 Medalist X,HR12DE,1.2 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-21 13:00:00
+127,Toyota,Estima,minivan,whitemixblack,GasolineMixBlack,2016.0,111000.0,CVT,150.0,2310000,2.4 Aeras Premium G 4WD,2AZ-FXE,2.4 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-21 13:00:00
+824,Toyota,Vellfire,minivan,black,GasolineMixBlack,2018.0,59000.0,CVT,152.0,3685000,Hybrid 2.5 ZR G Edition 4WD,2AR-FXE,2.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-21 13:00:00
+263,Lexus,RX350,jeep 5 doors,whitemixblack,GasolineMixBlack,2019.0,33000.0,AT,300.0,7951000,3.5 AT F Sport,2GR-FKS ,3.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-21 14:00:00
+867,Suzuki,Escudo,jeep 5 doors,grey,GasolineMixBlack,2015.0,71000.0,AT,117.0,1395000, 1.6 4WD,M16A,1.6 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-21 14:00:00
+894,Hyundai,Creta,jeep 5 doors,brown,GasolineMixBlack,2017.0,79000.0,AT,149.0,1521000,2.0 AT 4WD Travel,G4NA,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-21 15:00:00
+958,Mercedes-Benz,A-Class,hatchback 5 doors,black,GasolineMixBlack,,81000.0,Automatic,122.0,1181000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-21 16:00:00
+60,Mitsubishi,RVR,minivan,black,GasolineMixBlack,1995.0,106000.0,Manual,160.0,211000,2.0 Sports gear,4G63,2.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-21 16:00:00
+61,Toyota,Vitz,hatchback 5 doors,silver,GasolineMixBlack,,110000.0,CVT,71.0,435000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-21 17:00:00
+339,Mercedes-Benz,C-Class,coupe,whitemixblack,GasolineMixBlack,2016.0,31000.0,AT,156.0,1851000,C 180 Sports,M 274 DE 16 AL,1.6 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-21 18:00:00
+671,Mazda,Demio,hatchback 5 doors,blue,GasolineMixBlack,2015.0,95000.0,AT,92.0,611000, 1.3 13S Urban Stylish Mode,P3-VPS,1.3 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-21 18:00:00
+304,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2020.0,13000.0,AT,163.0,4110000, 2.7 TX L Package Black Edition 7 seat 4WD,2TR-FE,2.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-21 19:00:00
+978,Toyota,bB,hatchback 5 doors,violet,GasolineMixBlack,2010.0,101000.0,AT,92.0,615000,1.3 S,K3-VE,1.3 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-21 20:00:00
+544,Lexus,GX470,jeep 5 doors,whitemixblack,GasolineMixBlack,2002.0,291000.0,AT,235.0,1451000,4.7,2UZ-FE,4.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-21 21:00:00
+223,Toyota,C-HR,jeep 5 doors,yellow,GasolineMixBlack,2018.0,16000.0,CVT,98.0,1785000,Hybrid 1.8 S LED Package,2ZR-FXE,1.8 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-21 21:00:00
+607,Toyota,Allion,sedan,whitemixblack,GasolineMixBlack,2007.0,67000.0,CVT,110.0,878000,1.5 A15 G package,1NZ-FE,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-21 23:00:00
+854,Toyota,Prius,liftback,black,GasolineMixBlack,,281000.0,CVT,99.0,755000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-22 00:00:00
+729,Mazda,Axela,hatchback 5 doors,,GasolineMixBlack,2011.0,77000.0,CVT,111.0,811000,1.5 15S,ZY-VE,1.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-22 00:00:00
+380,Toyota,RAV4,jeep 5 doors,green,GasolineMixBlack,1995.0,107000.0,AT,135.0,455000,2.0 J V,3S-FE,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-22 01:00:00
+238,Honda,Civic,hatchback 5 doors,red,GasolineMixBlack,2017.0,71000.0,CVT,182.0,1541000,1.5,L15C,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-22 02:00:00
+414,Toyota,Allion,sedan,grey,GasolineMixBlack,2009.0,47000.0,CVT,136.0,975000,1.8 A18 G package stylish edition,2ZR-FE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-22 03:00:00
+543,Toyota,Land Cruiser Prado,jeep 5 doors,grey,Diesel,2002.0,199000.0,AT,173.0,1610000,3.0 AT 5dr.,1KD-FTV,3.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-22 04:00:00
+144,Subaru,Forester,jeep 5 doors,red,GasolineMixBlack,2002.0,214000.0,AT,220.0,641000,2.0 XT,EJ20,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-22 06:00:00
+900,BMW,5-Series,sedan,black,GasolineMixBlack,,81000.0,Automatic,249.0,2510000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-22 06:00:00
+563,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,25000.0,AT,163.0,3131000, 2.7 TX 5 seat 4WD,2TR-FE,2.7 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-22 06:00:00
+768,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,1999.0,145000.0,AT,200.0,610000,2.5 Athlete Four 4WD,1JZ-GE,2.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-22 07:00:00
+135,Hyundai,Tucson,jeep 5 doors,black,GasolineMixBlack,2004.0,221000.0,AT,142.0,610000,2.0 VVT AT 2WD MX,G4GC,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-22 10:00:00
+185,Subaru,Impreza,hatchback 5 doors,black,GasolineMixBlack,2014.0,145000.0,CVT,115.0,910000, 1.6 i 4WD,FB16,1.6 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-22 10:00:00
+96,Nissan,Kix,jeep 3 doors,blue,GasolineMixBlack,2010.0,164000.0,AT,64.0,410000,660 RS 4WD,4A30,0.7 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-22 10:00:00
+436,Mitsubishi,RVR,jeep 5 doors,grey,GasolineMixBlack,2011.0,93000.0,CVT,139.0,998000,1.8 Roadest G,4J10,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-22 10:00:00
+269,Honda,Shuttle,station wagon,black,GasolineMixBlack,2017.0,11000.0,CVT,132.0,1145000, 1.5 G Honda Sensing,L15B,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-22 11:00:00
+338,Toyota,C-HR,jeep 5 doors,black,GasolineMixBlack,2017.0,83000.0,CVT,98.0,1661000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-22 12:00:00
+146,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,32000.0,AT,163.0,4199999, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-22 13:00:00
+158,Honda,Fit,hatchback 5 doors,blue,GasolineMixBlack,,164000.0,CVT,100.0,610000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-22 14:00:00
+941,Infiniti,QX56,jeep 5 doors,black,GasolineMixBlack,2010.0,186000.0,AT,405.0,2100000,5.6 QX56 7-местный,VK56VD,5.6 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-22 15:00:00
+708,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,Diesel,2017.0,77000.0,AT,177.0,3421000, 2.8 TX 5 seat Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-22 15:00:00
+950,Toyota,Noah,minivan,black,GasolineMixBlack,,92000.0,CVT,99.0,1781000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-22 16:00:00
+999,Toyota,Harrier,jeep 5 doors,silver,GasolineMixBlack,1997.0,466000.0,AT,220.0,531000,3.0 FOUR,1MZ-FE,3.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-22 16:00:00
+611,Toyota,Kluger V,jeep 5 doors,black,GasolineMixBlack,2003.0,110000.0,AT,220.0,559000,3.0 V S FOUR 4WD (5 seater),1MZ-FE,3.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-22 16:00:00
+32,Hyundai,ix55,jeep 5 doors,silver,Diesel,2009.0,303000.0,AT,239.0,841000,3.0D Luxury+Navi,D6EA,3.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-22 16:00:00
+645,Daihatsu,Move,hatchback 5 doors,whitemixblack,GasolineMixBlack,2017.0,110000.0,CVT,64.0,569000, 660 X Turbo SAIII,KF,0.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-22 18:00:00
+52,Toyota,Aqua,hatchback 5 doors,,GasolineMixBlack,2017.0,115000.0,CVT,74.0,935000, 1.5 S Style Black,1NZ-FXE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-22 18:00:00
+131,Lincoln,Town Car,sedan,blue,GasolineMixBlack,2000.0,127000.0,AT,220.0,649000,4.6 AT Executive,Modular V8,4.6 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-22 19:00:00
+812,Nissan,Murano,jeep 5 doors,blue,GasolineMixBlack,,186000.0,Automatic,265.0,821000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-22 20:00:00
+507,Suzuki,Swift,hatchback 5 doors,grey,GasolineMixBlack,,163000.0,AT,88.0,291000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-22 20:00:00
+718,Honda,Vezel,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,99000.0,Robot,132.0,1421000,1.5 Hybrid X L Package 4WD,LEB,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-22 20:00:00
+0,Fiat,124 Spider,open,blue,GasolineMixBlack,,8000.0,Automatic,,1831000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-22 21:00:00
+14,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,,24000.0,AT,163.0,3491000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-22 21:00:00
+182,Toyota,Ractis,hatchback 5 doors,green,GasolineMixBlack,2007.0,165000.0,CVT,87.0,421000,1.3 X HID selection II,2SZ-FE,1.3 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-22 22:00:00
+400,Toyota,Alphard,minivan,whitemixblack,GasolineMixBlack,2005.0,46000.0,AT,220.0,571000,3.0 G MX,1MZ-FE,3.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-22 23:00:00
+802,BMW,i8,coupe,grey,GasolineMixBlack,2014.0,25000.0,AT,231.0,7251000,1.5 AT,B38K15T0,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-22 23:00:00
+360,Honda,Stream,minivan,,GasolineMixBlack,2009.0,108000.0,AT,140.0,825000,1.8 ZS HDD NAVI package ,R18A,1.8 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-22 23:00:00
+195,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2010.0,173000.0,CVT,88.0,595000,1.3 smart selection,LDA,1.3 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-23 00:00:00
+949,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2009.0,310000.0,CVT,99.0,651000,1.8 S touring selection,2ZR-FXE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-23 00:00:00
+480,Toyota,Passo,hatchback 5 doors,silver,GasolineMixBlack,,54000.0,CVT,69.0,385000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-23 01:00:00
+314,Subaru,XV,jeep 5 doors,whitemixblack,GasolineMixBlack,2013.0,96000.0,CVT,150.0,1371000,Hybrid 2.0i-L EyeSight 4WD,FB20,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-23 02:00:00
+673,Volkswagen,Tiguan,jeep 5 doors,silver,GasolineMixBlack,2017.0,83000.0,Robot,220.0,3110000,2.0 TSI DSG 4Motion Sportline,CHHB,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-23 02:00:00
+945,Nissan,Note,hatchback 5 doors,grey,GasolineMixBlack,2015.0,104000.0,CVT,79.0,591000,1.2 X,HR12DE,1.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-23 05:00:00
+657,Lexus,RX450h,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,69000.0,CVT,262.0,3749000, RX450h F Sport 4WD,2GR-FXS,3.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-23 05:00:00
+743,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,17000.0,CVT,151.0,2425000, 2.0 Premium,3ZR-FAE,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-23 06:00:00
+634,Toyota,Wish,minivan,whitemixblack,GasolineMixBlack,2015.0,42000.0,CVT,143.0,1491000, 1.8 S,2ZR-FAE,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-23 08:00:00
+157,Honda,Vezel,jeep 5 doors,grey,GasolineMixBlack,2018.0,117000.0,Robot,132.0,1865000,1.5 Hybrid Z Honda Sensing 4WD,LEB,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-23 10:00:00
+110,Toyota,Crown,sedan,,GasolineMixBlack,2018.0,71000.0,CVT,184.0,2610000,2.5 RS Advance,A25A-FXS,2.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-23 10:00:00
+270,Toyota,C-HR,jeep 5 doors,whitemixblack,GasolineMixBlack,,17000.0,CVT,116.0,1471000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-23 12:00:00
+484,Toyota,Prius,liftback,black,GasolineMixBlack,,101000.0,CVT,99.0,1110000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-23 12:00:00
+137,Nissan,March,hatchback 5 doors,blue,GasolineMixBlack,2002.0,145000.0,AT,90.0,231000,1.2 rafeet ,CR12DE,1.2 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-23 13:00:00
+777,Toyota,Mark II,sedan,whitemixblack,GasolineMixBlack,1998.0,251000.0,AT,160.0,181000,2.0 Grande,1G-FE,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-23 14:00:00
+17,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,Diesel,2017.0,41000.0,AT,177.0,3451000, 2.8 TX 5 seat Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-23 14:00:00
+572,Toyota,Harrier,jeep 5 doors,black,GasolineMixBlack,2017.0,36000.0,CVT,151.0,2285000, 2.0 Progress Metal and Leather Package,3ZR-FAE,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-24 21:00:00
+374,Nissan,X-Trail,jeep 5 doors,black,GasolineMixBlack,,79000.0,CVT,147.0,1285000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-24 21:00:00
+425,Honda,Fit Shuttle,station wagon,grey,GasolineMixBlack,,162000.0,CVT,88.0,755000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-24 21:00:00
+464,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,Diesel,,210000.0,AT,232.0,3110000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-24 21:00:00
+930,Toyota,Windom,sedan,silver,GasolineMixBlack,,1000.0,AT,215.0,350001,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-24 22:00:00
+345,Toyota,Crown,sedan,silver,GasolineMixBlack,2018.0,199000.0,CVT,184.0,2571000,2.5 RS Advance,A25A-FXS,2.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-24 23:00:00
+891,Honda,Accord,sedan,black,GasolineMixBlack,2006.0,257000.0,AT,155.0,671000,2.0 20EL,K20A,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-25 00:00:00
+664,Mitsubishi,Mirage,hatchback 3 door,whitemixblack,GasolineMixBlack,1997.0,183000.0,AT,110.0,191000,1.5 Modarc,4G15,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-25 03:00:00
+66,Honda,Fit Shuttle,station wagon,black,GasolineMixBlack,2012.0,185000.0,CVT,88.0,759000,1.3 Smart selection,LDA,1.3 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-25 03:00:00
+530,Toyota,Noah,minivan,grey,GasolineMixBlack,2016.0,141000.0,CVT,152.0,1511000, 2.0 X V Package 4WD,3ZR-FAE,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-25 04:00:00
+230,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2009.0,64000.0,AT,163.0,2555555,2.7 TX L package 4WD,2TR-FE,2.7 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-25 04:00:00
+674,Toyota,Corsa,sedan,whitemixblack,GasolineMixBlack,1992.0,251000.0,AT,97.0,141000,1.3 TX,4E-FE,1.3 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-25 05:00:00
+933,Honda,Fit Shuttle,station wagon,blue,GasolineMixBlack,,131000.0,CVT,88.0,771000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-25 05:00:00
+258,Toyota,Noah,minivan,silver,GasolineMixBlack,2020.0,28000.0,CVT,99.0,1710000, 1.8 Hybrid X (7 Seater),2ZR-FXE,1.8 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-25 06:00:00
+879,Toyota,Prius,liftback,black,GasolineMixBlack,,165000.0,CVT,99.0,751000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-25 08:00:00
+693,Honda,Civic Ferio,sedan,whitemixblack,GasolineMixBlack,2003.0,321000.0,AT,105.0,121000,1.5 C,D15B,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-25 09:00:00
+292,Genesis,G70,sedan,black,GasolineMixBlack,,41000.0,AT,247.0,2210000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-25 09:00:00
+284,Toyota,Prius Alpha,minivan,black,GasolineMixBlack,2011.0,187000.0,CVT,99.0,1088000,1.8 G Touring selection 5 seater,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-25 09:00:00
+483,Honda,Stream,minivan,,GasolineMixBlack,2009.0,71000.0,AT,140.0,841000,1.8 X HDD NAVI package ,R18A,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-25 11:00:00
+908,Nissan,Dualis,jeep 5 doors,grey,GasolineMixBlack,,210000.0,CVT,137.0,731000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-25 12:00:00
+36,Nissan,Note,hatchback 5 doors,whitemixblack,GasolineMixBlack,2016.0,81000.0,AT,79.0,1111111, 1.2 e-POWER NISMO,HR12DE,1.2 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-25 12:00:00
+149,Mercedes-Benz,C-Class,sedan,black,GasolineMixBlack,2015.0,111000.0,AT,184.0,1851000,C 200 AT 4MATIC AMG Line,M 274 DE 20 AL,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-25 14:00:00
+934,Toyota,Rush,jeep 5 doors,silver,GasolineMixBlack,2010.0,37000.0,AT,109.0,1251000,1.5 G L package 4WD,3SZ-VE,1.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-25 15:00:00
+393,Honda,Accord,sedan,black,GasolineMixBlack,2008.0,222000.0,AT,201.0,821000,2.4 AT Type-S,K24Z3,2.4 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-25 16:00:00
+698,Toyota,Sprinter,sedan,whitemixblack,GasolineMixBlack,1991.0,1000.0,Manual,105.0,131000,1.5 SE limited,5A-FE,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-25 17:00:00
+469,Toyota,Prius,liftback,,GasolineMixBlack,2012.0,141000.0,CVT,99.0,1099000,1.8 S MY COORDE,2ZR-FXE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-25 18:00:00
+204,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2014.0,117000.0,Robot,110.0,895000,1.5 Hybrid S Package,LEB,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-25 20:00:00
+171,Subaru,Levorg,station wagon,black,GasolineMixBlack,2018.0,69000.0,CVT,170.0,1299999,1.6 GT EyeSight 4WD,FB16,1.6 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-25 21:00:00
+474,Mazda,Bongo,minivan,whitemixblack,GasolineMixBlack,,126000.0,AT,102.0,551000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-25 21:00:00
+271,Mini,Countryman,hatchback 5 doors,brown,GasolineMixBlack,2017.0,64000.0,AT,192.0,2181000,2.0 AТ Cooper S ALL4,B48A20,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-25 22:00:00
+394,Toyota,Wish,minivan,whitemixblack,GasolineMixBlack,,95000.0,CVT,143.0,1051000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-25 22:00:00
+282,Audi,A7,liftback,whitemixblack,GasolineMixBlack,,63000.0,Automatic,340.0,5610000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-25 23:00:00
+370,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,2018.0,91000.0,CVT,299.0,3899000,3.5 RS Advance,8GR-FXS,3.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-26 01:00:00
+877,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2012.0,121000.0,CVT,99.0,1121000,1.8 S,2ZR-FXE,1.8 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-26 05:00:00
+850,Toyota,Aqua,hatchback 5 doors,whitemixblack,GasolineMixBlack,2017.0,92000.0,CVT,74.0,931000, 1.5 S Style Black,1NZ-FXE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-26 05:00:00
+567,Toyota,Harrier,jeep 5 doors,black,GasolineMixBlack,2007.0,173000.0,AT,160.0,1100000,2.4 240G 4WD,2AZ-FE,2.4 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-26 05:00:00
+662,Mitsubishi,Outlander,jeep 5 doors,whitemixblack,GasolineMixBlack,,64000.0,CVT,146.0,1351000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-26 06:00:00
+885,Toyota,Land Cruiser,jeep 5 doors,grey,GasolineMixBlack,1996.0,225000.0,AT,215.0,1510000,4.5 80 VX limited 4WD,1FZ-FE,4.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-26 06:00:00
+457,Subaru,Forester,jeep 5 doors,black,GasolineMixBlack,2018.0,51000.0,CVT,184.0,2511000,2.5 Premium 4WD,FB25,2.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-26 07:00:00
+369,Toyota,Hilux,pickup,grey,Diesel,2021.0,,AT,150.0,3651000,2.4 Z Diesel Turbo 4WD,2GD-FTV,2.4 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-26 07:00:00
+91,Toyota,Alphard,minivan,whitemixblack,GasolineMixBlack,2018.0,61000.0,CVT,152.0,3621000,Hybrid 2.5 SR 4WD,2AR-FXE,2.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-26 08:00:00
+141,Toyota,Chaser,sedan,black,GasolineMixBlack,1996.0,151000.0,AT,200.0,445000,2.5 Tourer S,1JZ-GE,2.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-26 08:00:00
+253,Toyota,Sienta,minivan,yellow,GasolineMixBlack,2015.0,57000.0,CVT,109.0,1086000, 1.5 X (7 seater),2NR-FKE,1.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-26 08:00:00
+952,Toyota,Noah,minivan,black,GasolineMixBlack,,75000.0,CVT,99.0,2231000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-26 09:00:00
+493,Toyota,Crown,sedan,grey,GasolineMixBlack,,112000.0,CVT,184.0,2581000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-26 09:00:00
+287,Ford,Fiesta,hatchback 5 doors,burgundy,GasolineMixBlack,,35000.0,Automatic,100.0,810000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-26 10:00:00
+451,Nissan,Juke,jeep 5 doors,red,GasolineMixBlack,,148000.0,CVT,117.0,871000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-26 11:00:00
+904,Toyota,Chaser,sedan,whitemixblack,GasolineMixBlack,1998.0,181000.0,AT,200.0,535000,2.5 Tourer S,1JZ-GE,2.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-26 12:00:00
+166,Honda,Stepwgn,minivan,black,GasolineMixBlack,2018.0,91000.0,CVT,150.0,1961000,1.5 Spada Cool Spirit Honda Sensing Black Style,L15B,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-26 13:00:00
+10,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,21000.0,AT,231.0,3310000,2.0 Turbo Elegance GR Sport 4WD,8AR-FTS,2.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-26 14:00:00
+620,Toyota,Alphard,minivan,black,GasolineMixBlack,2018.0,43000.0,CVT,152.0,3851000,Hybrid 2.5 SR 4WD,2AR-FXE,2.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-26 15:00:00
+382,Nissan,Dualis,jeep 5 doors,burgundy,GasolineMixBlack,2010.0,172000.0,CVT,137.0,1015000,2.0 20G,MR20DE,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-26 16:00:00
+290,Maserati,Levante,jeep 5 doors,black,GasolineMixBlack,2016.0,38000.0,AT,350.0,3910000,3.0 AT Modena,Ferrari F160,3.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-26 16:00:00
+245,Jeep,Cherokee,jeep 3 doors,black,GasolineMixBlack,1988.0,173000.0,AT,177.0,510000,4.0 AT 4X4 Limited,ERH,4.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-26 17:00:00
+542,Honda,Fit,hatchback 5 doors,black,GasolineMixBlack,,210000.0,CVT,86.0,315000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-26 17:00:00
+570,Toyota,Corolla Axio,sedan,whitemixblack,GasolineMixBlack,,117000.0,CVT,105.0,581000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-26 17:00:00
+163,Toyota,Voxy,minivan,black,GasolineMixBlack,2017.0,79000.0,CVT,99.0,1865000, 1.8 Hybrid ZS Kirameki (7 Seater),2ZR-FXE,1.8 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-26 18:00:00
+465,Toyota,Voxy,minivan,whitemixblack,GasolineMixBlack,,189000.0,CVT,158.0,981000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-26 18:00:00
+696,Lexus,LX450d,jeep 5 doors,grey,Diesel,2015.0,45000.0,AT,272.0,11000000,4.5D AT Executive 2,1VD-FTV,4.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-26 19:00:00
+84,Toyota,Land Cruiser Prado,jeep 5 doors,black,Diesel,2010.0,176000.0,AT,173.0,2549000,3.0 AT 5dr.,1KD-FTV,3.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-26 19:00:00
+260,Toyota,RAV4,jeep 5 doors,whitemixblack,GasolineMixBlack,2020.0,22000.0,CVT,149.0,3151000,2.0 CVT 4WD Style,M20A-FKS,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-26 20:00:00
+73,Honda,CR-Z,hatchback 3 door,red,GasolineMixBlack,2010.0,128000.0,CVT,113.0,656000,1.5 Alpha,LEA,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-26 21:00:00
+384,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2009.0,153000.0,AT,163.0,2310000,2.7 TX 5 seat 4WD,2TR-FE,2.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-26 21:00:00
+331,Honda,Vezel,jeep 5 doors,grey,GasolineMixBlack,2016.0,17000.0,Robot,132.0,1585000,1.5 Hybrid X Honda Sensing,LEB,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-26 21:00:00
+324,Toyota,Probox,station wagon,whitemixblack,GasolineMixBlack,2016.0,112000.0,CVT,109.0,771000, 1.5 GL,1NZ-FE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-26 21:00:00
+529,Mercedes-Benz,M-Class,jeep 5 doors,whitemixblack,GasolineMixBlack,2014.0,111000.0,AT,525.0,3541000,ML 63 AMG,M 157 DE 55 AL,5.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-26 23:00:00
+655,Suzuki,Jimny,jeep 3 doors,blue,GasolineMixBlack,2008.0,82000.0,Manual,64.0,565000,660 Land Venture 4WD,K6A,0.7 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-26 23:00:00
+697,Toyota,Land Cruiser,jeep 5 doors,grey,Diesel,,310000.0,Manual,,1251000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-27 01:00:00
+744,Toyota,Hilux,pickup,burgundy,Diesel,,310000.0,Manual,91.0,651000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-27 02:00:00
+399,Toyota,Allion,sedan,whitemixblack,GasolineMixBlack,,55000.0,CVT,144.0,1045000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-27 02:00:00
+761,Mazda,Familia,station wagon,whitemixblack,GasolineMixBlack,1999.0,1000.0,AT,120.0,165000,1.8 DX 4WD,QG18DE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-27 02:00:00
+578,Toyota,Corolla Fielder,station wagon,,GasolineMixBlack,2017.0,61000.0,CVT,109.0,1031000,1.5 X,2NR-FKE,1.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-27 03:00:00
+687,Toyota,Caldina,station wagon,whitemixblack,GasolineMixBlack,2003.0,126000.0,AT,132.0,565000,1.8 Z,1ZZ-FE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-27 03:00:00
+717,Suzuki,Wagon R,hatchback 5 doors,blue,GasolineMixBlack,,48000.0,CVT,52.0,495000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-27 04:00:00
+679,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,,310000.0,AT,230.0,241000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-27 04:00:00
+825,Toyota,Land Cruiser Prado,jeep 5 doors,black,Diesel,2015.0,71000.0,AT,177.0,3110000, 2.8 TX L Package Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-27 05:00:00
+747,Toyota,C-HR,jeep 5 doors,grey,GasolineMixBlack,2017.0,31000.0,CVT,98.0,1851000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-27 05:00:00
+813,Nissan,DAYZ,hatchback 5 doors,,GasolineMixBlack,,71000.0,CVT,64.0,495000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-27 05:00:00
+306,Nissan,Note,hatchback 5 doors,brown,GasolineMixBlack,2017.0,77000.0,CVT,79.0,751000,1.2 X Black Arrow,HR12DE,1.2 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-27 07:00:00
+74,Toyota,C-HR,jeep 5 doors,blue,GasolineMixBlack,2017.0,37000.0,CVT,116.0,1691000, 1.2 G-T LED Edition 4WD,8NR-FTS,1.2 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-27 07:00:00
+445,Honda,Insight,sedan,black,GasolineMixBlack,2018.0,33000.0,CVT,109.0,1895000,1.5 EX,LEB,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-27 08:00:00
+499,Toyota,C-HR,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,68000.0,CVT,98.0,2100000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-27 08:00:00
+940,Toyota,Corolla Axio,sedan,grey,,,145000.0,Automatic,,881000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-27 09:00:00
+617,Toyota,Estima,minivan,black,GasolineMixBlack,2007.0,127000.0,AT,280.0,539000,3.5 Aeras S package (8 Seater),2GR-FE,3.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-27 09:00:00
+417,Nissan,Gloria,sedan,blue,GasolineMixBlack,1999.0,269000.0,AT,240.0,371000,3.0 300TX,VQ30DD,3.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-27 11:00:00
+176,Lexus,NX200,jeep 5 doors,black,GasolineMixBlack,2017.0,61000.0,CVT,150.0,3051000,2.0 CVT AWD Luxury,3ZR-FAE,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-27 11:00:00
+475,Nissan,Cedric,sedan,black,GasolineMixBlack,1999.0,299000.0,AT,125.0,134999,2.0 Brougham 3 number car ,VG20E,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-27 11:00:00
+473,Toyota,Hiace,minivan,whitemixblack,Diesel,,131000.0,Automatic,144.0,2751000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-27 15:00:00
+227,Mitsubishi,Outlander,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,98000.0,AT,118.0,1755000,PHEV 2.0 G NAVI Package 4WD,4B11,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-27 17:00:00
+771,Land Rover,Range Rover Sport,jeep 5 doors,grey,Diesel,2009.0,137000.0,AT,245.0,1870870,3.0 TD AT HSE ,30DDTX,3.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-27 17:00:00
+833,Toyota,Hilux,pickup,whitemixblack,Diesel,2021.0,,AT,150.0,4151000,2.4 Z GR Sport Diesel Turbo 4WD,2GD-FTV,2.4 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-27 18:00:00
+527,Audi,Q7,jeep 5 doors,whitemixblack,Diesel,,125000.0,AT,249.0,3210000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-27 18:00:00
+730,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,,210000.0,AT,180.0,271000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-27 18:00:00
+336,Lexus,NX300h,jeep 5 doors,burgundy,GasolineMixBlack,2014.0,151000.0,CVT,152.0,2681000,300h F Sport 4WD,2AR-FXE,2.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-27 18:00:00
+123,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,24000.0,AT,163.0,3471000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-27 18:00:00
+424,Toyota,Prius,liftback,,GasolineMixBlack,2017.0,106000.0,CVT,98.0,1435000,1.8 A Touring Selection E-Four 4WD,2ZR-FXE,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-27 18:00:00
+920,Toyota,Hilux Surf,jeep 5 doors,grey,,,381000.0,,,751000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-27 19:00:00
+808,Honda,CR-V,jeep 5 doors,silver,GasolineMixBlack,,255000.0,Automatic,170.0,1110000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-27 20:00:00
+780,Honda,N-WGN,hatchback 5 doors,black,GasolineMixBlack,,41000.0,CVT,58.0,491000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-27 20:00:00
+967,Toyota,Cresta,sedan,grey,GasolineMixBlack,1995.0,267000.0,AT,135.0,265000,2.0 Super Lucent,1G-FE,2.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-27 20:00:00
+969,Subaru,Impreza,sedan,grey,GasolineMixBlack,2010.0,197000.0,AT,110.0,551000,Anesis 1.5 i-L 4WD,EL15,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-28 00:00:00
+506,Nissan,X-Trail,jeep 5 doors,red,GasolineMixBlack,2010.0,231000.0,CVT,170.0,999000,2.5 25X 4WD,QR25DE,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-28 00:00:00
+614,Subaru,Forester,jeep 5 doors,whitemixblack,GasolineMixBlack,2009.0,131000.0,Manual,230.0,559000,2.0 XT 4WD,EJ20,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-28 02:00:00
+118,Toyota,Vitz,hatchback 5 doors,whitemixblack,GasolineMixBlack,2002.0,192000.0,AT,87.0,353000,1.3 F L package ,2NZ-FE,1.3 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-28 02:00:00
+433,Hyundai,Santa Fe,jeep 5 doors,black,GasolineMixBlack,2017.0,61000.0,AT,171.0,2110000,2.4 AT 4WD Dynamic,G4KE,2.4 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-28 03:00:00
+378,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,GasolineMixBlack,2000.0,255000.0,AT,235.0,1510000,4.7 100 VX 4WD,2UZ-FE,4.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-28 03:00:00
+456,Daihatsu,Move,hatchback 5 doors,grey,GasolineMixBlack,2008.0,132000.0,CVT,64.0,351000,660 custom RS,KF-DET,0.7 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-28 04:00:00
+751,Toyota,Harrier,jeep 5 doors,black,GasolineMixBlack,,181000.0,AT,220.0,1110000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-28 04:00:00
+133,Honda,Insight,liftback,blue,GasolineMixBlack,2009.0,211000.0,CVT,88.0,561000,1.3 L,LDA,1.3 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-28 05:00:00
+145,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,38000.0,AT,163.0,3899999, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-28 07:00:00
+523,Toyota,Corolla,station wagon,whitemixblack,GasolineMixBlack,,351000.0,AT,80.0,221000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-28 07:00:00
+770,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,Diesel,,241000.0,AT,196.0,1841000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-28 07:00:00
+915,Toyota,Voxy,minivan,whitemixblack,GasolineMixBlack,2016.0,104000.0,CVT,152.0,1851000, 2.0 ZS Kirameki II (8 Seater),3ZR-FAE,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-28 09:00:00
+535,Mazda,Demio,hatchback 5 doors,grey,GasolineMixBlack,,121000.0,AT,92.0,651000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-28 11:00:00
+883,Toyota,Mark II,sedan,,GasolineMixBlack,2000.0,111000.0,AT,160.0,531000,2.0 Grande,1G-FE,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-28 11:00:00
+53,Toyota,Supra,coupe,grey,GasolineMixBlack,2019.0,11000.0,AT,258.0,3299000,2.0 SZ-R,B48B20,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-28 11:00:00
+970,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,Diesel,2017.0,54000.0,AT,177.0,4151000, 2.8 TZ-G Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-28 12:00:00
+57,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2013.0,71000.0,CVT,151.0,2051000,2.0 Elegance 4WD,3ZR-FAE,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-28 13:00:00
+187,Honda,Freed,minivan,black,GasolineMixBlack,2012.0,95000.0,CVT,118.0,857000,1.5 G Aero (6-Seater),L15A,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-28 15:00:00
+79,Toyota,Prius,liftback,black,GasolineMixBlack,2009.0,241000.0,CVT,99.0,810000,1.8 G touring selection leather package,2ZR-FXE,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-28 16:00:00
+239,Nissan,Wingroad,station wagon,whitemixblack,GasolineMixBlack,2010.0,121000.0,CVT,128.0,631000,1.8 18G authentic Rider ,MR18DE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-28 17:00:00
+981,Daihatsu,Move,hatchback 5 doors,black,GasolineMixBlack,2015.0,121000.0,CVT,52.0,545000, 660 Custom X SAII,KF,0.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-28 17:00:00
+960,Lexus,GX470,jeep 5 doors,grey,GasolineMixBlack,2005.0,151000.0,AT,263.0,1410000,4.7 Sport,2UZ-FE,4.7 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-28 18:00:00
+78,Suzuki,Escudo,jeep 5 doors,whitemixblack,GasolineMixBlack,2000.0,159000.0,AT,140.0,695000,2.0,J20A,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-28 18:00:00
+509,Toyota,Vellfire,minivan,black,GasolineMixBlack,2018.0,51000.0,CVT,152.0,2991000,Hybrid 2.5 ZR 4WD,2AR-FXE,2.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-28 18:00:00
+174,Honda,Vezel,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,,CVT,118.0,2281000,1.5 G,L15Z,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-28 18:00:00
+776,Toyota,Prius,liftback,beige,GasolineMixBlack,2007.0,183000.0,CVT,76.0,731000,1.5 G touring selection leather package,1NZ-FXE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-28 20:00:00
+520,Toyota,Corolla,station wagon,,GasolineMixBlack,1998.0,194000.0,AT,100.0,151000,1.5 touring wagon G touring,5A-FE,1.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-28 22:00:00
+283,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2009.0,131000.0,AT,276.0,2751000,4.0 TZ 4WD,1GR-FE,4.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-28 22:00:00
+801,Honda,Vezel,jeep 5 doors,black,GasolineMixBlack,2016.0,53000.0,Robot,132.0,1515000,1.5 Hybrid Z Honda Sensing,LEB,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-29 01:00:00
+93,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,2014.0,116000.0,CVT,178.0,1751000,Hybrid 2.5 Royal Saloon,2AR-FSE,2.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-29 01:00:00
+882,Mercedes-Benz,GLK-Class,jeep 5 doors,black,Diesel,,211000.0,Automatic,170.0,1251000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-29 05:00:00
+27,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,2017.0,73000.0,CVT,178.0,2499000,Hybrid 2.5 Athlete S J Frontier Limited,2AR-FSE,2.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-29 05:00:00
+404,Honda,Fit Shuttle,station wagon,,GasolineMixBlack,,105000.0,CVT,88.0,778000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-29 06:00:00
+857,Toyota,Prius,liftback,grey,GasolineMixBlack,,183000.0,CVT,76.0,591000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-29 06:00:00
+995,Suzuki,Swift,hatchback 5 doors,whitemixblack,GasolineMixBlack,2017.0,29000.0,Manual,140.0,1291000,Sport 1.4,K14C,1.4 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-29 06:00:00
+246,Land Rover,Range Rover,jeep 5 doors,black,GasolineMixBlack,2012.0,71000.0,AT,510.0,4210000,5.0 S/C AT Autobiography ,508PS,5.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-29 07:00:00
+109,Toyota,Roomy,hatchback 5 doors,red,GasolineMixBlack,2018.0,6000.0,CVT,69.0,907000, 1.0 X S,1KR-FE,1.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-29 07:00:00
+795,Daihatsu,Tanto,hatchback 5 doors,whitemixblack,GasolineMixBlack,2008.0,162000.0,CVT,58.0,411000,660 custom X limited,KF-VE,0.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-29 08:00:00
+874,Subaru,Legacy,station wagon,green,GasolineMixBlack,1994.0,171000.0,AT,160.0,151000,2.5 touring wagon 250T,EJ25,2.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-29 09:00:00
+450,Toyota,Sienta,minivan,,GasolineMixBlack,,138000.0,CVT,110.0,815000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-29 10:00:00
+308,Toyota,C-HR,jeep 5 doors,silver,GasolineMixBlack,2018.0,92000.0,CVT,116.0,1421000,1.2 S-T,8NR-FTS,1.2 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-29 11:00:00
+344,Nissan,Note,hatchback 5 doors,burgundy,GasolineMixBlack,2009.0,173000.0,AT,109.0,475000,1.5 15G FOUR 4WD,HR15DE,1.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-08-29 11:00:00
+912,Honda,Vezel,jeep 5 doors,black,GasolineMixBlack,2013.0,117000.0,Robot,132.0,1410000,1.5 Hybrid 4WD,LEB,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-29 11:00:00
+39,Audi,TT,open,yellow,GasolineMixBlack,,34000.0,Automatic,230.0,2991000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-29 12:00:00
+818,Suzuki,Grand Vitara,jeep 5 doors,silver,GasolineMixBlack,,151000.0,AT,166.0,1081000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-29 13:00:00
+815,Toyota,Vista,sedan,green,GasolineMixBlack,,210000.0,AT,145.0,355000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-29 15:00:00
+518,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,Diesel,,251000.0,AT,170.0,1710000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-29 16:00:00
+754,Nissan,Serena,minivan,whitemixblack,GasolineMixBlack,,48000.0,AT,84.0,2021000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-29 16:00:00
+723,Honda,HR-V,jeep 5 doors,,GasolineMixBlack,,171000.0,Automatic,,195000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-29 18:00:00
+557,Lexus,RX450h,jeep 5 doors,black,GasolineMixBlack,2015.0,108000.0,CVT,262.0,3751000, RX450h F Sport 4WD,2GR-FXS,3.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-29 19:00:00
+712,Nissan,Tiida,hatchback 5 doors,grey,GasolineMixBlack,2009.0,74000.0,AT,109.0,651000,1.5 15S,HR15DE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-29 19:00:00
+667,Honda,Vezel,jeep 5 doors,black,GasolineMixBlack,2013.0,64000.0,Robot,132.0,1425000,1.5 Hybrid X L Package 4WD,LEB,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-29 20:00:00
+984,Toyota,Mark II,sedan,whitemixblack,GasolineMixBlack,2000.0,210000.0,AT,160.0,410000,2.0 Grande,1G-FE,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-29 20:00:00
+827,Honda,Vezel,jeep 5 doors,burgundy,GasolineMixBlack,2015.0,71000.0,Robot,132.0,1385000,1.5 Hybrid X L Package 4WD,LEB,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-29 21:00:00
+81,Toyota,Corsa,sedan,silver,GasolineMixBlack,1992.0,252000.0,Manual,100.0,115000,1.5 VIT-X,5E-FE,1.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-29 21:00:00
+681,Mitsubishi,Outlander,jeep 5 doors,whitemixblack,GasolineMixBlack,2014.0,123000.0,CVT,146.0,1451000,2.0 CVT 4WD Instyle,4B11,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-29 22:00:00
+421,Nissan,X-Trail,jeep 5 doors,red,GasolineMixBlack,2014.0,152000.0,CVT,147.0,1321000,2.0 20X Black X-Tremer X Emergency Brake Package 5-seat 4WD,MR20DD,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-29 22:00:00
+938,Toyota,Roomy,hatchback 5 doors,green,GasolineMixBlack,2016.0,122000.0,CVT,69.0,704000, 1.0 X S,1KR-FE,1.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-29 23:00:00
+786,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2012.0,131000.0,CVT,99.0,931000,1.8 S,2ZR-FXE,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-29 23:00:00
+504,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2009.0,151000.0,AT,276.0,2551000,4.0 TZ 4WD,1GR-FE,4.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-30 00:00:00
+890,Nissan,Vanette,minivan,whitemixblack,GasolineMixBlack,,181000.0,AT,102.0,651000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-30 01:00:00
+726,Toyota,Rush,jeep 5 doors,golden,GasolineMixBlack,,62000.0,Manual,109.0,1155000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-30 01:00:00
+183,Suzuki,Jimny,jeep 3 doors,grey,GasolineMixBlack,2006.0,126000.0,Manual,64.0,491000,660 Wild Wind 4WD,K6A,0.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-30 05:00:00
+355,Honda,Grace,sedan,brown,GasolineMixBlack,2015.0,33000.0,Robot,110.0,1051000, 1.5 Hybrid EX,LEB,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-30 06:00:00
+408,Toyota,Vitz,hatchback 5 doors,silver,GasolineMixBlack,2012.0,49000.0,CVT,69.0,599999,1.0 F Smile Edition,1KR-FE,1.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-30 06:00:00
+107,Toyota,RAV4,jeep 5 doors,black,GasolineMixBlack,2016.0,82000.0,AT,180.0,2631000,2.5 AT 4WD Престиж Safety,2AR-FE,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-30 07:00:00
+987,Mazda,Familia,sedan,whitemixblack,GasolineMixBlack,2002.0,151000.0,AT,110.0,79000,1.5 LS,ZL-DE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-30 09:00:00
+959,Toyota,Vitz,hatchback 5 doors,,GasolineMixBlack,,81000.0,CVT,69.0,731000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-30 11:00:00
+764,Toyota,ist,hatchback 5 doors,whitemixblack,GasolineMixBlack,,191000.0,AT,87.0,415000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-30 11:00:00
+278,Nissan,Cube,hatchback 5 doors,whitemixblack,GasolineMixBlack,,187000.0,CVT,109.0,421000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-30 11:00:00
+46,Mazda,Demio,hatchback 5 doors,red,GasolineMixBlack,2017.0,62000.0,Manual,116.0,961000,1.5 15MB,P5-VPS,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-30 13:00:00
+706,Toyota,Corolla Fielder,station wagon,black,GasolineMixBlack,2015.0,252000.0,CVT,74.0,891000, 1.5 Hybrid,1NZ-FXE,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-30 18:00:00
+334,Toyota,Premio,sedan,silver,GasolineMixBlack,2016.0,152000.0,CVT,131.0,1210000, 1.8 X L Package 4WD,2ZR-FAE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-30 18:00:00
+841,Lexus,LX570,jeep 5 doors,black,GasolineMixBlack,2018.0,1000.0,AT,367.0,11710000,5.7 AT Black Vision,3UR-FE,5.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-08-30 18:00:00
+4,Audi,Q7,jeep 5 doors,whitemixblack,GasolineMixBlack,,67000.0,Automatic,252.0,3310000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-30 19:00:00
+514,Honda,Vezel,jeep 5 doors,,GasolineMixBlack,2016.0,52000.0,CVT,131.0,1410000, 1.5 X Honda Sensing,L15B,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-30 19:00:00
+497,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,Diesel,2018.0,158000.0,AT,249.0,6499000,4.5 TD AT Executive Lounge,1VD-FTV,4.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-30 20:00:00
+856,Mitsubishi,Pajero,jeep 5 doors,whitemixblack,GasolineMixBlack,,310000.0,AT,220.0,551000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-30 20:00:00
+179,SsangYong,Rexton,jeep 5 doors,black,Diesel,2020.0,13000.0,AT,202.0,3271000,2.2 D AT 4WD 7-seater,e-XDi220,2.2 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-30 20:00:00
+233,Honda,Accord,sedan,silver,GasolineMixBlack,2013.0,141000.0,CVT,143.0,1471000,2.0 LX,LFA,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-08-30 20:00:00
+23,Lexus,LX570,jeep 5 doors,whitemixblack,GasolineMixBlack,2012.0,124000.0,AT,367.0,6910000,5.7 AT Luxury 8S ,3UR-FE,5.7 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-30 21:00:00
+155,Nissan,Note,hatchback 5 doors,whitemixblack,GasolineMixBlack,2017.0,82000.0,AT,79.0,810000, 1.2 e-POWER X,HR12DE,1.2 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-30 23:00:00
+525,Honda,Fit Shuttle,station wagon,grey,GasolineMixBlack,,183000.0,CVT,120.0,651000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-08-30 23:00:00
+47,Jaguar,F-Type,coupe,whitemixblack,GasolineMixBlack,,29000.0,Automatic,340.0,3971000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-31 00:00:00
+277,Honda,Accord,station wagon,black,GasolineMixBlack,,151000.0,AT,156.0,1251000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-08-31 00:00:00
+348,Toyota,Vanguard,jeep 5 doors,whitemixblack,GasolineMixBlack,2008.0,191000.0,CVT,170.0,1151000,2.4 240S G package 4WD (5 Seater),2AZ-FE,2.4 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-31 01:00:00
+773,Lexus,RX450h,jeep 5 doors,whitemixblack,GasolineMixBlack,2009.0,207000.0,AT,249.0,1810000,3.5 CVT 4WD,2GR-FXE,3.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-31 01:00:00
+443,Nissan,Serena,minivan,whitemixblack,GasolineMixBlack,2001.0,151000.0,CVT,147.0,351000,2.0 V-G Navi package (7 Seater),QR20DE,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-31 02:00:00
+294,Mazda,CX-8,jeep 5 doors,grey,Diesel,2017.0,172000.0,AT,190.0,1810000,2.2 XD Diesel Turbo 6 seat,SH-VPTS,2.2 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 03:00:00
+663,Toyota,Corolla Fielder,station wagon,grey,GasolineMixBlack,2008.0,154000.0,CVT,125.0,710000,1.8 S 4WD,2ZR-FE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-31 03:00:00
+120,Hyundai,Palisade,jeep 5 doors,black,Diesel,2018.0,58000.0,AT,202.0,3291000,2.2 AT 4WD Prestige 7 seats,D4HB,2.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-31 05:00:00
+872,Toyota,Corona,sedan,green,GasolineMixBlack,1992.0,1000.0,AT,135.0,151000,2.0 EX saloon,3S-FE,2.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-31 06:00:00
+937,Toyota,Camry,sedan,whitemixblack,GasolineMixBlack,2012.0,131000.0,CVT,160.0,1415000,2.5 leather package,2AR-FXE,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-08-31 06:00:00
+162,Toyota,Mark II,sedan,grey,GasolineMixBlack,1995.0,171000.0,AT,180.0,310000,2.5 Grande G,1JZ-GE,2.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-31 07:00:00
+372,Toyota,Prius,sedan,grey,GasolineMixBlack,,131000.0,Automatic,76.0,531000,,,,"Long Biên, Hà Nội, Việt Nam",2022-08-31 09:00:00
+100,Lexus,RX200t,jeep 5 doors,brown,GasolineMixBlack,2017.0,107000.0,AT,238.0,3810000,2.0t AT AWD Executive+,8AR-FTS,2.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-08-31 10:00:00
+29,Mazda,CX-5,jeep 5 doors,red,Diesel,2017.0,27000.0,AT,175.0,1751000, 2.2 XD PROACTIVE Diesel Turbo,SH-VPTS,2.2 LTR,"Long Biên, Hà Nội, Việt Nam",2022-08-31 11:00:00
+948,Honda,Stepwgn,minivan,black,GasolineMixBlack,,76000.0,CVT,150.0,1541000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-08-31 12:00:00
+448,Toyota,Sai,sedan,whitemixblack,GasolineMixBlack,,191000.0,CVT,150.0,849000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 13:00:00
+905,Toyota,RAV4,jeep 5 doors,grey,GasolineMixBlack,2015.0,53000.0,CVT,154.0,2710000,2.5 CVT 4WD Limited Hybrid,2AR-FXE,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 13:00:00
+327,Toyota,Land Cruiser,jeep 5 doors,black,Diesel,2015.0,202000.0,AT,249.0,4610000,4.5 TD AT Люкс Safety (5 мест) ,1VD-FTV,4.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-31 13:00:00
+296,Toyota,Sienta,minivan,red,GasolineMixBlack,2013.0,108000.0,CVT,110.0,751000,1.5 Dice,1NZ-FE,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 14:00:00
+49,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,Diesel,2015.0,102000.0,AT,249.0,5835000,4.5 TD AT Люкс Safety (5 мест) ,1VD-FTV,4.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 17:00:00
+648,Toyota,Aqua,hatchback 5 doors,whitemixblack,GasolineMixBlack,2019.0,55000.0,CVT,74.0,1195000, 1.5 Crossover Glam,1NZ-FXE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 20:00:00
+569,Honda,Vezel,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,148000.0,Robot,132.0,1245000,1.5 Hybrid X 4WD,LEB,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-08-31 21:00:00
+396,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2009.0,191000.0,AT,163.0,1881000,2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-08-31 21:00:00
+19,Nissan,Serena,minivan,,GasolineMixBlack,2018.0,51000.0,AT,84.0,1965000,1.2 e-Power Highway Star V,HR12DE,1.2 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-08-31 22:00:00
+148,Toyota,Corolla Axio,sedan,whitemixblack,GasolineMixBlack,2015.0,59000.0,Manual,109.0,825000, 1.5 X,1NZ-FE,1.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-08-31 22:00:00
+502,Honda,CR-V,jeep 5 doors,whitemixblack,GasolineMixBlack,,211000.0,AT,150.0,441000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-31 23:00:00
+383,Toyota,Probox,station wagon,whitemixblack,GasolineMixBlack,,187000.0,AT,109.0,311000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-08-31 23:00:00
+431,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,61000.0,AT,163.0,3100000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-01 00:00:00
+860,Mitsubishi,Pajero Mini,jeep 3 doors,whitemixblack,GasolineMixBlack,1997.0,99000.0,AT,52.0,245000,660 XR-I,4A30,0.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-01 01:00:00
+69,Toyota,Prius PHV,liftback,black,GasolineMixBlack,2013.0,91000.0,CVT,99.0,1210000,1.8 G Leather Package,2ZR-FXE,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 02:00:00
+668,Toyota,RAV4,jeep 5 doors,black,GasolineMixBlack,2019.0,31000.0,CVT,171.0,2710000,2.0 Adventure 4WD,M20A-FKS,2.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 02:00:00
+840,Lada,2105,sedan,blue,GasolineMixBlack,2006.0,49000.0,Manual,72.0,131000,1.6 MT 21054-30,VAZ-21067,1.6 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 03:00:00
+533,Land Rover,Range Rover Evoque,jeep 5 doors,brown,GasolineMixBlack,2011.0,112000.0,AT,240.0,2651000,2.0 Si AT Dynamic 5dr.,204PT,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-01 03:00:00
+893,Toyota,Ipsum,minivan,grey,GasolineMixBlack,,111000.0,AT,135.0,341000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-01 05:00:00
+753,Subaru,Impreza,hatchback 5 doors,,GasolineMixBlack,2019.0,6000.0,CVT,154.0,1491000,Sport 2.0 i-L EyeSight 4WD,FB20,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-01 06:00:00
+121,Honda,Fit,hatchback 5 doors,red,GasolineMixBlack,2016.0,43000.0,CVT,100.0,905000, 1.3 13G L Package Fine Edition,L13B,1.3 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-01 06:00:00
+496,Honda,Stream,minivan,black,GasolineMixBlack,2009.0,161000.0,AT,140.0,871000,1.8 RSZ,R18A,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 06:00:00
+161,Toyota,C-HR,jeep 5 doors,,GasolineMixBlack,2017.0,84000.0,CVT,98.0,1791000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-01 09:00:00
+545,Mercedes-Benz,S-Class,sedan,,Diesel,2015.0,45000.0,AT,204.0,4061000,S 300 h AT,OM 651 DE 22 LA,2.1 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-01 10:00:00
+295,Subaru,Levorg,station wagon,silver,GasolineMixBlack,2014.0,147000.0,CVT,170.0,1210000,1.6 GT-S EyeSight 4WD,FB16,1.6 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-01 10:00:00
+97,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2008.0,187000.0,CVT,76.0,685000,1.5 S 10th anniversary edition,1NZ-FXE,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-01 11:00:00
+642,Honda,Fit Shuttle,station wagon,violet,GasolineMixBlack,2013.0,118000.0,CVT,120.0,850007,1.5 15C,L15A,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-01 11:00:00
+942,Toyota,Harrier,jeep 5 doors,golden,GasolineMixBlack,2001.0,211000.0,AT,160.0,751000,2.4 FOUR prime selection,2AZ-FE,2.4 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 11:00:00
+432,Subaru,Forester,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,,CVT,145.0,3651000,2.0 X-BREAK 4WD,FB20,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 11:00:00
+532,Toyota,Ipsum,minivan,grey,GasolineMixBlack,2002.0,207000.0,AT,160.0,551000,2.4 240i type S,2AZ-FE,2.4 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-01 13:00:00
+122,Mercedes-Benz,M-Class,jeep 5 doors,whitemixblack,GasolineMixBlack,,142000.0,AT,249.0,2051000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-01 16:00:00
+550,Nissan,AD,station wagon,whitemixblack,GasolineMixBlack,2013.0,52000.0,AT,109.0,715000, 1.6 GX 4WD,HR16DE,1.6 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-01 16:00:00
+30,Toyota,Camry,sedan,brown,GasolineMixBlack,,110000.0,CVT,178.0,1771000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-01 18:00:00
+102,Suzuki,Jimny,jeep 3 doors,black,GasolineMixBlack,2014.0,210000.0,AT,64.0,695000,660 Land Venture 4WD,K6A,0.7 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-01 20:00:00
+67,Audi,Q3,jeep 5 doors,grey,GasolineMixBlack,,34000.0,Automatic,211.0,1741000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-01 21:00:00
+863,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,,252000.0,CVT,99.0,791000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-01 21:00:00
+601,Honda,Shuttle,station wagon,grey,GasolineMixBlack,2017.0,68000.0,Robot,110.0,1085000, 1.5 Hybrid X Honda Sensing,LEB,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-01 22:00:00
+505,Subaru,Levorg,station wagon,,GasolineMixBlack,2014.0,137000.0,CVT,300.0,1451000,2.0 GT EyeSight 4WD,FA20,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-01 23:00:00
+541,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,34000.0,CVT,151.0,2545000, 2.0 Premium,3ZR-FAE,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-01 23:00:00
+598,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,25000.0,AT,163.0,3859000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-01 23:00:00
+335,Lexus,LX570,jeep 5 doors,black,GasolineMixBlack,2016.0,76000.0,AT,367.0,7991000,5.7 AT Luxury 21 +,3UR-FE,5.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-01 23:00:00
+627,Subaru,Outback,jeep 5 doors,whitemixblack,GasolineMixBlack,2011.0,112000.0,CVT,170.0,449000,2.5 i EyeSight S package limited 4WD,EJ25,2.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-02 00:00:00
+600,Honda,CR-V,jeep 5 doors,whitemixblack,GasolineMixBlack,2018.0,34000.0,CVT,145.0,2759000,2.0 Hybrid EX Masterpiece 5-seater 4WD,LFB,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-02 01:00:00
+48,Honda,CR-V,jeep 5 doors,whitemixblack,GasolineMixBlack,1997.0,157000.0,AT,130.0,225000,2.0 Smart Scape,B20B,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-02 02:00:00
+503,Toyota,Crown,sedan,,GasolineMixBlack,2018.0,91000.0,CVT,184.0,2710000,2.5 RS ,A25A-FXS,2.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-02 02:00:00
+829,Toyota,Voxy,minivan,black,GasolineMixBlack,2017.0,77000.0,CVT,99.0,2151000, 1.8 Hybrid ZS Kirameki (7 Seater),2ZR-FXE,1.8 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-02 03:00:00
+286,Toyota,Land Cruiser Prado,jeep 5 doors,brown,GasolineMixBlack,2021.0,,AT,163.0,4751000, 2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-02 03:00:00
+244,Toyota,Gaia,minivan,whitemixblack,GasolineMixBlack,1998.0,55000.0,AT,135.0,465000,2.0 G package (7 Seater),3S-FE,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-02 05:00:00
+779,Toyota,Aqua,hatchback 5 doors,black,GasolineMixBlack,,68000.0,CVT,74.0,905000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-02 05:00:00
+311,Lexus,LS500,sedan,silver,GasolineMixBlack,2017.0,53000.0,AT,422.0,4510000,500 F Sport 4WD,V35A-FTS,3.4 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-02 05:00:00
+99,Lexus,CT200h,hatchback 5 doors,whitemixblack,GasolineMixBlack,2012.0,141000.0,CVT,99.0,1381000,200h version L,2ZR-FXE,1.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-02 05:00:00
+117,Mercedes-Benz,GLC,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,89000.0,AT,211.0,2519999,"GLC 250 4MATIC ""Особая серия""",M 274 DE 20 AL,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 06:00:00
+323,Mercedes-Benz,S-Class,sedan,black,Diesel,2015.0,108000.0,AT,204.0,2851000,S 300 h,OM 651 DE 22 LA,2.1 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 06:00:00
+659,Lexus,CT200h,hatchback 5 doors,grey,GasolineMixBlack,2010.0,185000.0,CVT,99.0,1051000,200h version C,2ZR-FXE,1.8 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-02 07:00:00
+741,Toyota,Passo,hatchback 5 doors,grey,GasolineMixBlack,2004.0,256000.0,AT,71.0,221000,1.0 X,1KR-FE,1.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-02 10:00:00
+594,Nissan,Juke,jeep 5 doors,whitemixblack,GasolineMixBlack,,71000.0,CVT,114.0,951000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 10:00:00
+919,Toyota,Carina II,sedan,grey,GasolineMixBlack,,166000.0,Manual,65.0,51000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-02 11:00:00
+512,Toyota,Wish,minivan,black,GasolineMixBlack,,166000.0,CVT,144.0,841000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-02 11:00:00
+615,Honda,HR-V,jeep 5 doors,violet,GasolineMixBlack,,291000.0,CVT,105.0,371000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-02 11:00:00
+721,Toyota,Alphard,minivan,,GasolineMixBlack,,1000.0,AT,220.0,499999,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-02 12:00:00
+962,Toyota,Starlet,hatchback 5 doors,grey,GasolineMixBlack,,1000.0,AT,82.0,135000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-02 12:00:00
+805,Toyota,Raum,station wagon,silver,GasolineMixBlack,2006.0,1000.0,AT,109.0,499000,1.5 G package ,1NZ-FE,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-02 12:00:00
+114,Toyota,Vanguard,jeep 5 doors,black,GasolineMixBlack,2010.0,152000.0,CVT,170.0,1291000,2.4 240S S package 4WD (5 Seater),2AZ-FE,2.4 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-02 13:00:00
+702,Nissan,Skyline,sedan,grey,GasolineMixBlack,2001.0,195000.0,AT,215.0,291000,2.5 250GT FOUR,VQ25DD,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-02 13:00:00
+636,Toyota,C-HR,jeep 5 doors,green,GasolineMixBlack,2016.0,106000.0,CVT,98.0,1431000,Hybrid 1.8 G,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-02 14:00:00
+635,Toyota,RAV4,jeep 5 doors,whitemixblack,GasolineMixBlack,2019.0,25000.0,CVT,171.0,2621000,2.0 G Z Package 4WD,M20A-FKS,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-02 14:00:00
+412,Toyota,Caldina,station wagon,grey,GasolineMixBlack,2003.0,281000.0,AT,132.0,525000,1.8 Z,1ZZ-FE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-02 14:00:00
+390,Subaru,Forester,jeep 5 doors,,GasolineMixBlack,2020.0,6000.0,CVT,177.0,2451000,1.8 Sport 4WD,CB18,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-02 15:00:00
+727,Toyota,Mark II,sedan,whitemixblack,GasolineMixBlack,1996.0,251000.0,AT,140.0,271000,2.0 Grande,1G-FE,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-02 15:00:00
+231,Nissan,Terrano Regulus,jeep 5 doors,,Diesel,1997.0,257000.0,AT,150.0,291000,3.2DT RS-R limited,QD32ETi,3.2 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-02 16:00:00
+9,Toyota,Vellfire,minivan,whitemixblack,GasolineMixBlack,,211000.0,CVT,150.0,1810000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-02 16:00:00
+211,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,,101000.0,CVT,76.0,651000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-02 17:00:00
+461,Toyota,Sienta,minivan,,GasolineMixBlack,2013.0,112000.0,CVT,110.0,811000,1.5 Dice G,1NZ-FE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-02 17:00:00
+191,Mercedes-Benz,CLA-Class,sedan,brown,GasolineMixBlack,,27000.0,Automatic,211.0,2351000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 19:00:00
+381,Subaru,Forester,jeep 5 doors,silver,GasolineMixBlack,1998.0,37000.0,AT,167.0,491000,2.5 T/25,EJ25,2.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-02 19:00:00
+711,Toyota,Passo,hatchback 5 doors,black,GasolineMixBlack,2010.0,35000.0,CVT,69.0,525000,1.0 plus hana C package,1KR-FE,1.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 20:00:00
+832,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,Diesel,2017.0,72000.0,AT,177.0,3451000, 2.8 TX 5 seat Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 20:00:00
+613,Toyota,Mark X,sedan,whitemixblack,GasolineMixBlack,,241000.0,AT,203.0,1251000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-02 22:00:00
+961,Subaru,Levorg,station wagon,black,GasolineMixBlack,2014.0,181000.0,CVT,170.0,1131000,1.6 GT EyeSight 4WD,FB16,1.6 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-02 22:00:00
+710,Toyota,Vellfire,minivan,whitemixblack,GasolineMixBlack,2011.0,123000.0,CVT,170.0,1810000,2.4 Z (7 Seater),2AZ-FE,2.4 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-02 23:00:00
+126,Honda,Shuttle,station wagon,,GasolineMixBlack,2017.0,46000.0,Robot,110.0,1191000, 1.5 Hybrid X Honda Sensing 4WD,LEB,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-03 00:00:00
+887,Toyota,Hiace,minivan,silver,GasolineMixBlack,,65000.0,Automatic,136.0,1871000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-03 01:00:00
+236,Toyota,Hilux Surf,jeep 5 doors,whitemixblack,GasolineMixBlack,2000.0,246000.0,AT,150.0,1110000,2.7 SSR-G,3RZ-FE,2.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-03 01:00:00
+603,Lexus,RX400h,jeep 5 doors,silver,GasolineMixBlack,2005.0,210000.0,CVT,211.0,1181000,3.3h CVT H,3MZ-FE,3.3 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-03 01:00:00
+442,Toyota,Ractis,hatchback 5 doors,,GasolineMixBlack,2011.0,35000.0,CVT,109.0,815000,1.5 G,1NZ-FE,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-03 02:00:00
+700,Lexus,NX200t,jeep 5 doors,black,GasolineMixBlack,2016.0,52000.0,AT,238.0,3110000, 200t Version L 4WD,8AR-FTS,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-03 04:00:00
+302,Land Rover,Range Rover Evoque,jeep 5 doors,brown,GasolineMixBlack,,38000.0,AT,240.0,2710000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-03 05:00:00
+759,Honda,Stepwgn,minivan,whitemixblack,GasolineMixBlack,,59000.0,CVT,150.0,1881000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-03 05:00:00
+407,Subaru,Legacy,station wagon,grey,GasolineMixBlack,1997.0,110000.0,AT,155.0,121000,2.0 touring wagon TS type R B limited,EJ20,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-03 06:00:00
+315,Honda,Vezel,jeep 5 doors,green,GasolineMixBlack,2013.0,108000.0,Robot,132.0,1151000,1.5 Hybrid X 4WD,LEB,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-03 06:00:00
+68,Honda,Fit,hatchback 5 doors,blue,GasolineMixBlack,2010.0,121000.0,CVT,120.0,761000,1.5 RS,L15A,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-03 09:00:00
+626,Honda,Freed,minivan,whitemixblack,GasolineMixBlack,2017.0,96000.0,CVT,131.0,1211000,1.5 Modulo X Honda Sensing (6-Seater),L15B,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-03 10:00:00
+823,Toyota,Camry,sedan,whitemixblack,GasolineMixBlack,,151000.0,AT,125.0,121000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-03 11:00:00
+963,Toyota,Land Cruiser Prado,jeep 5 doors,grey,Diesel,1999.0,341000.0,AT,145.0,1111000,3.0 TX package I diesel turbo 5 seat 4WD,1KZ-TE,3.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-03 11:00:00
+301,Mercedes-Benz,E-Class,sedan,black,GasolineMixBlack,2017.0,66000.0,AT,401.0,3510000,AMG E 43 4MATIC,M 276 DE 30 AL,3.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-03 11:00:00
+354,UAZ,Buhanka,minivan,brown,GasolineMixBlack,,7000.0,Manual,78.0,410000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-03 12:00:00
+876,Toyota,Alphard,minivan,black,GasolineMixBlack,2018.0,62000.0,CVT,182.0,3171000,2.5 G,2AR-FE,2.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-03 13:00:00
+458,Toyota,Prius Alpha,minivan,grey,GasolineMixBlack,2011.0,323000.0,CVT,99.0,951000,1.8 G 5 seater,2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-03 15:00:00
+986,Toyota,Mark II,sedan,whitemixblack,GasolineMixBlack,1998.0,210000.0,AT,160.0,341000,2.0 Grande Four,1G-FE,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-03 16:00:00
+853,Mercedes-Benz,E-Class,sedan,black,GasolineMixBlack,2009.0,210000.0,AT,184.0,1351000,E 200 CGI BlueEfficiency AТ Elegance,M 271 DE 18 AL,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-03 17:00:00
+415,Toyota,Sienta,minivan,silver,GasolineMixBlack,2015.0,68000.0,CVT,103.0,1041000, 1.5 X 4WD (6 seater),1NZ-FE,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-03 18:00:00
+11,Nissan,Juke,jeep 5 doors,burgundy,GasolineMixBlack,2010.0,41000.0,CVT,114.0,795000,1.5 15RX,HR15DE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-03 19:00:00
+136,Honda,CR-V,jeep 5 doors,brown,GasolineMixBlack,2013.0,79000.0,AT,190.0,1621000,2.4 AT Elegance,K24Z7; K24Z9,2.4 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-04 01:00:00
+871,Mitsubishi,Colt,hatchback 5 doors,whitemixblack,GasolineMixBlack,2003.0,224000.0,CVT,90.0,175000,1.3 Standard,4G19,1.3 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-04 01:00:00
+910,Toyota,RAV4,jeep 5 doors,blue,GasolineMixBlack,2019.0,22000.0,AT,199.0,3451000,2.5 AT 4WD Престиж Safety,A25A-FKS,2.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-04 02:00:00
+462,BMW,M5,sedan,grey,GasolineMixBlack,,46000.0,Automatic,600.0,8100000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-04 03:00:00
+814,Toyota,Raum,station wagon,silver,GasolineMixBlack,1998.0,210000.0,AT,94.0,178000,1.5 E package,5E-FE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-04 03:00:00
+322,Subaru,Forester,jeep 5 doors,black,GasolineMixBlack,2021.0,4000.0,CVT,177.0,2585000,1.8 Sport 4WD,CB18,1.8 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-04 04:00:00
+134,Nissan,DAYZ,hatchback 5 doors,blue,GasolineMixBlack,,66000.0,CVT,64.0,521000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-04 07:00:00
+767,Nissan,X-Trail,jeep 5 doors,grey,GasolineMixBlack,,241000.0,AT,150.0,475000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-04 07:00:00
+574,Nissan,Safari,jeep 5 doors,black,Diesel,,291000.0,AT,125.0,1151000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-04 07:00:00
+862,Honda,Inspire,sedan,grey,GasolineMixBlack,2001.0,221000.0,AT,260.0,371000,3.2 Type S,J32A,3.2 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-04 08:00:00
+50,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,31000.0,CVT,152.0,3310000,2.5 Hybrid E-Four Premium Metal and Leather Package 4WD,2AR-FXE,2.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-04 08:00:00
+476,Nissan,Note,hatchback 5 doors,pink,GasolineMixBlack,2018.0,26000.0,CVT,79.0,768000, 1.2 X,HR12DE,1.2 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-04 09:00:00
+511,Subaru,Forester,jeep 5 doors,,GasolineMixBlack,2015.0,110000.0,CVT,148.0,1571000, 2.0i-L EyeSight 4WD,FB20,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-04 09:00:00
+392,Nissan,DAYZ,hatchback 5 doors,whitemixblack,GasolineMixBlack,2013.0,129000.0,CVT,49.0,495000,660 Highway Star G,3B20,0.7 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-04 09:00:00
+672,Nissan,Juke,jeep 5 doors,red,GasolineMixBlack,2015.0,51000.0,CVT,114.0,925000, 1.5 15RX V Urban Selection Personalization,HR15DE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-04 10:00:00
+460,Toyota,Prius,liftback,,GasolineMixBlack,,19000.0,CVT,98.0,1595000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-04 11:00:00
+234,Haval,Jolion,jeep 5 doors,grey,GasolineMixBlack,2021.0,8000.0,Robot,150.0,1991000,1.5 DCT 4WD Premium,GW4B15,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-04 12:00:00
+71,Toyota,C-HR,jeep 5 doors,black,GasolineMixBlack,2018.0,92000.0,CVT,116.0,1399000,1.2 S-T,8NR-FTS,1.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-04 14:00:00
+422,Hyundai,Grand Starex,minivan,,Diesel,,33000.0,Automatic,175.0,2488000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-04 14:00:00
+932,Toyota,Vanguard,jeep 5 doors,black,GasolineMixBlack,2008.0,157000.0,CVT,170.0,1181000,2.4 240S G package 4WD (5 Seater),2AZ-FE,2.4 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-04 15:00:00
+799,Daihatsu,Tanto,hatchback 5 doors,blue,GasolineMixBlack,2009.0,171000.0,CVT,58.0,435000,660 X limited  selection,KF-VE,0.7 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-04 17:00:00
+591,Toyota,Corolla Fielder,station wagon,whitemixblack,GasolineMixBlack,2012.0,188000.0,CVT,103.0,735000,1.5 G 4WD,1NZ-FE,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-04 17:00:00
+199,Honda,Freed Spike,minivan,grey,GasolineMixBlack,2010.0,109000.0,CVT,118.0,711000,1.5 G just selection,L15A,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-04 18:00:00
+784,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2012.0,231000.0,CVT,99.0,861000,1.8 G,2ZR-FXE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-04 21:00:00
+45,Toyota,Vitz,hatchback 5 doors,whitemixblack,GasolineMixBlack,2015.0,31000.0,CVT,99.0,945000, 1.3 U,1NR-FKE,1.3 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-05 12:00:00
+889,Toyota,Highlander,jeep 5 doors,black,GasolineMixBlack,2020.0,17000.0,AT,249.0,7310000,3.5 AT Люкс Safety,2GR-FKS,3.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-05 12:00:00
+479,Toyota,Corolla Fielder,station wagon,black,GasolineMixBlack,2010.0,47000.0,CVT,110.0,811000,1.5 X 202,1NZ-FE,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-05 12:00:00
+42,Toyota,Crown,sedan,blue,GasolineMixBlack,1993.0,251000.0,AT,230.0,151000,3.0 Royal saloon G,2JZ-GE,3.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-05 13:00:00
+178,Lexus,RX450h,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,51000.0,CVT,262.0,4351000, RX450h F Sport 4WD,2GR-FXS,3.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-05 13:00:00
+419,Hyundai,Staria,minivan,whitemixblack,Diesel,,29000.0,AT,177.0,3291000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-05 13:00:00
+366,BMW,X4,jeep 5 doors,black,Diesel,2018.0,45000.0,AT,249.0,5100000,xDrive 30d AT M Sport,B57D30,3.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-05 14:00:00
+160,Subaru,Impreza,sedan,whitemixblack,GasolineMixBlack,2016.0,137000.0,CVT,115.0,1165000,G4 1.6 i-L EyeSight,FB16,1.6 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-05 17:00:00
+846,Honda,CR-V,jeep 5 doors,grey,GasolineMixBlack,,281000.0,AT,130.0,411000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-05 17:00:00
+628,Toyota,Estima,minivan,whitemixblack,GasolineMixBlack,2003.0,137000.0,AT,220.0,409000,3.0 T Aeras G edition (7 Seater),1MZ-FE,3.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-05 18:00:00
+980,Toyota,Corona,sedan,green,GasolineMixBlack,1994.0,310000.0,AT,135.0,145000,2.0 EX saloon,3S-FE,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-05 18:00:00
+968,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2012.0,199000.0,CVT,99.0,895000,1.8 S,2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-05 19:00:00
+755,Nissan,NV200,minivan,whitemixblack,GasolineMixBlack,,29000.0,AT,109.0,1275000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-05 20:00:00
+128,Nissan,Serena,minivan,violet,GasolineMixBlack,2017.0,88000.0,CVT,150.0,1471000, 2.0 X V Selection 4WD,MR20DD,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-05 20:00:00
+538,Toyota,Mark II,sedan,black,GasolineMixBlack,1993.0,251000.0,AT,180.0,425000,2.5 Grande G,1JZ-GE,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-05 21:00:00
+478,Toyota,Aqua,hatchback 5 doors,grey,GasolineMixBlack,2011.0,189000.0,CVT,74.0,655000,1.5 G,1NZ-FXE,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-05 21:00:00
+426,Nissan,Juke,jeep 5 doors,burgundy,GasolineMixBlack,2018.0,41000.0,CVT,114.0,1110000, 1.5 15RX V Selection,HR15DE,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-05 22:00:00
+194,Mitsubishi,Colt Plus,station wagon,whitemixblack,GasolineMixBlack,2006.0,181000.0,CVT,105.0,371000,1.5 G,4A91,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-05 23:00:00
+796,Nissan,March,hatchback 5 doors,brown,GasolineMixBlack,,161000.0,AT,97.0,241000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-05 23:00:00
+537,Honda,Vezel,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,3000.0,CVT,118.0,2545000,1.5 G,L15Z,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-06 00:00:00
+517,Toyota,Corona Premio,sedan,grey,GasolineMixBlack,1997.0,136000.0,AT,115.0,231000,1.8 E,7A-FE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-06 01:00:00
+546,Toyota,Corolla Fielder,station wagon,whitemixblack,GasolineMixBlack,2017.0,91000.0,CVT,74.0,951000,1.5 Hybrid G,1NZ-FXE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 02:00:00
+89,Toyota,Hiace,minivan,grey,Diesel,1998.0,191000.0,AT,130.0,1141000,3.0 Super Custom Limited Triple Moon Roof Diesel Turbo 4WD,1KZ-TE,3.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-06 02:00:00
+170,Toyota,Prius Alpha,minivan,grey,GasolineMixBlack,2017.0,75000.0,CVT,99.0,2100000,1.8 S Touring Selection GR Sport 5 seater,2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-06 02:00:00
+325,Toyota,Mark X,sedan,whitemixblack,GasolineMixBlack,2016.0,81000.0,AT,318.0,3100000, 3.5 350RDS,2GR-FSE,3.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-06 03:00:00
+153,Toyota,Noah,minivan,,GasolineMixBlack,2017.0,63000.0,CVT,152.0,2095000,2.0 Si (8 Seater),3ZR-FAE,2.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 04:00:00
+188,Honda,Insight,liftback,,GasolineMixBlack,2009.0,75000.0,CVT,88.0,710000,1.3 L,LDA,1.3 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-06 04:00:00
+379,Toyota,Caldina,station wagon,grey,GasolineMixBlack,1996.0,188000.0,Manual,100.0,91000,1.5 U,5E-FE,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-06 04:00:00
+138,Nissan,March,hatchback 5 doors,silver,GasolineMixBlack,2003.0,195000.0,AT,90.0,231000,1.2 rafeet ,CR12DE,1.2 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-06 05:00:00
+582,Toyota,C-HR,jeep 5 doors,grey,GasolineMixBlack,2018.0,16000.0,CVT,98.0,1971000,Hybrid 1.8 G Mode-Nero,2ZR-FXE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-06 05:00:00
+775,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,Diesel,2017.0,23000.0,AT,177.0,4051000, 2.8 TX L Package 7 seat Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 05:00:00
+154,Tesla,Model Y,jeep 5 doors,grey,Electro,2020.0,24000.0,AT,,4999999,75D kWh Long Range,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-06 05:00:00
+562,Toyota,Vitz,hatchback 5 doors,,GasolineMixBlack,2018.0,116000.0,CVT,69.0,725000, 1.0 F,1KR-FE,1.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-06 07:00:00
+800,Mitsubishi,Outlander,jeep 5 doors,whitemixblack,GasolineMixBlack,2009.0,185000.0,CVT,170.0,945000,2.4 24G 4WD,4B12,2.4 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-06 09:00:00
+101,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,2018.0,74000.0,CVT,184.0,2521000,2.5 G,A25A-FXS,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 10:00:00
+255,Nissan,Dualis,jeep 5 doors,black,GasolineMixBlack,2007.0,181000.0,CVT,137.0,611000,2.0 20G,MR20DE,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-06 11:00:00
+676,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2017.0,34000.0,AT,163.0,3361000, 2.7 TX 5 seat 4WD,2TR-FE,2.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-06 12:00:00
+494,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,,91000.0,CVT,184.0,2471000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 14:00:00
+997,Toyota,Corolla Levin,coupe,grey,GasolineMixBlack,1993.0,141000.0,AT,115.0,110000,1.6 SJ,4A-FE,1.6 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-06 16:00:00
+737,Toyota,Voxy,minivan,black,GasolineMixBlack,,7000.0,Automatic,99.0,2111000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-06 17:00:00
+834,Honda,Civic Ferio,sedan,grey,GasolineMixBlack,1993.0,251000.0,Manual,94.0,71000,1.5 ETi,D15B,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-06 18:00:00
+639,Toyota,Cresta,sedan,whitemixblack,GasolineMixBlack,1996.0,231000.0,AT,200.0,310000,2.5 Super Lucent,1JZ-GE,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 19:00:00
+923,Honda,Vezel,jeep 5 doors,,GasolineMixBlack,2016.0,11000.0,Robot,132.0,1871000,1.5 Hybrid Z Honda Sensing,LEB,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 20:00:00
+571,Honda,Fit,hatchback 5 doors,,GasolineMixBlack,2017.0,103000.0,Robot,110.0,915000,1.5 Hybrid F,LEB,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 20:00:00
+944,Honda,Insight,liftback,whitemixblack,GasolineMixBlack,2009.0,165000.0,CVT,88.0,655000,1.3 G,LDA,1.3 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-06 21:00:00
+248,Mitsubishi,Pajero Mini,jeep 3 doors,grey,GasolineMixBlack,2008.0,133000.0,AT,64.0,475000,660 NAVI edition VR 4WD,4A30,0.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-06 22:00:00
+612,Nissan,March,hatchback 5 doors,grey,GasolineMixBlack,2008.0,131000.0,AT,90.0,321000,1.2 12E,CR12DE,1.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-06 22:00:00
+34,Isuzu,Bighorn,jeep 5 doors,grey,Diesel,,329000.0,AT,135.0,751000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-06 22:00:00
+249,Mazda,Demio,hatchback 5 doors,grey,GasolineMixBlack,2013.0,44000.0,AT,91.0,581000,1.3 13C,ZJ-VE,1.3 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-06 23:00:00
+602,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2002.0,158000.0,AT,185.0,1109000,3.4 Prado TZ G selection,5VZ-FE,3.4 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-07 00:00:00
+35,Nissan,Tiida Latio,sedan,grey,GasolineMixBlack,2005.0,151000.0,AT,109.0,325000,1.5 15S,HR15DE,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-07 00:00:00
+593,Mitsubishi,Eclipse Cross,jeep 5 doors,red,GasolineMixBlack,2021.0,21000.0,CVT,150.0,3251000,1.5T CVT 4WD Ultimate,4B40,1.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-07 00:00:00
+495,Toyota,Crown,sedan,grey,GasolineMixBlack,2018.0,110000.0,CVT,184.0,3910000,2.5 RS Advance,A25A-FXS,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-07 03:00:00
+33,Lexus,RX200t,jeep 5 doors,silver,GasolineMixBlack,2016.0,151000.0,AT,238.0,3410000,2.0t AT AWD Luxury,8AR-FTS,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-07 03:00:00
+996,Honda,Fit,hatchback 5 doors,black,GasolineMixBlack,2012.0,1000.0,AT,100.0,695000,1.3 G 4WD,L13A,1.3 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-07 03:00:00
+235,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,,210000.0,CVT,99.0,910000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-07 05:00:00
+797,Suzuki,Solio,hatchback 5 doors,silver,GasolineMixBlack,2011.0,124000.0,CVT,91.0,581000,1.2 G Idling Stop,K12B,1.2 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-07 06:00:00
+647,Toyota,Camry,sedan,silver,GasolineMixBlack,2001.0,271000.0,AT,159.0,510000,2.4 G limited edition,2AZ-FE,2.4 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-07 06:00:00
+105,Suzuki,Jimny,jeep 3 doors,red,GasolineMixBlack,2010.0,94000.0,AT,64.0,695000,660 X Adventure XC 4WD,K6A,0.7 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-07 07:00:00
+792,Daihatsu,YRV,hatchback 5 doors,blue,GasolineMixBlack,2000.0,206000.0,AT,90.0,151000,1.3,K3-VE,1.3 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-07 08:00:00
+804,Toyota,Corolla Rumion,hatchback 5 doors,blue,GasolineMixBlack,2009.0,91000.0,CVT,110.0,735000,1.5 X aero tourer ,1NZ-FE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-07 09:00:00
+992,Toyota,Lite Ace,minivan,whitemixblack,GasolineMixBlack,,81000.0,AT,97.0,1100000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-07 09:00:00
+37,Lexus,RX350,jeep 5 doors,black,GasolineMixBlack,2016.0,84000.0,AT,301.0,4510000,3.5 AT F Sport Luxury,2GR-FKS ,3.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-07 10:00:00
+831,Honda,Odyssey,minivan,whitemixblack,GasolineMixBlack,2017.0,111000.0,CVT,145.0,2100000,2.0 Hybrid Absolute EX Honda Sensing (7 seater),LFA,2.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-07 11:00:00
+565,Toyota,Mark II,sedan,whitemixblack,GasolineMixBlack,1993.0,510000.0,AT,135.0,261000,2.0 Grande,1G-FE,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-07 11:00:00
+622,Subaru,Outback,jeep 5 doors,whitemixblack,GasolineMixBlack,2011.0,95000.0,CVT,170.0,459000,2.5 i EyeSight 4WD,EJ25,2.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-07 12:00:00
+709,Toyota,Crown,sedan,silver,GasolineMixBlack,2006.0,98000.0,AT,315.0,425000,3.5 Athlete 60th special edition,2GR-FSE,3.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-07 13:00:00
+852,Toyota,Prius,liftback,blue,GasolineMixBlack,,357000.0,CVT,99.0,781000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-07 13:00:00
+788,Nissan,Note,hatchback 5 doors,black,GasolineMixBlack,2013.0,105000.0,CVT,98.0,661000,1.2 X DIG-S Axis,HR12DDR,1.2 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-07 14:00:00
+983,Nissan,Note,hatchback 5 doors,whitemixblack,GasolineMixBlack,2018.0,110000.0,CVT,79.0,871000, 1.2 X FOUR 4WD,HR12DE,1.2 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-07 14:00:00
+481,Toyota,Aqua,hatchback 5 doors,,GasolineMixBlack,2018.0,51000.0,CVT,74.0,839000, 1.5 Crossover Glam,1NZ-FXE,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-07 14:00:00
+560,Honda,Accord,sedan,golden,GasolineMixBlack,2013.0,138000.0,CVT,143.0,1621000,2.0 EX,LFA,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-07 15:00:00
+652,Toyota,Corolla Axio,sedan,grey,GasolineMixBlack,2008.0,155000.0,CVT,105.0,621000,1.5 X 4WD,1NZ-FE,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-07 16:00:00
+701,Lexus,RX450h,jeep 5 doors,whitemixblack,GasolineMixBlack,2012.0,125000.0,CVT,249.0,2510000,3.5 CVT Dynamic Edition,2GR-FXE,3.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-07 16:00:00
+798,Daihatsu,Tanto,hatchback 5 doors,blue,GasolineMixBlack,2008.0,166000.0,AT,58.0,435000,660 custom X,KF-VE,0.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-07 17:00:00
+410,Mitsubishi,Pajero,jeep 3 doors,grey,GasolineMixBlack,,291000.0,AT,145.0,671000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-07 18:00:00
+143,Daihatsu,Terios,jeep 5 doors,grey,GasolineMixBlack,2000.0,179000.0,AT,140.0,291000,1.3 turbo aero down custom,K3-VET,1.3 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-07 19:00:00
+898,Mercedes-Benz,E-Class,sedan,whitemixblack,GasolineMixBlack,2013.0,148000.0,AT,249.0,2110000,E 300 4MATIC AT Особая серия ,M 276 DE 35,3.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-07 19:00:00
+810,Nissan,March,hatchback 5 doors,green,GasolineMixBlack,2010.0,11000.0,CVT,79.0,665000,1.2 12G FOUR 4WD,HR12DE,1.2 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-07 20:00:00
+731,Toyota,Prius Alpha,minivan,whitemixblack,GasolineMixBlack,2011.0,92000.0,CVT,99.0,1165000,1.8 G Touring selection 5 seater,2ZR-FXE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-07 20:00:00
+866,Honda,Stream,minivan,grey,GasolineMixBlack,2006.0,177000.0,AT,140.0,331000,1.8 RSZ,R18A,1.8 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-07 20:00:00
+888,Honda,Logo,hatchback 5 doors,grey,GasolineMixBlack,,235000.0,AT,66.0,41000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-07 21:00:00
+487,Toyota,Sprinter Carib,station wagon,whitemixblack,GasolineMixBlack,,156000.0,Manual,110.0,88000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-07 21:00:00
+280,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2015.0,131000.0,Robot,110.0,781000,1.5 Hybrid F Package Comfort Edition,LEB,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-07 21:00:00
+551,Toyota,Vellfire,minivan,,GasolineMixBlack,2008.0,181000.0,AT,280.0,635000,3.5 V 4WD (8 Seater),2GR-FE,3.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-07 21:00:00
+312,Toyota,Mark II,sedan,grey,GasolineMixBlack,2000.0,136000.0,AT,200.0,561000,2.5 Grande G,1JZ-FSE,2.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-07 22:00:00
+826,Suzuki,Jimny,jeep 3 doors,black,GasolineMixBlack,2012.0,91000.0,AT,64.0,625000,660 X Adventure 4WD,K6A,0.7 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-07 22:00:00
+252,Daihatsu,Be-Go,jeep 5 doors,grey,GasolineMixBlack,,146000.0,AT,109.0,651000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-07 22:00:00
+973,Lexus,GX470,jeep 5 doors,grey,GasolineMixBlack,,212000.0,AT,263.0,1931000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-07 23:00:00
+449,Toyota,Aqua,hatchback 5 doors,yellow,GasolineMixBlack,2013.0,116000.0,CVT,74.0,651000,1.5 G,1NZ-FXE,1.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-07 23:00:00
+715,Honda,Freed Spike,minivan,,GasolineMixBlack,,101000.0,CVT,88.0,887000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-08 01:00:00
+90,Subaru,Forester,jeep 5 doors,blue,GasolineMixBlack,,108000.0,CVT,171.0,1251000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-08 01:00:00
+604,Toyota,Harrier,jeep 5 doors,black,GasolineMixBlack,2007.0,128000.0,AT,280.0,679000,3.5 350G premium L package 4WD,2GR-FE,3.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-08 02:00:00
+150,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2007.0,208000.0,CVT,120.0,431000,1.5 RS,L15A,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 02:00:00
+413,Mitsubishi,Outlander,jeep 5 doors,black,GasolineMixBlack,2012.0,151000.0,CVT,167.0,1251000,2.4 CVT 4WD Intense ,4B12,2.4 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 02:00:00
+6,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,GasolineMixBlack,,305000.0,Automatic,215.0,951000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-08 03:00:00
+892,Nissan,Juke,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,52000.0,CVT,190.0,1531000, 1.6 NISMO 4WD,MR16DDT,1.6 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-08 04:00:00
+902,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,,141000.0,CVT,77.0,461000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-08 04:00:00
+661,Toyota,Corolla,sedan,whitemixblack,GasolineMixBlack,1996.0,161000.0,AT,100.0,185000,1.5 SE saloon,5A-FE,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 04:00:00
+232,Nissan,NP300,pickup,black,Diesel,2008.0,156000.0,Manual,133.0,931000,2.5 dCi MT Premium Double Cab,YD25,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 05:00:00
+766,Lexus,RX200t,jeep 5 doors,burgundy,GasolineMixBlack,2015.0,49000.0,AT,238.0,3499000, RX200t F Sport 4WD,8AR-FTS,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 06:00:00
+350,Toyota,Allion,sedan,black,GasolineMixBlack,2010.0,209000.0,CVT,158.0,891000,2.0 A20,3ZR-FAE,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-08 06:00:00
+167,Toyota,Corolla Fielder,station wagon,black,GasolineMixBlack,2015.0,111000.0,CVT,103.0,965000, 1.5 X 4WD,1NZ-FE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-08 06:00:00
+241,Toyota,Harrier,jeep 5 doors,black,GasolineMixBlack,2017.0,81000.0,CVT,151.0,2241000, 2.0 Premium,3ZR-FAE,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-08 06:00:00
+274,Honda,Fit,hatchback 5 doors,silver,GasolineMixBlack,,21000.0,Robot,110.0,831000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-08 07:00:00
+356,Mazda,Flair Wagon,hatchback 5 doors,grey,GasolineMixBlack,2013.0,151000.0,CVT,64.0,605000,660 Custom Style XT,R06A,0.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-08 08:00:00
+175,Audi,Q2,jeep 5 doors,whitemixblack,GasolineMixBlack,,71000.0,Automatic,120.0,1499000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-08 09:00:00
+927,Honda,Fit,hatchback 5 doors,silver,GasolineMixBlack,2017.0,59000.0,CVT,100.0,995000,1.3 13G F,L13B,1.3 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 11:00:00
+513,Nissan,X-Trail,jeep 5 doors,,GasolineMixBlack,2017.0,61000.0,CVT,147.0,1691000,2.0 20X Hybrid X-Tremer X 5-seat 4WD,MR20DD,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-08 11:00:00
+242,Toyota,RAV4,jeep 5 doors,whitemixblack,GasolineMixBlack,2019.0,17000.0,AT,199.0,2951000,2.5 AT 4WD Комфорт,A25A-FKS,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-08 14:00:00
+38,Infiniti,QX56,jeep 5 doors,whitemixblack,GasolineMixBlack,2010.0,105000.0,AT,405.0,2151000,5.6 QX56 Hi-tech 7-местный,VK56VD,5.6 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-08 15:00:00
+7,Toyota,Alphard,minivan,,GasolineMixBlack,2018.0,83000.0,CVT,152.0,4351000,Hybrid 2.5 Executive Lounge S 4WD,2AR-FXE,2.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-08 17:00:00
+275,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,31000.0,CVT,151.0,1991000,2.0 Premium,3ZR-FAE,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-08 18:00:00
+291,Toyota,Camry,sedan,whitemixblack,GasolineMixBlack,2018.0,92000.0,CVT,178.0,2351000,2.5 WS Leather Package,A25A-FXS,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-08 18:00:00
+139,Nissan,Terrano,jeep 5 doors,black,Diesel,,211000.0,Manual,130.0,345000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-08 19:00:00
+587,GAZ,Pobeda,liftback,green,GasolineMixBlack,1948.0,1000.0,Manual,50.0,51000,2.1 MT,GAZ-20,2.1 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-08 20:00:00
+251,Toyota,C-HR,jeep 5 doors,black,GasolineMixBlack,2017.0,57000.0,CVT,116.0,1625000, 1.2 G-T LED Edition 4WD,8NR-FTS,1.2 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-08 21:00:00
+190,Toyota,Harrier,jeep 5 doors,burgundy,GasolineMixBlack,2013.0,103000.0,CVT,151.0,1861000,2.0 Elegance,3ZR-FAE,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-08 22:00:00
+435,Daihatsu,YRV,hatchback 5 doors,whitemixblack,GasolineMixBlack,2000.0,171000.0,AT,90.0,235000,1.3 S pack,K3-VE,1.3 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-08 22:00:00
+94,Nissan,Wingroad,station wagon,blue,GasolineMixBlack,2010.0,110000.0,CVT,109.0,665000,1.5 15M V limited,HR15DE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-08 22:00:00
+837,Lexus,LX570,jeep 5 doors,black,GasolineMixBlack,,104000.0,AT,367.0,4391000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-09 00:00:00
+736,Toyota,Land Cruiser Prado,jeep 5 doors,brown,Diesel,1998.0,181000.0,AT,140.0,731000,3.0 TX limited diesel turbo,1KZ-TE,3.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-09 01:00:00
+428,Honda,Fit,hatchback 5 doors,,GasolineMixBlack,2011.0,89000.0,CVT,99.0,665000,1.3 G 10th Anniversary II,L13A,1.3 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-09 03:00:00
+704,Mitsubishi,Outlander,jeep 5 doors,whitemixblack,GasolineMixBlack,2014.0,110000.0,AT,118.0,1510000,PHEV 2.0 G NAVI Package 4WD,4B11,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-09 03:00:00
+588,Nissan,Note,hatchback 5 doors,silver,GasolineMixBlack,2017.0,32000.0,AT,79.0,924000, 1.2 e-POWER S,HR12DE,1.2 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-09 05:00:00
+341,Honda,S660,open,whitemixblack,GasolineMixBlack,2015.0,35000.0,CVT,64.0,1041000, 660 Alpha,S07A,0.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-09 05:00:00
+468,Toyota,Corolla,sedan,brown,GasolineMixBlack,,351000.0,Automatic,75.0,95000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-09 06:00:00
+438,Toyota,Isis,minivan,burgundy,GasolineMixBlack,2011.0,106000.0,CVT,158.0,995000,2.0 Platana V selection,3ZR-FAE,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-09 06:00:00
+65,Ford,F150,pickup,grey,GasolineMixBlack,2005.0,121000.0,AT,300.0,1610000,5.4 AT 4x4 FX4 Regular Cab Styleside 8',Triton V8,5.4 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-09 06:00:00
+486,Toyota,Prius,liftback,silver,GasolineMixBlack,2009.0,181000.0,CVT,99.0,731000,1.8 S,2ZR-FXE,1.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-09 07:00:00
+80,Toyota,Prius,liftback,blue,GasolineMixBlack,2016.0,39000.0,CVT,98.0,1205000, 1.8 S Safety Plus,2ZR-FXE,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-09 07:00:00
+909,Nissan,Juke,jeep 5 doors,black,GasolineMixBlack,2012.0,117000.0,CVT,114.0,671000,1.5 15RS type V,HR15DE,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-09 09:00:00
+340,Toyota,Aristo,sedan,whitemixblack,GasolineMixBlack,2000.0,141000.0,AT,280.0,1710000,3.0 V300 Vertex edition,2JZ-GTE,3.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-09 09:00:00
+305,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2021.0,15000.0,AT,163.0,3811000, 2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-09 11:00:00
+881,Toyota,Corolla Fielder,station wagon,black,GasolineMixBlack,2013.0,141000.0,CVT,74.0,910000,1.5 Hybrid G Aero Tourer WxB,1NZ-FXE,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-09 12:00:00
+70,Nissan,Note,hatchback 5 doors,silver,GasolineMixBlack,2015.0,125000.0,CVT,79.0,625000,1.2 X,HR12DE,1.2 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-09 13:00:00
+539,Audi,Q5,jeep 5 doors,black,GasolineMixBlack,,42000.0,Automatic,230.0,2051000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-09 13:00:00
+658,Toyota,Voxy,minivan,whitemixblack,GasolineMixBlack,2014.0,91000.0,CVT,99.0,1451000,1.8 Hybrid V,2ZR-FXE,1.8 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-09 16:00:00
+835,Toyota,Corolla Axio,sedan,whitemixblack,GasolineMixBlack,2006.0,171000.0,CVT,105.0,581000,1.5 X 4WD,1NZ-FE,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-09 17:00:00
+169,Mercedes-Benz,GLC Coupe,jeep 5 doors,whitemixblack,GasolineMixBlack,2016.0,138000.0,AT,211.0,3510000,"GLC 250 4MATIC ""Особая серия""",M 274 DE 20 AL,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-09 19:00:00
+901,Mazda,Bongo Friendee,minivan,grey,Diesel,,231000.0,Manual,130.0,255000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-09 21:00:00
+273,Daihatsu,Tanto,hatchback 5 doors,,GasolineMixBlack,2019.0,32000.0,CVT,64.0,941000,660 X Turbo Selection,KF,0.7 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-09 21:00:00
+180,Subaru,Forester,jeep 5 doors,whitemixblack,GasolineMixBlack,2010.0,151000.0,Manual,230.0,1251000,2.5XT МT WV,EJ255,2.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-09 21:00:00
+633,Toyota,RAV4,jeep 5 doors,whitemixblack,GasolineMixBlack,2019.0,22000.0,CVT,171.0,2815000,2.0 G Z Package 4WD,M20A-FKS,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-09 21:00:00
+794,Honda,Freed Spike,minivan,,GasolineMixBlack,,122000.0,CVT,118.0,799000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-09 22:00:00
+516,Nissan,Titan,pickup,grey,GasolineMixBlack,,211000.0,AT,305.0,710000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-09 23:00:00
+333,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,25000.0,AT,163.0,3895000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-10 00:00:00
+972,Mercedes-Benz,GLE Coupe,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,87000.0,AT,390.0,6510000,AMG 43 4MATIC Особая серия,M 276 DE 30 AL,3.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-10 01:00:00
+357,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2010.0,154000.0,CVT,120.0,651000,1.5 X,L15A,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-10 02:00:00
+678,Toyota,Land Cruiser Prado,jeep 5 doors,grey,GasolineMixBlack,2015.0,153000.0,AT,163.0,3451000,2.7 AT Стандарт,2TR-FE,2.7 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-10 02:00:00
+998,Volkswagen,Tiguan,jeep 5 doors,silver,GasolineMixBlack,2017.0,79000.0,Robot,220.0,2671000,2.0 TSI DSG 4Motion Highline,CHHB,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-10 02:00:00
+873,Subaru,Levorg,station wagon,grey,GasolineMixBlack,,109000.0,CVT,170.0,1251000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-10 02:00:00
+553,Toyota,Harrier,jeep 5 doors,grey,GasolineMixBlack,,92000.0,CVT,151.0,2051000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-10 03:00:00
+682,Lexus,NX200t,jeep 5 doors,whitemixblack,GasolineMixBlack,2014.0,21000.0,AT,238.0,2810000,200t F Sport 4WD,8AR-FTS,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-10 04:00:00
+358,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2016.0,110000.0,CVT,100.0,888000, 1.3 13G L Package Fine Edition,L13B,1.3 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-10 05:00:00
+921,Toyota,Land Cruiser Prado,jeep 5 doors,black,Diesel,2017.0,28000.0,AT,177.0,3571000, 2.8 TX 5 seat Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-10 05:00:00
+590,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2017.0,25000.0,AT,163.0,3499999, 2.7 TX L Package 5 seat 4WD,2TR-FE,2.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-10 06:00:00
+86,Nissan,Bluebird Sylphy,sedan,,GasolineMixBlack,2000.0,211000.0,AT,115.0,149999,1.8 18Vi-4,QG18DE,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-10 06:00:00
+402,Toyota,Premio,sedan,grey,GasolineMixBlack,2009.0,87000.0,CVT,110.0,905000,1.5 F L package prime selection,1NZ-FE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-10 06:00:00
+821,Honda,Fit,hatchback 5 doors,red,GasolineMixBlack,2002.0,303000.0,CVT,86.0,210000,1.3 A,L13A,1.3 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-10 07:00:00
+64,Nissan,Qashqai,jeep 5 doors,grey,GasolineMixBlack,2017.0,64000.0,CVT,144.0,1961000,2.0 CVT 4WD SE+,MR20DD,2.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-10 07:00:00
+760,Subaru,Trezia,hatchback 5 doors,grey,GasolineMixBlack,,187000.0,CVT,95.0,561000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-10 08:00:00
+373,Toyota,Cresta,sedan,whitemixblack,GasolineMixBlack,1996.0,231000.0,AT,280.0,851000,2.5 Roulant G,1JZ-GTE,2.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-10 08:00:00
+92,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,43000.0,AT,163.0,3471000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-10 09:00:00
+198,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,,AT,163.0,4521000, 2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-10 12:00:00
+220,Honda,Vezel,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,1000.0,CVT,118.0,2431000,1.5 G,L15Z,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-10 12:00:00
+623,Subaru,Chiffon,hatchback 5 doors,black,GasolineMixBlack,2017.0,131000.0,CVT,52.0,655000, 660 G Smart Assist 4WD,KF,0.7 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-10 12:00:00
+56,Honda,Fit,hatchback 5 doors,grey,GasolineMixBlack,2011.0,214000.0,Manual,120.0,621000,1.5 RS 10th Anniversary,L15A,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-10 13:00:00
+521,Lada,4x4 Urban,jeep 3 doors,brown,GasolineMixBlack,2018.0,44000.0,Manual,83.0,731000,1.7 MT Luxe 3 дв.,VAZ-21214,1.7 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-10 13:00:00
+641,Mitsubishi,Pajero,jeep 5 doors,red,Diesel,,389000.0,Manual,105.0,410000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-10 15:00:00
+728,Suzuki,Wagon R,hatchback 5 doors,grey,GasolineMixBlack,,107000.0,CVT,52.0,385000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-10 16:00:00
+977,Audi,A3,hatchback 5 doors,silver,GasolineMixBlack,2014.0,125000.0,Robot,122.0,1039000,1.4 TFSI,CXS,1.4 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-10 17:00:00
+326,Porsche,Panamera,liftback,whitemixblack,GasolineMixBlack,,35000.0,Automatic,330.0,6510000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-10 18:00:00
+757,Lada,4x4 2121 Niva,jeep 3 doors,whitemixblack,GasolineMixBlack,1995.0,151000.0,Manual,79.0,271000,1.7 MT,VAZ-21213,1.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-10 19:00:00
+803,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,,164000.0,AT,163.0,2310000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-10 19:00:00
+192,Nissan,Tiida,hatchback 5 doors,golden,GasolineMixBlack,,255000.0,AT,109.0,391000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-10 21:00:00
+844,Lexus,ES300h,sedan,whitemixblack,GasolineMixBlack,2012.0,151000.0,CVT,161.0,1685000,2.5h CVT Luxury 1,2AR-FXE,2.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-10 21:00:00
+439,Toyota,Auris,hatchback 5 doors,whitemixblack,GasolineMixBlack,,121000.0,CVT,108.0,1071000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-10 22:00:00
+660,Toyota,Nadia,minivan,whitemixblack,GasolineMixBlack,1998.0,237000.0,AT,145.0,371000,2.0 D-4,3S-FSE,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-10 22:00:00
+225,Toyota,Land Cruiser,jeep 5 doors,black,GasolineMixBlack,2016.0,87000.0,AT,309.0,6251000,4.6 AT Executive,1UR-FE,4.6 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-10 22:00:00
+12,Toyota,Prius,liftback,black,GasolineMixBlack,,210000.0,CVT,99.0,829000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-10 23:00:00
+583,Honda,Orthia,station wagon,whitemixblack,GasolineMixBlack,,262000.0,AT,145.0,255000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-10 23:00:00
+51,Toyota,Passo,hatchback 5 doors,burgundy,GasolineMixBlack,2010.0,131000.0,CVT,69.0,510000,1.0 plus hana,1KR-FE,1.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-11 00:00:00
+926,Honda,CR-V,jeep 5 doors,black,GasolineMixBlack,2018.0,35000.0,CVT,145.0,2195000,2.0 Hybrid EX 5-seater,LFB,2.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-11 00:00:00
+508,Toyota,Esquire,minivan,black,GasolineMixBlack,2016.0,69000.0,CVT,99.0,1541000, 1.8 Hybrid Gi Black-Tailored (7 seater),2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-11 01:00:00
+501,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,2005.0,124000.0,AT,256.0,391000,3.0 royal saloon G,3GR-FSE,3.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-11 04:00:00
+842,Toyota,Prius Alpha,minivan,whitemixblack,GasolineMixBlack,2011.0,169000.0,CVT,99.0,1011000,1.8 G Touring selection 5 seater,2ZR-FXE,1.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-11 04:00:00
+536,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2008.0,108000.0,CVT,76.0,735000,1.5 S 10th anniversary edition,1NZ-FXE,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-11 05:00:00
+670,Mini,Countryman,hatchback 5 doors,red,GasolineMixBlack,,117000.0,Automatic,145.0,1251000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-11 05:00:00
+265,Honda,Fit,hatchback 5 doors,,GasolineMixBlack,2020.0,15000.0,CVT,98.0,1261000,1.5 e:HEV Luxe,LEB,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-11 06:00:00
+401,Toyota,Mark X,sedan,grey,GasolineMixBlack,,65000.0,AT,215.0,361000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-11 07:00:00
+855,Toyota,Mark II,sedan,grey,GasolineMixBlack,1994.0,247000.0,AT,180.0,245000,2.5 Grande G,1JZ-GE,2.5 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-11 08:00:00
+845,Mercedes-Benz,S-Class,sedan,black,GasolineMixBlack,2013.0,41000.0,AT,449.0,3391000,S 550 AT,M 278 DE 46 AL,4.7 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-11 08:00:00
+319,Haval,Jolion,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,,Robot,143.0,2297160,1.5 DCT Elite,GW4G15K,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-11 11:00:00
+665,Honda,Fit Shuttle,station wagon,whitemixblack,GasolineMixBlack,2012.0,137000.0,CVT,88.0,749000,1.3 C,LDA,1.3 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-11 12:00:00
+371,Toyota,Prius,liftback,grey,GasolineMixBlack,2009.0,211000.0,CVT,99.0,781000,1.8 G touring selection leather package,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-11 13:00:00
+811,Toyota,Hilux Surf,jeep 5 doors,,Diesel,1996.0,189000.0,AT,140.0,671000,3.0DT SSR-G intercooler wide body touring package,1KZ-TE,3.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-11 13:00:00
+903,Toyota,C-HR,jeep 5 doors,whitemixblack,GasolineMixBlack,2016.0,83000.0,CVT,98.0,1585000,Hybrid 1.8 G,2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-11 14:00:00
+861,Suzuki,Jimny,jeep 3 doors,grey,GasolineMixBlack,2018.0,38000.0,AT,64.0,1295000,660 XG 4WD,R06A,0.7 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-11 14:00:00
+159,Mitsubishi,Pajero,jeep 5 doors,silver,GasolineMixBlack,2011.0,147000.0,AT,250.0,1710000,3.8 AT Ultimate ,6G75,3.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-11 15:00:00
+224,Mercedes-Benz,GLE Coupe,jeep 5 doors,grey,Diesel,2015.0,151000.0,AT,249.0,3891000,350 d 4MATIC Особая серия,OM 642 LS DE 30 LA,3.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-11 15:00:00
+88,Daihatsu,Terios Kid,jeep 5 doors,whitemixblack,GasolineMixBlack,1998.0,131000.0,AT,64.0,221000,660 Aero down,EF-DET,0.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-11 15:00:00
+77,Honda,Vezel,jeep 5 doors,black,GasolineMixBlack,2016.0,47000.0,Robot,132.0,1351000,1.5 Hybrid X Honda Sensing,LEB,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-11 18:00:00
+740,Toyota,Prius Alpha,minivan,grey,GasolineMixBlack,,134000.0,CVT,99.0,1445000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-12 10:00:00
+618,Toyota,Harrier,jeep 5 doors,blue,GasolineMixBlack,2004.0,114000.0,AT,220.0,529000,3.0 300G premium L package,1MZ-FE,3.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-12 10:00:00
+556,Suzuki,Jimny Sierra,jeep 3 doors,whitemixblack,GasolineMixBlack,2018.0,32000.0,Manual,102.0,2100000,1.5 JC 4WD,K15B,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-12 10:00:00
+584,Toyota,Wish,minivan,black,GasolineMixBlack,2015.0,83000.0,CVT,143.0,1225000, 1.8 S,2ZR-FAE,1.8 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-12 10:00:00
+809,Nissan,X-Trail,jeep 5 doors,black,GasolineMixBlack,,159000.0,CVT,137.0,1100000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-12 11:00:00
+437,Toyota,Prius Alpha,minivan,black,GasolineMixBlack,2011.0,112000.0,CVT,99.0,1222000,1.8 S 5 seater,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-12 11:00:00
+403,Nissan,Note,hatchback 5 doors,whitemixblack,GasolineMixBlack,2013.0,101000.0,CVT,98.0,645000,1.2 X DIG-S Emergency Brake Package,HR12DDR,1.2 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-12 12:00:00
+839,Lexus,LX570,jeep 5 doors,black,GasolineMixBlack,2018.0,,AT,367.0,12610000,5.7 AT Black Vision,3UR-FE,5.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-12 13:00:00
+226,Hyundai,Santa Fe,jeep 5 doors,whitemixblack,Diesel,2021.0,,Robot,199.0,3751000,2.2 CRDi DCT 4WD Calligraphy 5 мест,D4HE,2.2 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-12 16:00:00
+115,Toyota,Isis,minivan,brown,GasolineMixBlack,,121000.0,CVT,155.0,421000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-12 17:00:00
+201,Toyota,Vitz,hatchback 5 doors,whitemixblack,GasolineMixBlack,2015.0,81000.0,CVT,69.0,661000,1.0 F M Package,1KR-FE,1.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-12 18:00:00
+309,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2017.0,52000.0,AT,163.0,3715000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-12 18:00:00
+783,Toyota,Sienta,minivan,whitemixblack,GasolineMixBlack,2013.0,1000.0,CVT,110.0,808000,1.5 Dice G,1NZ-FE,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-12 19:00:00
+955,Toyota,Caldina,station wagon,black,GasolineMixBlack,1997.0,291000.0,AT,140.0,291000,2.0 G Aerial specification,3S-FE,2.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-12 19:00:00
+576,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,2008.0,116000.0,CVT,71.0,489000,1.0 F limited,1KR-FE,1.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-12 20:00:00
+985,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2010.0,168000.0,CVT,99.0,871000,1.8 G LED edition,2ZR-FXE,1.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-12 20:00:00
+44,Toyota,Hiace,minivan,whitemixblack,Diesel,,141000.0,Automatic,144.0,1871000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-12 21:00:00
+276,Mercedes-Benz,GLS-Class,jeep 5 doors,blue,Diesel,2016.0,53000.0,AT,249.0,5910000,350 d 4MATIC Особая серия,OM 642 LS DE 30 LA,3.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-12 22:00:00
+935,Toyota,Wish,minivan,grey,GasolineMixBlack,2009.0,109000.0,CVT,144.0,925000,1.8 S,2ZR-FAE,1.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-12 22:00:00
+434,Honda,N-WGN,hatchback 5 doors,,GasolineMixBlack,,131000.0,CVT,58.0,521000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-13 02:00:00
+830,Nissan,Serena,minivan,silver,GasolineMixBlack,2018.0,110000.0,CVT,150.0,1421000, 2.0 S Pickup Type Long Step,MR20DD,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-13 04:00:00
+974,Nissan,Teana,sedan,,GasolineMixBlack,2011.0,126000.0,CVT,249.0,451000,3.5 CVT Premium,VQ35DE,3.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-13 04:00:00
+124,Honda,Insight,liftback,grey,GasolineMixBlack,2009.0,1000.0,CVT,88.0,581000,1.3 L,LDA,1.3 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-13 04:00:00
+763,Honda,Shuttle,station wagon,whitemixblack,GasolineMixBlack,2017.0,61000.0,Robot,110.0,1191000, 1.5 Hybrid X Honda Sensing,LEB,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-13 04:00:00
+838,Toyota,Master Ace Surf,minivan,grey,Diesel,1988.0,210000.0,AT,85.0,151000,2.0DT Grand saloon skylight roof,2C-T,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-13 05:00:00
+739,Toyota,Prius Alpha,minivan,burgundy,GasolineMixBlack,,125000.0,CVT,99.0,1245000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-13 06:00:00
+769,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2017.0,49000.0,AT,163.0,3651000, 2.7 TX L Package 5 seat 4WD,2TR-FE,2.7 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-13 06:00:00
+289,Nissan,AD,station wagon,whitemixblack,GasolineMixBlack,2016.0,31000.0,AT,109.0,691000, 1.6 VE 4WD,HR16DE,1.6 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-13 06:00:00
+129,Mercedes-Benz,GLA-Class,jeep 5 doors,,GasolineMixBlack,,51000.0,Automatic,150.0,1547000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-13 06:00:00
+447,Toyota,Alphard,minivan,black,GasolineMixBlack,2018.0,133000.0,CVT,152.0,3845000,Hybrid 2.5 Executive Lounge S 4WD,2AR-FXE,2.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-13 08:00:00
+98,Toyota,C-HR,jeep 5 doors,black,GasolineMixBlack,2017.0,55000.0,CVT,98.0,1731000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-13 08:00:00
+262,Subaru,Impreza,sedan,grey,GasolineMixBlack,,124000.0,CVT,114.0,991000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-13 09:00:00
+725,Toyota,Passo,hatchback 5 doors,,GasolineMixBlack,2012.0,115000.0,CVT,69.0,519000,1.0 plus hana C package,1KR-FE,1.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-13 11:00:00
+552,Toyota,Hiace,minivan,whitemixblack,Diesel,,391000.0,AT,130.0,631000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-13 11:00:00
+250,Toyota,Esquire,minivan,whitemixblack,GasolineMixBlack,2017.0,24000.0,CVT,152.0,1971000,2.0 Gi Premium Package (7 seater),3ZR-FAE,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-13 13:00:00
+606,Honda,Fit,hatchback 5 doors,black,GasolineMixBlack,2009.0,119000.0,CVT,100.0,648000,1.3 G,L13A,1.3 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-13 13:00:00
+387,Toyota,Passo,hatchback 5 doors,black,GasolineMixBlack,,51000.0,CVT,69.0,585000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-13 14:00:00
+918,Honda,Stepwgn,minivan,black,GasolineMixBlack,2017.0,105000.0,CVT,150.0,2065000,1.5 Spada Honda Sensing 7 seater 4WD,L15B,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-13 17:00:00
+13,Nissan,Liberty,minivan,whitemixblack,GasolineMixBlack,2002.0,141000.0,CVT,147.0,235000,2.0 Coleman version II,QR20DE,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-13 17:00:00
+279,Toyota,Allion,sedan,whitemixblack,GasolineMixBlack,2014.0,121000.0,CVT,109.0,1135000, 1.5 A15 G Package,1NZ-FE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-13 17:00:00
+2,Mercedes-Benz,GLE Coupe,jeep 5 doors,burgundy,GasolineMixBlack,2015.0,57000.0,AT,367.0,4610000,450 AMG 4MATIC Особая серия,M 276 DE 30 AL,3.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-13 19:00:00
+875,Nissan,Laurel,sedan,black,GasolineMixBlack,,125000.0,Manual,91.0,1111111,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-13 19:00:00
+18,Suzuki,Escudo,jeep 3 doors,red,GasolineMixBlack,,210000.0,AT,100.0,261000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-13 20:00:00
+406,Honda,Freed+,minivan,burgundy,GasolineMixBlack,2016.0,45000.0,CVT,131.0,1251000, 1.5 G,L15B,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-13 20:00:00
+430,Toyota,Passo Sette,minivan,burgundy,GasolineMixBlack,2008.0,65000.0,AT,109.0,725000,1.5 G,3SZ-VE,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-14 01:00:00
+528,Toyota,Mark II,sedan,grey,GasolineMixBlack,2000.0,123000.0,AT,280.0,591000,2.5 Grande iR-V,1JZ-GTE,2.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-14 02:00:00
+911,Toyota,C-HR,jeep 5 doors,blue,GasolineMixBlack,2017.0,33000.0,CVT,116.0,1610000, 1.2 S-T LED Edition 4WD,8NR-FTS,1.2 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-14 04:00:00
+54,Daihatsu,Mira e:S,hatchback 5 doors,whitemixblack,GasolineMixBlack,2018.0,101000.0,CVT,49.0,555000, 660 G SAIII,KF,0.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-14 04:00:00
+819,Toyota,Town Ace,minivan,,GasolineMixBlack,,101000.0,AT,97.0,995000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-14 04:00:00
+595,Infiniti,FX35,jeep 5 doors,black,GasolineMixBlack,,87000.0,AT,280.0,1210000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-14 06:00:00
+221,Lexus,NX300h,jeep 5 doors,whitemixblack,GasolineMixBlack,2016.0,83000.0,CVT,152.0,2810000,300h Version L,2AR-FXE,2.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-14 09:00:00
+213,Toyota,Carina,sedan,green,GasolineMixBlack,1998.0,261000.0,Manual,135.0,285000,2.0 Ti S selection,3S-FE,2.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-14 09:00:00
+388,Toyota,Prius,liftback,black,GasolineMixBlack,,109000.0,CVT,99.0,1085000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-14 10:00:00
+782,Daihatsu,Move,hatchback 5 doors,black,GasolineMixBlack,,1000.0,CVT,52.0,561000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-14 12:00:00
+580,Nissan,Serena,minivan,whitemixblack,GasolineMixBlack,2018.0,14000.0,AT,84.0,2100000,1.2 e-Power Highway Star V,HR12DE,1.2 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-14 13:00:00
+964,Toyota,RAV4,jeep 5 doors,blue,GasolineMixBlack,2019.0,43000.0,CVT,171.0,2651000,2.0 Adventure 4WD,M20A-FKS,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-14 14:00:00
+836,Mercedes-Benz,GLK-Class,jeep 5 doors,grey,GasolineMixBlack,2013.0,101000.0,AT,211.0,2210000,GLK 250 4MATIC AT Особая серия ,M 274 DE 20 AL,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-14 14:00:00
+778,Honda,Vezel,jeep 5 doors,blue,GasolineMixBlack,2017.0,78000.0,Robot,132.0,1610000,1.5 Hybrid X Honda Sensing Brilliant Style Edition 4WD,LEB,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-14 20:00:00
+28,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2016.0,65000.0,CVT,151.0,2475000,2.0 Premium Style ASH 4WD,3ZR-FAE,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-14 21:00:00
+453,Toyota,Land Cruiser Prado,jeep 5 doors,,Diesel,2017.0,42000.0,AT,177.0,4410000, 2.8 TZ-G Diesel Turbo 4WD,1GD-FTV,2.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-14 21:00:00
+742,Toyota,Prius,sedan,whitemixblack,GasolineMixBlack,,131000.0,Automatic,99.0,1285000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-14 22:00:00
+254,Honda,CR-Z,hatchback 3 door,whitemixblack,GasolineMixBlack,2014.0,72000.0,CVT,118.0,1251000,1.5 Alpha Dressed Label III 2-Tone Color Style,LEA,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-14 23:00:00
+989,Volkswagen,Golf,hatchback 5 doors,blue,GasolineMixBlack,,53000.0,Robot,280.0,1951000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-15 01:00:00
+5,Lexus,RX350,jeep 5 doors,burgundy,GasolineMixBlack,2016.0,151000.0,AT,301.0,3510000,3.5 AT F Sport Luxury,2GR-FKS ,3.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-15 04:00:00
+25,Toyota,Chaser,sedan,,GasolineMixBlack,,110000.0,AT,280.0,181000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-15 04:00:00
+313,Mercedes-Benz,G-Class,jeep 5 doors,black,GasolineMixBlack,2018.0,13000.0,AT,585.0,23100000,G 63 AMG,M 177 DE 40 AL,4.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-15 04:00:00
+897,Toyota,Crown,sedan,blue,GasolineMixBlack,1998.0,251000.0,AT,200.0,411000,2.5 Royal saloon,1JZ-GE,2.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-15 13:00:00
+928,Toyota,Alphard,minivan,whitemixblack,GasolineMixBlack,2018.0,110000.0,CVT,152.0,4099000,Hybrid 2.5 Executive Lounge 4WD,2AR-FXE,2.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-15 13:00:00
+106,Honda,Insight,liftback,whitemixblack,GasolineMixBlack,2011.0,106000.0,CVT,111.0,885000,1.5 Exclusive XL InterNavi Select,LEA,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-15 14:00:00
+691,Subaru,Outback,station wagon,beige,GasolineMixBlack,2006.0,142000.0,AT,177.0,721000,2.5 i L.L.Bean edition 4WD,EJ25,2.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-15 14:00:00
+559,Toyota,Land Cruiser,jeep 5 doors,green,Diesel,,381000.0,Automatic,170.0,1691000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-15 14:00:00
+865,Toyota,Isis,minivan,grey,GasolineMixBlack,2004.0,281000.0,AT,132.0,571000,1.8 Platana ,1ZZ-FE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-15 14:00:00
+699,Mitsubishi,Pajero,jeep 5 doors,whitemixblack,Diesel,2019.0,110000.0,AT,190.0,3081000, 3.2 Long Final Edition Diesel Turbo 4WD,4M41,3.2 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-15 15:00:00
+423,Toyota,Camry,sedan,,GasolineMixBlack,2017.0,24000.0,AT,203.0,2051000,2.5 AT XSE,A25A-FKS,2.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-15 15:00:00
+172,BMW,5-Series,sedan,black,GasolineMixBlack,2017.0,94000.0,AT,340.0,3451000,540i xDrive Luxury,B58B30A,3.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-15 15:00:00
+259,Mazda,CX-8,jeep 5 doors,blue,Diesel,2018.0,41000.0,AT,190.0,2211000,2.2 XD L Package Diesel Turbo 7 seat 4WD,SH-VPTS,2.2 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-15 16:00:00
+75,Toyota,Aqua,hatchback 5 doors,whitemixblack,GasolineMixBlack,2015.0,132000.0,CVT,74.0,751000, 1.5 G,1NZ-FXE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-15 18:00:00
+1,BMW,i3,hatchback 5 doors,black,Electro,,12000.0,Automatic,,1831000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-15 18:00:00
+917,Mitsubishi,Delica,minivan,whitemixblack,Diesel,,246000.0,AT,125.0,561000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-15 19:00:00
+790,Toyota,Noah,minivan,brown,GasolineMixBlack,,156000.0,CVT,99.0,1381000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-15 19:00:00
+349,Toyota,RAV4,jeep 5 doors,brown,GasolineMixBlack,,143000.0,CVT,170.0,1171000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-15 19:00:00
+257,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,141000.0,CVT,151.0,2275000, 2.0 Premium 4WD,3ZR-FAE,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-15 20:00:00
+196,Honda,Shuttle,station wagon,whitemixblack,GasolineMixBlack,2016.0,1000.0,Robot,110.0,1031000, 1.5 Hybrid Z 4WD,LEB,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-15 21:00:00
+988,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2013.0,121000.0,AT,163.0,2951000,2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-15 21:00:00
+564,Suzuki,Jimny,jeep 3 doors,,GasolineMixBlack,2012.0,91000.0,AT,64.0,815000,660 X Adventure 4WD,K6A,0.7 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-16 00:00:00
+337,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2020.0,28000.0,CVT,178.0,4499999,2.5 Hybrid Z Leather Package 4WD,A25A-FXS,2.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-16 00:00:00
+285,Toyota,Noah,minivan,silver,GasolineMixBlack,2019.0,44000.0,CVT,99.0,2241000, 1.8 Hybrid G (7 Seater),2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-16 01:00:00
+568,Mazda,Demio,hatchback 5 doors,black,GasolineMixBlack,,210000.0,AT,91.0,361000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-16 03:00:00
+714,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,,98000.0,CVT,100.0,795000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-16 04:00:00
+173,Toyota,Crown,sedan,whitemixblack,GasolineMixBlack,2016.0,118000.0,AT,235.0,2051000,2.0 Athlete S-T J Frontier,8AR-FTS,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-16 05:00:00
+851,Honda,Shuttle,station wagon,blue,GasolineMixBlack,2015.0,65000.0,Robot,110.0,1175000, 1.5 Hybrid Z,LEB,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-16 06:00:00
+653,Daihatsu,Terios Kid,jeep 5 doors,black,GasolineMixBlack,1998.0,183000.0,AT,64.0,219000,660 Aero down,EF-DET,0.7 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-16 06:00:00
+822,Honda,N-BOX,hatchback 5 doors,black,GasolineMixBlack,2019.0,68000.0,CVT,64.0,1021000,Custom 660 G L Turbo Honda Sensing,S07B,0.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-16 16:00:00
+914,Toyota,Land Cruiser,jeep 5 doors,black,Diesel,2015.0,121000.0,AT,249.0,7110000,4.5 TD AT Люкс Safety (5 мест) ,1VD-FTV,4.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-16 17:00:00
+165,Honda,Stepwgn,minivan,black,GasolineMixBlack,2017.0,62000.0,CVT,150.0,1851000,1.5 Spada Honda Sensing 8 seater,L15B,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-16 19:00:00
+577,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,2012.0,49000.0,CVT,69.0,599000,1.0 F,1KR-FE,1.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-16 19:00:00
+491,Toyota,Land Cruiser Prado,jeep 5 doors,,GasolineMixBlack,2020.0,4000.0,AT,163.0,4075000, 2.7 TX L Package Black Edition 5 seat 4WD,2TR-FE,2.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-16 20:00:00
+298,Lexus,GX460,jeep 5 doors,black,GasolineMixBlack,2013.0,181000.0,AT,296.0,3851000,4.6 AT Premium 7S,1UR-FE,4.6 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-16 21:00:00
+288,Lexus,CT200h,hatchback 5 doors,black,GasolineMixBlack,2010.0,184000.0,CVT,99.0,1231000,200h F sport,2ZR-FXE,1.8 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-16 22:00:00
+720,Honda,Accord,sedan,grey,GasolineMixBlack,1999.0,371000.0,AT,180.0,331000,2.0 SiR,F20B,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-16 23:00:00
+16,Toyota,Camry,sedan,black,GasolineMixBlack,,69000.0,CVT,178.0,1891000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-16 23:00:00
+925,Nissan,X-Trail,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,53000.0,CVT,147.0,1851000,2.0 20X X-Tremer X Emergency Brake Package 5-seat 4WD,MR20DD,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-16 23:00:00
+781,Toyota,Carina ED,sedan,green,GasolineMixBlack,1994.0,251000.0,AT,140.0,175000,2.0 X,3S-FE,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-16 23:00:00
+85,Toyota,Chaser,sedan,whitemixblack,GasolineMixBlack,,210000.0,AT,200.0,461000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-17 00:00:00
+454,Mitsubishi,Pajero,jeep 3 doors,green,Diesel,,277000.0,Automatic,125.0,465000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-17 01:00:00
+592,Toyota,Funcargo,hatchback 5 doors,black,GasolineMixBlack,2002.0,351000.0,AT,87.0,221000,1.3 J,2NZ-FE,1.3 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-17 01:00:00
+113,Toyota,Vitz,hatchback 5 doors,,GasolineMixBlack,,91000.0,CVT,71.0,505000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-17 01:00:00
+411,Toyota,Prius,liftback,silver,GasolineMixBlack,2008.0,62000.0,CVT,76.0,775000,1.5 S 10th anniversary edition,1NZ-FXE,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-17 02:00:00
+207,Suzuki,Jimny,jeep 3 doors,whitemixblack,GasolineMixBlack,,141000.0,Manual,64.0,710000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-17 02:00:00
+103,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,,62000.0,AT,249.0,5100000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-17 02:00:00
+307,Audi,Q7,jeep 5 doors,black,GasolineMixBlack,,31000.0,Automatic,333.0,4451000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-17 03:00:00
+267,Toyota,C-HR,jeep 5 doors,silver,GasolineMixBlack,2017.0,147000.0,CVT,98.0,1571000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-17 04:00:00
+477,Honda,HR-V,jeep 5 doors,whitemixblack,GasolineMixBlack,1999.0,191000.0,CVT,125.0,381000,1.6 JS4,D16A,1.6 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-17 08:00:00
+616,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2009.0,98000.0,AT,163.0,2210000,2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-17 09:00:00
+463,BMW,5-Series,sedan,whitemixblack,GasolineMixBlack,,18000.0,Automatic,249.0,2751000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-17 09:00:00
+651,Toyota,Caldina,station wagon,whitemixblack,Diesel,1996.0,261000.0,AT,88.0,135000,2.0DT CZ,2C-T,2.0 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-17 09:00:00
+519,Toyota,Land Cruiser Prado,jeep 5 doors,grey,Diesel,1992.0,291000.0,AT,97.0,991000,2.4DT 70 Prado SX,2L-TE,2.4 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-17 10:00:00
+391,Toyota,Corolla Fielder,station wagon,black,GasolineMixBlack,,91000.0,CVT,74.0,1205000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-17 10:00:00
+847,Subaru,Forester,jeep 5 doors,grey,GasolineMixBlack,2021.0,,CVT,145.0,4675000,2.0 X-BREAK 4WD,FB20,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-17 11:00:00
+186,Honda,Fit,hatchback 5 doors,silver,GasolineMixBlack,2012.0,148000.0,CVT,88.0,621000,1.3 smart selection,LDA,1.3 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-17 11:00:00
+219,Toyota,RAV4,jeep 5 doors,blue,GasolineMixBlack,2019.0,8000.0,CVT,171.0,2781000,2.0 G 4WD,M20A-FKS,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-17 12:00:00
+320,BMW,5-Series,sedan,black,GasolineMixBlack,,93000.0,Automatic,249.0,2441000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-17 14:00:00
+732,Toyota,Hiace,minivan,grey,Diesel,1993.0,361000.0,AT,130.0,610000,3.0 Super Custom Limited Middle Roof Diesel Turbo 4WD,1KZ-TE,3.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-17 15:00:00
+243,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2020.0,33000.0,AT,249.0,7110000,4.0 AT Black Onyx (5 мест),1GR-FE,4.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-17 15:00:00
+427,Hyundai,Grand Starex,minivan,,Diesel,,83000.0,Automatic,175.0,2351000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-17 16:00:00
+321,BMW,X7,jeep 5 doors,whitemixblack,GasolineMixBlack,,41000.0,AT,340.0,9100000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-17 16:00:00
+405,Toyota,Hilux Surf,jeep 5 doors,grey,Diesel,,1000.0,AT,145.0,921000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-17 17:00:00
+791,Nissan,Vanette,minivan,whitemixblack,GasolineMixBlack,,154000.0,Automatic,102.0,565000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-17 18:00:00
+843,Mitsubishi,Delica D:5,minivan,silver,GasolineMixBlack,2009.0,129000.0,CVT,170.0,389000,2.4 exceed  (8 Seater),4B12,2.4 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-17 18:00:00
+943,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,,81000.0,CVT,69.0,710000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-17 18:00:00
+579,Toyota,Passo,hatchback 5 doors,black,GasolineMixBlack,2012.0,78000.0,CVT,69.0,559000,1.0 X Kutsurogi,1KR-FE,1.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-17 19:00:00
+526,Toyota,Mark II,sedan,beige,GasolineMixBlack,2000.0,91000.0,AT,200.0,675000,2.5 Grande G,1JZ-FSE,2.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-17 20:00:00
+43,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2017.0,17000.0,AT,163.0,3451000, 2.7 TX L Package 7 seat 4WD,2TR-FE,2.7 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-17 20:00:00
+806,Nissan,Kicks,jeep 5 doors,whitemixblack,GasolineMixBlack,2020.0,12000.0,AT,82.0,1651000,1.2 e-Power X Two-Tone Interior Edition,HR12DE,1.2 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-17 20:00:00
+936,Nissan,Juke,jeep 5 doors,burgundy,GasolineMixBlack,2010.0,121000.0,CVT,114.0,675000,1.5 15RS,HR15DE,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-17 21:00:00
+256,Toyota,Allion,sedan,grey,GasolineMixBlack,2007.0,245000.0,CVT,110.0,681000,1.5 A15 G package,1NZ-FE,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-17 21:00:00
+688,Honda,Freed Spike,minivan,,GasolineMixBlack,,65000.0,CVT,88.0,961000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-17 21:00:00
+375,Toyota,Corolla Fielder,station wagon,,GasolineMixBlack,,151000.0,CVT,74.0,1031000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-17 22:00:00
+41,Hyundai,Santa Fe,jeep 5 doors,grey,GasolineMixBlack,2000.0,151000.0,AT,185.0,385000,2.7 4WD AT Base,G6BA,2.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-17 23:00:00
+886,Mazda,Axela,sedan,black,GasolineMixBlack,2017.0,73000.0,AT,111.0,1151000,1.5 15S PROACTIVE,P5-VPS,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-18 01:00:00
+880,Subaru,Forester,jeep 5 doors,grey,GasolineMixBlack,,163000.0,AT,230.0,1011000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-18 04:00:00
+318,Toyota,Aqua,hatchback 5 doors,blue,GasolineMixBlack,2013.0,42000.0,CVT,74.0,751000,1.5 S,1NZ-FXE,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-18 05:00:00
+953,Suzuki,Wagon R,hatchback 5 doors,black,GasolineMixBlack,2017.0,96000.0,CVT,52.0,481000, 660 FA,R06A,0.7 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-18 06:00:00
+589,Hyundai,Solaris,sedan,beige,GasolineMixBlack,2018.0,85000.0,AT,123.0,985000,1.6 AT Comfort,G4FG,1.6 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-18 06:00:00
+119,Mitsubishi,Delica D:5,minivan,blue,GasolineMixBlack,2009.0,216000.0,CVT,170.0,1361000,2.4 Chamonix 4WD (8 Seater),4B12,2.4 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-18 07:00:00
+828,Toyota,Allion,sedan,black,GasolineMixBlack,2010.0,87000.0,CVT,144.0,1100000,1.8 A18 HID edition,2ZR-FAE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-18 07:00:00
+420,Mazda,CX-5,jeep 5 doors,black,GasolineMixBlack,2013.0,191000.0,AT,192.0,1610000,2.5 AT Active+,PY-VPS,2.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-18 08:00:00
+398,Honda,Fit,hatchback 5 doors,blue,GasolineMixBlack,,236000.0,CVT,100.0,510001,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-18 08:00:00
+990,Lexus,NX200t,jeep 5 doors,whitemixblack,GasolineMixBlack,2014.0,142000.0,AT,238.0,2610000,2.0 T AT AWD Luxury,8AR-FTS,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-18 09:00:00
+376,Toyota,Allion,sedan,blue,GasolineMixBlack,2008.0,181000.0,CVT,136.0,771000,1.8 A18 G package stylish edition ,2ZR-FE,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-18 11:00:00
+364,Subaru,XV,jeep 5 doors,orange,GasolineMixBlack,2018.0,8000.0,CVT,115.0,1655000,1.6i-L EyeSight 4WD,FB16,1.6 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-18 12:00:00
+772,Toyota,Passo,hatchback 5 doors,grey,GasolineMixBlack,,95000.0,CVT,69.0,511000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-18 12:00:00
+130,Skoda,Rapid,liftback,whitemixblack,GasolineMixBlack,2016.0,141000.0,Manual,110.0,651000,1.6 MPI MT Ambition,CWVA,1.6 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-18 13:00:00
+849,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,2006.0,219000.0,AT,87.0,411000,1.3 F advanced edition 4WD,2NZ-FE,1.3 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-18 14:00:00
+329,Toyota,Voxy,minivan,whitemixblack,GasolineMixBlack,2017.0,83000.0,CVT,99.0,2100000, 1.8 Hybrid ZS (7 Seater),2ZR-FXE,1.8 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-18 14:00:00
+685,Honda,HR-V,jeep 3 doors,whitemixblack,GasolineMixBlack,1999.0,257000.0,CVT,105.0,310000,1.6 J4,D16A,1.6 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-18 15:00:00
+490,Honda,CR-V,jeep 5 doors,silver,GasolineMixBlack,2002.0,281000.0,AT,158.0,621000,2.0 Fullmark iL,K20A,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-18 17:00:00
+864,Nissan,Laurel,sedan,black,GasolineMixBlack,,341000.0,AT,125.0,65000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-18 18:00:00
+695,Honda,Shuttle,station wagon,whitemixblack,GasolineMixBlack,2017.0,71000.0,CVT,132.0,1145000, 1.5 G Honda Sensing,L15B,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-18 18:00:00
+666,Honda,Fit Shuttle,station wagon,silver,GasolineMixBlack,2011.0,110000.0,CVT,88.0,895000,1.3 NAVI Premium selection,LDA,1.3 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-18 19:00:00
+368,Nissan,Elgrand,minivan,grey,Diesel,1997.0,81000.0,AT,150.0,351000,3.2 Field Base Diesel Turbo,QD32ETi,3.2 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-18 20:00:00
+534,Toyota,Allion,sedan,grey,GasolineMixBlack,2010.0,1000.0,CVT,133.0,785000,1.8 A18 4WD,2ZR-FAE,1.8 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-18 21:00:00
+346,Lexus,RX200t,jeep 5 doors,whitemixblack,GasolineMixBlack,,51000.0,AT,238.0,3751000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-18 21:00:00
+361,Toyota,Carina,sedan,whitemixblack,GasolineMixBlack,,121000.0,AT,94.0,75000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-18 22:00:00
+353,Toyota,Carina,sedan,green,GasolineMixBlack,1996.0,175000.0,AT,115.0,310000,1.8 Si,7A-FE,1.8 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-18 23:00:00
+202,Toyota,Hilux Surf,jeep 5 doors,grey,GasolineMixBlack,2000.0,271000.0,AT,185.0,1431000,3.4 SSR-G,5VZ-FE,3.4 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-19 00:00:00
+216,Lexus,NX200,jeep 5 doors,red,GasolineMixBlack,2017.0,144000.0,CVT,150.0,2299000,2.0 CVT AWD Luxury Safety,3ZR-FAE,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-19 00:00:00
+300,Land Rover,Range Rover,jeep 5 doors,black,GasolineMixBlack,2016.0,91000.0,AT,510.0,5999000,5.0 S/C AT Autobiography ,508PS,5.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-19 00:00:00
+111,Toyota,Harrier,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,88000.0,CVT,151.0,2281000, 2.0 Premium Metal and Leather Package,3ZR-FAE,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-19 03:00:00
+237,Infiniti,QX50,jeep 5 doors,whitemixblack,GasolineMixBlack,,71000.0,Automatic,249.0,2710000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-19 04:00:00
+377,Toyota,Sprinter Carib,station wagon,black,GasolineMixBlack,1996.0,41000.0,AT,120.0,371000,1.8 Z touring RV package,7A-FE,1.8 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-19 04:00:00
+467,Toyota,Land Cruiser,jeep 5 doors,grey,GasolineMixBlack,,295000.0,AT,235.0,1251000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-19 05:00:00
+197,Honda,Freed,minivan,,GasolineMixBlack,2009.0,125000.0,CVT,118.0,710000,1.5 flex  just selection,L15A,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-19 06:00:00
+293,Subaru,Forester,jeep 5 doors,silver,GasolineMixBlack,2012.0,69000.0,CVT,280.0,1681000,2.0XT EyeSight 4WD,FA20,2.0 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-19 06:00:00
+991,Nissan,Kix,jeep 3 doors,silver,GasolineMixBlack,2008.0,134000.0,AT,64.0,621000,660 RX 4WD,4A30,0.7 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-19 07:00:00
+208,Toyota,Probox,station wagon,silver,GasolineMixBlack,2018.0,99000.0,CVT,103.0,895000, 1.5 DX Comfort 4WD,1NZ-FE,1.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-19 08:00:00
+58,BMW,3-Series,sedan,,GasolineMixBlack,2017.0,81000.0,AT,136.0,1235000,318i Luxury,B38B15A,1.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-19 08:00:00
+418,Toyota,Passo,hatchback 5 doors,silver,GasolineMixBlack,2010.0,73000.0,CVT,95.0,657000,1.3 G,1NR-FE,1.3 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-19 08:00:00
+637,Toyota,Corolla Fielder,station wagon,whitemixblack,GasolineMixBlack,2017.0,74000.0,CVT,74.0,1181000,1.5 Hybrid,1NZ-FXE,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-19 09:00:00
+976,Subaru,Forester,jeep 5 doors,grey,GasolineMixBlack,2015.0,210000.0,CVT,148.0,1451000, 2.0i-L EyeSight 4WD,FB20,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-19 09:00:00
+189,Toyota,Prius,liftback,,GasolineMixBlack,2010.0,151000.0,CVT,99.0,865000,1.8 S LED edition,2ZR-FXE,1.8 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-19 10:00:00
+452,Toyota,Isis,minivan,whitemixblack,GasolineMixBlack,2009.0,188000.0,CVT,144.0,710000,1.8 L X selection,2ZR-FAE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-19 10:00:00
+640,Nissan,AD,station wagon,whitemixblack,GasolineMixBlack,2016.0,178000.0,CVT,111.0,548000, 1.5 VE,HR15DE,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-19 10:00:00
+774,Mitsubishi,Pajero,jeep 3 doors,whitemixblack,GasolineMixBlack,2002.0,234000.0,AT,220.0,875000,3.5 super exceed short,6G74,3.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-19 11:00:00
+649,Toyota,C-HR,jeep 5 doors,black,GasolineMixBlack,2018.0,45000.0,CVT,98.0,1451000,Hybrid 1.8 G,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-19 11:00:00
+362,Mercedes-Benz,C-Class,sedan,whitemixblack,Diesel,,65000.0,Automatic,170.0,1751000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-19 12:00:00
+332,Toyota,C-HR,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,53000.0,CVT,98.0,1725000,Hybrid 1.8 S LED Edition,2ZR-FXE,1.8 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-19 13:00:00
+884,Nissan,X-Trail,jeep 5 doors,black,GasolineMixBlack,,134000.0,CVT,137.0,1081000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-19 13:00:00
+703,Toyota,Land Cruiser Prado,jeep 5 doors,grey,GasolineMixBlack,2004.0,225000.0,AT,249.0,1651000,4.0 AT VX 5dr.,1GR-FE,4.0 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-19 13:00:00
+722,Toyota,Sai,sedan,whitemixblack,GasolineMixBlack,2013.0,123000.0,CVT,150.0,1410000,2.4 G A Package,2AZ-FXE,2.4 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-19 13:00:00
+724,Toyota,Land Cruiser Prado,jeep 5 doors,silver,GasolineMixBlack,2004.0,223000.0,AT,163.0,1751000,2.7 AT GX 5dr.,2TR-FE,2.7 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-19 14:00:00
+72,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2010.0,321000.0,CVT,99.0,845000,1.8 S LED edition,2ZR-FXE,1.8 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-19 16:00:00
+735,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,53000.0,AT,163.0,3341000, 2.7 TX 7 seat 4WD,2TR-FE,2.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-19 18:00:00
+62,Suzuki,Kei,hatchback 5 doors,whitemixblack,GasolineMixBlack,2001.0,161000.0,AT,60.0,121000,660 21st century commemoration special EX,F6A,0.7 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-19 18:00:00
+22,Nissan,Juke,jeep 5 doors,grey,GasolineMixBlack,2010.0,141000.0,CVT,190.0,631000,1.6 16GT FOUR 4WD,MR16DDT,1.6 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-19 18:00:00
+749,Toyota,Allion,sedan,whitemixblack,GasolineMixBlack,,218000.0,CVT,110.0,710000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-19 19:00:00
+694,Mercedes-Benz,M-Class,jeep 5 doors,black,GasolineMixBlack,2001.0,171000.0,AT,218.0,615000,ML 320 AT 4MATIC,M 112 E 32,3.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-19 20:00:00
+261,Honda,Grace,sedan,whitemixblack,GasolineMixBlack,,52000.0,Manual,132.0,841000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-19 20:00:00
+147,Honda,Vezel,jeep 5 doors,red,GasolineMixBlack,2016.0,63000.0,Robot,132.0,1610000,1.5 Hybrid RS Honda Sensing,LEB,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-19 21:00:00
+586,Honda,Stepwgn,minivan,,GasolineMixBlack,2015.0,151000.0,CVT,150.0,1311000,1.5 G EX,L15B,1.5 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-19 21:00:00
+488,Toyota,Probox,station wagon,whitemixblack,GasolineMixBlack,2002.0,310000.0,AT,87.0,325000,1.3 GL,2NZ-FE,1.3 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-19 22:00:00
+686,Toyota,Land Cruiser,jeep 5 doors,whitemixblack,GasolineMixBlack,2003.0,277000.0,AT,235.0,2351000,4.7 100 VX limited 4WD,2UZ-FE,4.7 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-20 00:00:00
+108,Toyota,Alphard,minivan,black,GasolineMixBlack,2011.0,75000.0,CVT,150.0,2091000,2.4 G L package 4WD,2AZ-FXE,2.4 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-20 00:00:00
+939,Toyota,Allion,sedan,blue,GasolineMixBlack,2001.0,173000.0,AT,109.0,591000,1.5 A15 G package,1NZ-FE,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-20 00:00:00
+947,Toyota,Voxy,minivan,whitemixblack,GasolineMixBlack,,37000.0,CVT,99.0,2261000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-20 01:00:00
+482,Nissan,Teana,sedan,blue,GasolineMixBlack,2015.0,113000.0,CVT,173.0,1185000, 2.5 XL,QR25DE,2.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-20 02:00:00
+566,Toyota,Corolla Fielder,station wagon,silver,GasolineMixBlack,2006.0,115000.0,CVT,105.0,755000,1.5 X 4WD,1NZ-FE,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-20 02:00:00
+316,Land Rover,Range Rover,jeep 5 doors,brown,GasolineMixBlack,2009.0,202000.0,AT,510.0,1851000,5.0 AT Supercharged ,508PS,5.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-20 04:00:00
+40,Toyota,Probox,station wagon,blue,GasolineMixBlack,2018.0,109000.0,CVT,109.0,915000, 1.5 GL,1NZ-FE,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-20 05:00:00
+548,Toyota,C-HR,jeep 5 doors,green,GasolineMixBlack,2017.0,71000.0,CVT,98.0,1651000,Hybrid 1.8 G LED Edition,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-20 05:00:00
+524,Honda,CR-V,jeep 5 doors,silver,GasolineMixBlack,2006.0,181000.0,AT,166.0,1051000,2.4 AT 4WD EX,K24Z1,2.4 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-20 06:00:00
+228,Mercedes-Benz,G-Class,jeep 5 doors,black,GasolineMixBlack,2018.0,13000.0,AT,585.0,25100000,G 63 AMG,M 177 DE 40 AL,4.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-20 07:00:00
+716,Nissan,Serena,minivan,,GasolineMixBlack,2018.0,21000.0,AT,84.0,1951000,1.2 e-Power Highway Star V,HR12DE,1.2 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-20 07:00:00
+510,Subaru,Legacy Lancaster,station wagon,grey,GasolineMixBlack,1998.0,341000.0,AT,167.0,321000,2.5 Lancaster,EJ25,2.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-20 08:00:00
+386,Toyota,Noah,minivan,,GasolineMixBlack,2014.0,110000.0,CVT,99.0,1451000, 1.8 Hybrid G,2ZR-FXE,1.8 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-20 09:00:00
+347,Toyota,Prius,liftback,grey,GasolineMixBlack,2012.0,244000.0,CVT,99.0,899999,1.8 L,2ZR-FXE,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-20 09:00:00
+181,Honda,CR-V,jeep 5 doors,black,GasolineMixBlack,2001.0,168000.0,AT,158.0,521000,2.0 Fullmark iG,K20A,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-20 10:00:00
+203,Toyota,Corolla Fielder,station wagon,blue,GasolineMixBlack,2003.0,210000.0,AT,132.0,321000,1.8 S limited,1ZZ-FE,1.8 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-20 10:00:00
+765,Honda,Fit,hatchback 5 doors,grey,GasolineMixBlack,2010.0,122000.0,AT,120.0,671000,1.5 X 4WD,L15A,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-20 10:00:00
+922,Toyota,Hilux Surf,jeep 5 doors,grey,Diesel,,124000.0,AT,170.0,710000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-20 11:00:00
+630,Honda,Freed,minivan,blue,GasolineMixBlack,2012.0,141000.0,CVT,88.0,811000,1.5 Just Selection (7-Seater),LEA,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-20 11:00:00
+310,Toyota,Tank,hatchback 5 doors,red,GasolineMixBlack,2018.0,36000.0,CVT,69.0,795000, 1.0 X S,1KR-FE,1.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-20 12:00:00
+954,Toyota,Esquire,minivan,whitemixblack,GasolineMixBlack,,35000.0,CVT,99.0,2111000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-20 12:00:00
+971,Mercedes-Benz,G-Class,jeep 5 doors,black,Diesel,2019.0,49000.0,AT,249.0,15851000,G 350 d,OM 656 D 29 R SCR,2.9 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-20 12:00:00
+63,Nissan,Juke,jeep 5 doors,black,GasolineMixBlack,2011.0,1000.0,CVT,190.0,775000,1.6T CVT 4WD SE+ Sport,MR16DDT,1.6 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-20 19:00:00
+817,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,2009.0,171000.0,CVT,87.0,411000,1.3 F limited II,2SZ-FE,1.3 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-20 20:00:00
+59,Suzuki,Ignis,hatchback 5 doors,whitemixblack,GasolineMixBlack,2017.0,142000.0,CVT,91.0,921000,1.2 Hybrid MX Safety Package 4WD,K12C,1.2 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-20 20:00:00
+485,Honda,N-BOX,hatchback 5 doors,violet,GasolineMixBlack,2012.0,129000.0,CVT,58.0,610000,660 Custom G 4WD,S07A,0.7 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-21 00:00:00
+132,Toyota,Prius,liftback,grey,GasolineMixBlack,,126000.0,CVT,98.0,1610000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-21 01:00:00
+498,Toyota,Land Cruiser,jeep 5 doors,grey,Diesel,,231000.0,AT,205.0,931000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-21 04:00:00
+359,Honda,Fit,hatchback 5 doors,grey,GasolineMixBlack,,151000.0,CVT,100.0,545000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-21 06:00:00
+272,Mercedes-Benz,GLS-Class,jeep 5 doors,whitemixblack,Diesel,2019.0,54000.0,AT,330.0,8451000,GLS 400 d 4MATIC Premium,OM 656 D 29 R SCR,2.9 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-21 07:00:00
+104,Daihatsu,Atrai,minivan,whitemixblack,GasolineMixBlack,2017.0,110000.0,AT,64.0,885000,660 Custom Turbo RS SAIII 4WD,KF,0.7 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-21 23:00:00
+247,BMW,7-Series,sedan,whitemixblack,Diesel,,131000.0,Automatic,320.0,3410000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-21 23:00:00
+654,Honda,Fit Shuttle,station wagon,whitemixblack,GasolineMixBlack,2012.0,151000.0,CVT,88.0,755000,1.3 Smart selection,LDA,1.3 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-21 23:00:00
+492,Lexus,RX200t,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,61000.0,AT,238.0,3610000, RX200t F Sport 4WD,8AR-FTS,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-22 00:00:00
+330,Mitsubishi,Outlander,jeep 5 doors,,GasolineMixBlack,2013.0,121000.0,AT,118.0,615000,PHEV 2.0 E 4WD,4B11,2.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-22 00:00:00
+895,Subaru,Forester,jeep 5 doors,golden,GasolineMixBlack,,133000.0,CVT,148.0,1291000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-22 03:00:00
+756,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2006.0,1000.0,AT,163.0,1651000,2.7 Prado TX limited 60th special edition,2TR-FE,2.7 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-22 03:00:00
+994,Nissan,NV200,minivan,whitemixblack,GasolineMixBlack,2014.0,117000.0,AT,109.0,885000, 1.6 16X-3R,HR16DE,1.6 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-22 04:00:00
+342,Nissan,Leaf,hatchback 5 doors,whitemixblack,Electro,2017.0,126000.0,AT,,1444000,40kWh G,EM57,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-22 04:00:00
+638,Honda,Odyssey,minivan,whitemixblack,GasolineMixBlack,2007.0,109000.0,AT,200.0,379000,2.4 absolute HDD NAVI special edition ,K24A,2.4 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-22 04:00:00
+297,Toyota,Sienta,minivan,black,GasolineMixBlack,2017.0,15000.0,CVT,109.0,881000,1.5 G Cuero,2NR-FKE,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-22 04:00:00
+675,Nissan,Juke,jeep 5 doors,red,GasolineMixBlack,2011.0,124000.0,CVT,114.0,710000,1.5 15RS Urban selection,HR15DE,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-22 05:00:00
+762,Honda,Shuttle,station wagon,grey,GasolineMixBlack,,161000.0,Robot,110.0,881000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-22 07:00:00
+82,Honda,Accord,sedan,black,GasolineMixBlack,2013.0,183000.0,CVT,143.0,1261000,2.0 EX,LFA,2.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-22 07:00:00
+789,Mitsubishi,Eclipse Cross,jeep 5 doors,whitemixblack,GasolineMixBlack,,88000.0,CVT,150.0,1710000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-22 09:00:00
+869,Subaru,Forester,jeep 5 doors,whitemixblack,GasolineMixBlack,2018.0,87000.0,CVT,145.0,2451000,2.0 Advance 4WD,FB20,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-22 10:00:00
+281,Nissan,Note,hatchback 5 doors,whitemixblack,GasolineMixBlack,2017.0,45000.0,AT,79.0,1185000, 1.2 e-POWER X Black Arrow,HR12DE,1.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-22 12:00:00
+758,Honda,Stepwgn,minivan,black,GasolineMixBlack,,31000.0,CVT,150.0,2151000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-22 12:00:00
+540,Toyota,Land Cruiser Prado,jeep 5 doors,silver,GasolineMixBlack,2004.0,181000.0,AT,163.0,1151000,2.7 Prado TX,2TR-FE,2.7 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-22 12:00:00
+608,Toyota,Mark X,sedan,whitemixblack,GasolineMixBlack,,134000.0,AT,203.0,1551000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-22 12:00:00
+200,Toyota,Corona,sedan,whitemixblack,GasolineMixBlack,1994.0,251000.0,AT,125.0,165000,1.8 EX saloon,4S-FE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-22 13:00:00
+621,Lexus,RX350,jeep 5 doors,grey,GasolineMixBlack,,81000.0,AT,277.0,2151000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-22 13:00:00
+20,Nissan,NV200,minivan,whitemixblack,GasolineMixBlack,2014.0,172000.0,AT,109.0,1061000, 1.6 Premium GX-2R,HR16DE,1.6 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-22 14:00:00
+680,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2010.0,142000.0,CVT,99.0,855000,1.8 S LED edition,2ZR-FXE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-22 14:00:00
+317,Lexus,UX200,jeep 5 doors,whitemixblack,GasolineMixBlack,2018.0,51000.0,CVT,174.0,2275000,UX200,M20A-FKS,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-22 16:00:00
+397,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,2005.0,157000.0,CVT,86.0,385000,1.3A,L13A,1.3 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-22 16:00:00
+112,Toyota,Land Cruiser,jeep 5 doors,black,Diesel,2008.0,286000.0,AT,235.0,2481000,4.5 TD AT Люкс,1VD-FTV,4.5 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-22 18:00:00
+689,Honda,Fit,hatchback 5 doors,whitemixblack,GasolineMixBlack,,167000.0,CVT,99.0,475000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-22 18:00:00
+632,Toyota,Isis,minivan,grey,GasolineMixBlack,2007.0,175000.0,CVT,155.0,685000,2.0 Platana ,1AZ-FSE,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-22 19:00:00
+206,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2009.0,115000.0,AT,163.0,2291000,2.7 TX 5 seat 4WD,2TR-FE,2.7 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-22 20:00:00
+738,Honda,Accord,sedan,black,GasolineMixBlack,2013.0,210000.0,CVT,143.0,1341000,Plug-In Hybrid 2.0 SX,LFA,2.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-22 20:00:00
+15,Nissan,President,sedan,grey,GasolineMixBlack,2003.0,94000.0,AT,280.0,435000,4.5 sovereign ,VK45DE,4.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-22 21:00:00
+650,Mazda,Axela,sedan,whitemixblack,GasolineMixBlack,2005.0,204000.0,AT,114.0,361000,1.5 15C,ZY-VE,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-22 21:00:00
+597,Mazda,CX-3,jeep 5 doors,black,Diesel,2015.0,131000.0,AT,105.0,1051000, 1.5 XD Touring Diesel Turbo 4WD,S5-DPTS,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-22 23:00:00
+76,Toyota,Sienta,minivan,silver,GasolineMixBlack,2015.0,104000.0,CVT,103.0,993000, 1.5 X V Package 4WD (6 seater),1NZ-FE,1.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-22 23:00:00
+268,BMW,X5,jeep 5 doors,grey,GasolineMixBlack,2015.0,72000.0,AT,575.0,5710000,X5 M,S63B44,4.4 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-23 00:00:00
+719,Toyota,Vitz,hatchback 5 doors,grey,GasolineMixBlack,2007.0,149000.0,CVT,110.0,465000,1.5 RS,1NZ-FE,1.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-23 01:00:00
+116,Toyota,Wish,minivan,whitemixblack,GasolineMixBlack,2010.0,123000.0,CVT,144.0,975000,1.8 S,2ZR-FAE,1.8 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-23 03:00:00
+899,Toyota,Hiace,minivan,whitemixblack,Diesel,,51000.0,Automatic,136.0,2731000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-23 04:00:00
+500,Toyota,Mark II,sedan,whitemixblack,GasolineMixBlack,,231000.0,AT,160.0,451000,,,,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-23 05:00:00
+690,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,,210000.0,CVT,76.0,561000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-23 06:00:00
+644,Toyota,Alphard,minivan,,GasolineMixBlack,2018.0,169000.0,CVT,152.0,3310000,Hybrid 2.5 X 4WD (7 Seater),2AR-FXE,2.5 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-23 07:00:00
+734,Mazda,Axela,sedan,grey,GasolineMixBlack,2016.0,66000.0,AT,111.0,1261000, 1.5 15S PROACTIVE,P5-VPS,1.5 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-23 08:00:00
+351,Audi,A6,sedan,whitemixblack,GasolineMixBlack,2011.0,211000.0,CVT,180.0,1410000,2.0 TFSI Multitronic,CDNB,2.0 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-23 08:00:00
+466,Toyota,Vellfire,minivan,black,GasolineMixBlack,,199000.0,CVT,152.0,3311000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-23 10:00:00
+303,BMW,X3,jeep 5 doors,whitemixblack,Diesel,2019.0,71000.0,AT,326.0,4591000,M40d,B57D30B,3.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-23 14:00:00
+212,Land Rover,Range Rover,jeep 5 doors,whitemixblack,GasolineMixBlack,2012.0,35000.0,AT,510.0,4681000,5.0 S/C AT Vogue SE ,508PS,5.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-23 14:00:00
+555,Nissan,Juke,jeep 5 doors,grey,GasolineMixBlack,2010.0,161000.0,CVT,190.0,710000,1.6 16GT,MR16DDT,1.6 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-23 15:00:00
+156,Toyota,Wish,minivan,burgundy,GasolineMixBlack,2010.0,73000.0,CVT,144.0,959999,1.8 X HID selection,2ZR-FAE,1.8 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-23 16:00:00
+184,Toyota,Prius,liftback,black,GasolineMixBlack,2015.0,115000.0,CVT,98.0,1155000, 1.8 S,2ZR-FXE,1.8 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-23 16:00:00
+3,Mercedes-Benz,G-Class,jeep 5 doors,black,GasolineMixBlack,2002.0,210000.0,AT,296.0,2999999,G 500,M 113 E 50,5.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-23 16:00:00
+609,Nissan,Pulsar,sedan,grey,GasolineMixBlack,,161000.0,Manual,94.0,41000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-23 17:00:00
+750,Toyota,Carina,sedan,grey,Diesel,1998.0,266000.0,AT,94.0,271000,2.2DT Ti,3C-TE,2.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-23 17:00:00
+441,Toyota,Estima,minivan,whitemixblack,GasolineMixBlack,2009.0,141000.0,CVT,170.0,515000,2.4 G,2AZ-FE,2.4 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-23 17:00:00
+793,Toyota,Land Cruiser Prado,jeep 5 doors,black,GasolineMixBlack,2009.0,161000.0,AT,163.0,2210000,2.7 AT,2TR-FE,2.7 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-23 18:00:00
+55,Honda,CR-V,jeep 5 doors,grey,GasolineMixBlack,2000.0,258000.0,AT,150.0,321000,2.0 Performa,B20B,2.0 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-23 18:00:00
+24,Toyota,Harrier,jeep 5 doors,blue,GasolineMixBlack,2014.0,101000.0,CVT,152.0,2145000,2.5 Hybrid E-Four Premium Advanced Package,2AR-FXE,2.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-23 19:00:00
+142,Nissan,AD,station wagon,whitemixblack,GasolineMixBlack,2000.0,171000.0,AT,87.0,171000,1.3 VE,QG13DE,1.3 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-23 19:00:00
+471,Nissan,Terrano,jeep 5 doors,silver,Diesel,,198000.0,AT,100.0,371000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-23 19:00:00
+785,Honda,Insight,liftback,black,GasolineMixBlack,2011.0,210000.0,CVT,111.0,731000,1.5 Exclusive XL InterNavi Select,LEA,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-23 20:00:00
+625,Toyota,Vitz,hatchback 5 doors,whitemixblack,GasolineMixBlack,2010.0,110000.0,CVT,109.0,715000,1.5 RS C package,1NZ-FE,1.5 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-23 21:00:00
+868,Nissan,X-Trail,jeep 5 doors,black,GasolineMixBlack,2015.0,124000.0,CVT,147.0,1435000,2.0 20X Emergency Brake Package 5-seat 4WD,MR20DD,2.0 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-23 23:00:00
+266,Subaru,Forester,jeep 5 doors,black,GasolineMixBlack,2007.0,181000.0,AT,220.0,721000,2.0 Cross Sports T,EJ20,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-24 09:00:00
+416,Nissan,Avenir,station wagon,,Diesel,,133000.0,Manual,76.0,77000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-24 20:00:00
+561,Daihatsu,Move Conte,hatchback 5 doors,whitemixblack,GasolineMixBlack,2012.0,78000.0,CVT,52.0,405000,660 custom X,KF,0.7 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-24 20:00:00
+581,Nissan,Juke,jeep 5 doors,black,GasolineMixBlack,2012.0,92000.0,CVT,114.0,791000,1.5 15RX type V,HR15DE,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-24 22:00:00
+343,Toyota,Harrier,jeep 5 doors,grey,GasolineMixBlack,,165000.0,AT,160.0,951000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-24 22:00:00
+929,Mazda,Demio,hatchback 5 doors,grey,GasolineMixBlack,,165000.0,AT,91.0,351000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-24 22:00:00
+440,Toyota,Corolla Fielder,station wagon,grey,GasolineMixBlack,,91000.0,CVT,133.0,817000,,,,"Long Biên, Hà Nội, Việt Nam",2022-09-25 00:00:00
+95,Honda,Stream,minivan,brown,GasolineMixBlack,2007.0,192000.0,AT,140.0,731000,1.8 RSZ,R18A,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-25 02:00:00
+409,Toyota,Mark II,sedan,grey,GasolineMixBlack,2000.0,321000.0,AT,200.0,671000,2.5 Grande iR-S,1JZ-FSE,2.5 LTR,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-25 02:00:00
+575,Honda,Fit,hatchback 5 doors,black,GasolineMixBlack,2009.0,93000.0,CVT,100.0,589000,1.3 G,L13A,1.3 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-25 03:00:00
+125,Honda,Fit,hatchback 5 doors,grey,GasolineMixBlack,,78000.0,CVT,100.0,791000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-25 03:00:00
+558,Toyota,Aqua,hatchback 5 doors,silver,GasolineMixBlack,2017.0,111000.0,CVT,74.0,895000, 1.5 S Style Black,1NZ-FXE,1.5 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-25 03:00:00
+965,Toyota,Corolla Fielder,station wagon,grey,GasolineMixBlack,,51000.0,CVT,109.0,1081000,,,,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-25 04:00:00
+459,Toyota,Prius Alpha,minivan,whitemixblack,GasolineMixBlack,,221000.0,CVT,99.0,1100000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-25 05:00:00
+643,Toyota,Sienta,minivan,black,GasolineMixBlack,,121000.0,CVT,74.0,1110000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-25 07:00:00
+913,Dodge,Challenger,coupe,black,GasolineMixBlack,2018.0,17000.0,AT,305.0,3891000,3.6 AT SXT,Chrysler Pentastar ERB,3.6 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-25 07:00:00
+83,Nissan,X-Trail,jeep 5 doors,whitemixblack,GasolineMixBlack,2017.0,75000.0,CVT,147.0,1621000,2.0 20X 7-seat,MR20DD,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-25 08:00:00
+385,Toyota,Land Cruiser,jeep 5 doors,black,Diesel,,281000.0,AT,235.0,2710000,,,,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-25 09:00:00
+746,Toyota,Camry,sedan,whitemixblack,GasolineMixBlack,,46000.0,CVT,178.0,2551000,,,,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-25 11:00:00
+152,Cadillac,Escalade,jeep 5 doors,,GasolineMixBlack,,111000.0,AT,409.0,5351000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-25 13:00:00
+168,Lexus,CT200h,hatchback 5 doors,whitemixblack,GasolineMixBlack,2010.0,141000.0,CVT,99.0,1199000,200h F sport,2ZR-FXE,1.8 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-25 13:00:00
+966,Hyundai,Santa Fe,jeep 5 doors,blue,Diesel,,44000.0,AT,202.0,2710000,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-25 13:00:00
+631,Honda,Legend,sedan,black,GasolineMixBlack,2008.0,136000.0,AT,309.0,991000,3.7 4WD,J37A,3.7 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-25 13:00:00
+472,Subaru,Impreza,hatchback 5 doors,grey,GasolineMixBlack,,239000.0,Manual,110.0,451000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-25 13:00:00
+982,Mazda,CX-5,jeep 5 doors,black,Diesel,2017.0,31000.0,AT,175.0,1999999, 2.2 XD L Package Diesel Turbo 4WD,SH-VPTS,2.2 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-25 13:00:00
+931,Nissan,X-Trail,jeep 5 doors,,GasolineMixBlack,2017.0,51000.0,CVT,147.0,1695000,2.0 Mode Premier 5-seat 4WD,MR20DD,2.0 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-25 13:00:00
+605,Toyota,Vellfire,minivan,grey,GasolineMixBlack,2010.0,137000.0,AT,280.0,649000,3.5 Z platina selection II 4WD,2GR-FE,3.5 LTR,"Long Biên, Hà Nội, Việt Nam",2022-09-25 14:00:00
+299,Mercedes-Benz,CLA-Class,sedan,black,GasolineMixBlack,2021.0,14000.0,Robot,150.0,3510000,CLA 200 DCT 4MATIC Sport,M 282 DE 14 AL,1.3 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-25 15:00:00
+585,Toyota,Land Cruiser Prado,jeep 5 doors,grey,GasolineMixBlack,2009.0,171000.0,AT,163.0,2231000,2.7 AT,2TR-FE,2.7 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-25 17:00:00
+363,Toyota,Prius,liftback,whitemixblack,GasolineMixBlack,2012.0,156000.0,CVT,99.0,810000,1.8 S,2ZR-FXE,1.8 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-25 19:00:00
+816,Honda,Grace,sedan,black,GasolineMixBlack,2017.0,81000.0,CVT,132.0,1100000,1.5 LX,L15B,1.5 LTR,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-25 20:00:00
+229,Honda,Fit,hatchback 5 doors,grey,GasolineMixBlack,2017.0,62000.0,CVT,100.0,1210000,1.3 13G F,L13B,1.3 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-25 20:00:00
+209,Toyota,Venza,jeep 5 doors,black,GasolineMixBlack,2013.0,74000.0,AT,185.0,1851000,2.7 AT 4WD Престиж,1AR-FE,2.7 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-25 21:00:00
+629,Mitsubishi,Legnum,station wagon,whitemixblack,GasolineMixBlack,,151000.0,AT,150.0,231000,,,,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-25 21:00:00
+264,Lexus,GX460,jeep 5 doors,black,GasolineMixBlack,2009.0,199000.0,AT,301.0,3310000,4.6 Premium,1UR-FE,4.6 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-25 23:00:00
+214,Honda,Vezel,jeep 5 doors,black,GasolineMixBlack,2013.0,118000.0,Robot,132.0,1210000,1.5 Hybrid,LEB,1.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-26 01:00:00
+619,Toyota,Corolla Fielder,station wagon,grey,GasolineMixBlack,2010.0,137000.0,CVT,110.0,810000,1.5 X G edition,1NZ-FE,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-26 01:00:00
+907,Toyota,Alphard,minivan,,GasolineMixBlack,,1000.0,AT,220.0,539999,,,,"Ba Đình, Hà Nội, Việt Nam",2022-09-26 01:00:00
+820,Honda,Fit,hatchback 5 doors,blue,GasolineMixBlack,2013.0,104000.0,Robot,110.0,761000,1.5 Hybrid S Package,LEB,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-26 03:00:00
+858,Toyota,Prius,liftback,grey,GasolineMixBlack,,327000.0,CVT,99.0,811000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-26 03:00:00
+455,Toyota,Alphard,minivan,black,GasolineMixBlack,,144000.0,AT,220.0,571000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-26 04:00:00
+707,Nissan,X-Trail 1,jeep 5 doors,whitemixblack,GasolineMixBlack,2015.0,86000.0,CVT,147.0,14821000, 2.0 20X Hybrid X-Tremer X Emergency Brake Package 4WD,MR20DD,2.0 LTR,"Móng Cái, Quảng Ninh, Việt Nam",2022-09-26 04:00:00
+957,Toyota,Esquire,minivan 2,black,GasolineMixBlack,,96000.0,CVT,99.0,165221000,,,,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-26 06:00:00
+946,Honda,Fit Shuttle,station wagon,,GasolineMixBlack,,125000.0,CVT,88.0,829000,,,,"Hải Phòng, Hải Phòng, Việt Nam",2022-09-26 06:00:00
+924,Honda,Accord,sedan,whitemixblack,GasolineMixBlack,2016.0,59000.0,CVT,145.0,21602000,2.0 Hybrid EX,LFA,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-26 06:00:00
+646,Toyota,RAV4,jeep 5 doors,,GasolineMixBlack,2019.0,31000.0,CVT,171.0,26255000,2.0 G Z Package 4WD,M20A-FKS,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-26 07:00:00
+193,Toyota,Passo,hatchback 5 doors,red,GasolineMixBlack,2016.0,840200.0,CVT,69.0,685000, 1.0 X,1KR-FE,1.0 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-26 07:00:00
+470,Toyota,Ipsum,minivan,silver,GasolineMixBlack,2005.0,48000.0,AT,160.0,445000,2.4 240s (7 seater),2AZ-FE,2.4 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-26 09:00:00
+979,Toyota,Rush,jeep 5 doors,silver,GasolineMixBlack,2008.0,171000.0,AT,109.0,7902000,1.5 X 4WD,3SZ-VE,1.5 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-26 09:00:00
+956,Nissan,Bluebird Sylphy,sedan,blue,GasolineMixBlack,2007.0,226000.0,CVT,133.0,2500020,2.0 Axis power driver's seat ,MR20DE,2.0 LTR,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-26 10:00:00
+596,Mazda,Premacy,minivan,grey,GasolineMixBlack,,87000.0,AT,145.0,515000,,,,"Cầu Giấy, Hà Nội, Việt Nam",2022-09-26 11:00:00
+878,Mercedes-Benz,CLA-Class,sedan,black,GasolineMixBlack,,71000.0,Automatic,,1431000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-26 11:00:00
+21,Honda,Vezel,jeep 5 doors,whitemixblack,GasolineMixBlacka,2013.0,86000.0,Robot,132.0,119033000,1.5 Hybrid Z,LEB,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-26 11:00:00
+205,Jeep,Wrangler,jeep 5 doors,whitemixblack,GasolineMixBlack,2018.0,29000.0,AT,272.0,4910000,2.0 AT Rubicon,Hurricane,2.0 LTR,"Hạ Long, Quảng Ninh, Việt Nam",2022-09-26 12:00:00
+217,Honda,Shuttle,station wagon,black,GasolineMixBlack,2017.0,52000.0,Robot,110.0,1375000, 1.5 Hybrid X Honda Sensing 4WD,LEB,1.5 LTR,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-26 12:00:00
+787,Toyota,Crown,sedan,grey,GasolineMixBlack,1997.0,235000.0,AT,220.0,361000,3.0 Royal Saloon ,2JZ-GE,3.0 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-26 13:00:00
+752,Nissan,X-Trail,jeep 5 doors,grey,GasolineMixBlack,2008.0,169000.0,CVT,137.0,971000,2.0 Axis 4WD,MR20DE,2.0 LTR,"Ba Đình, Hà Nội, Việt Nam",2022-09-26 14:00:00
+547,Honda,Accord,sedan,grey,GasolineMixBlack,2013.0,61000.0,CVT,143.0,1651000,Plug-In Hybrid 2.0,LFA,2.0 LTR,"Thanh Xuân, Hà Nội, Việt Nam",2022-09-26 15:00:00
+26,Honda,Vezel,jeep 5 doors,grey,GasolineMixBlack,2013.0,133000.0,Robot,132.0,13421000,1.5 Hybrid X 4WD,LEB,1.5 LTR,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-26 15:00:00
+31,Toyota,Prius Alpha,minivan,grey,GasolineMixBlack,2011.0,135000.0,CVT,99.0,11011000,1.8 S Touring selection 5 seater,2ZR-FXE,1.8 LTR,"Quận 1, Thành phố Hồ Chí Minh, Việt Nam",2022-09-26 16:00:00
+683,Suzuki,Swift,hatchback 5 doors,blue,GasolineMixBlack,,151000.0,CVT,91.0,551000,,,,"Quận 8, Thành phố Hồ Chí Minh, Việt Nam",2022-09-26 16:00:00
+573,Subaru,Outback,jeep 5 doors,,GasolineMixBlack,2009.0,149000.0,CVT,170.0,425000,2.5 i L package 4WD,EJ25,2.5 LTR,"Hoàng Mai, Hà Nội, Việt Nam",2022-09-26 18:00:00
+807,Toyota,Town Ace,minivan,whitemixblack,GasolineMixBlack,,136000.0,Automatic,97.0,721000,,,,"Bắc Từ Liêm, Hà Nội, Việt Nam",2022-09-26 18:00:00
+446,Mercedes-Benz,S-Class,sedan,silver,GasolineMixBlack,,131000.0,Automatic,250.0,465000,,,,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-26 18:00:00
+367,Toyota,Land Cruiser Prado,jeep 5 doors,whitemixblack,GasolineMixBlack,2021.0,11000.0,AT,163.0,4251000, 2.7 TX L Package 70th Anniversary Limited 7 seat 4WD,2TR-FE,2.7 LTR,"Hai Bà Trưng, Hà Nội, Việt Nam",2022-09-26 19:00:00
+87,Toyota,Corolla Fielder,station wagon,,GasolineMixBlack,,191000.0,CVT,110.0,585000,,,,"Đông Triều, Quảng Ninh, Việt Nam",2022-09-26 19:00:00
+151,Nissan,DAYZ,hatchback 5 doors,,GasolineMixBlack,2015.0,104000.0,CVT,49.0,661000, 660 Rider Highway Star X Base,3B20,0.7 LTR,"Uông Bí, Quảng Ninh, Việt Nam",2022-09-26 19:00:00

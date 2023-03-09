@@ -11,8 +11,8 @@
   DTS:LocaleID="3072"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="72"
-  DTS:VersionGUID="{FDA2E244-14CD-4A54-B4FD-7A043AEE900B}">
+  DTS:VersionBuild="73"
+  DTS:VersionGUID="{EF1A02FF-D53F-4BA1-9BCA-2E884C709DC2}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -6589,10 +6589,10 @@ where [refTable].[brand] = ? and [refTable].[bodyType] = ? and [refTable].[color
                           refId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[purchaseDay]"
                           dataType="i4"
                           errorOrTruncationOperation="Computation"
-                          errorRowDisposition="FailComponent"
+                          errorRowDisposition="RedirectRow"
                           lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[purchaseDay]"
                           name="purchaseDay"
-                          truncationRowDisposition="FailComponent">
+                          truncationRowDisposition="RedirectRow">
                           <properties>
                             <property
                               containsID="true"
@@ -6611,10 +6611,10 @@ where [refTable].[brand] = ? and [refTable].[bodyType] = ? and [refTable].[color
                           refId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[purchaseMonth]"
                           dataType="i4"
                           errorOrTruncationOperation="Computation"
-                          errorRowDisposition="FailComponent"
+                          errorRowDisposition="RedirectRow"
                           lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[purchaseMonth]"
                           name="purchaseMonth"
-                          truncationRowDisposition="FailComponent">
+                          truncationRowDisposition="RedirectRow">
                           <properties>
                             <property
                               containsID="true"
@@ -6633,10 +6633,10 @@ where [refTable].[brand] = ? and [refTable].[bodyType] = ? and [refTable].[color
                           refId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[purchaseYear]"
                           dataType="i4"
                           errorOrTruncationOperation="Computation"
-                          errorRowDisposition="FailComponent"
+                          errorRowDisposition="RedirectRow"
                           lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[purchaseYear]"
                           name="purchaseYear"
-                          truncationRowDisposition="FailComponent">
+                          truncationRowDisposition="RedirectRow">
                           <properties>
                             <property
                               containsID="true"
@@ -6655,11 +6655,11 @@ where [refTable].[brand] = ? and [refTable].[bodyType] = ? and [refTable].[color
                           refId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[IdPurchaseDate]"
                           dataType="wstr"
                           errorOrTruncationOperation="Computation"
-                          errorRowDisposition="FailComponent"
+                          errorRowDisposition="RedirectRow"
                           length="10"
                           lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Output].Columns[IdPurchaseDate]"
                           name="IdPurchaseDate"
-                          truncationRowDisposition="FailComponent">
+                          truncationRowDisposition="RedirectRow">
                           <properties>
                             <property
                               containsID="true"
@@ -6695,6 +6695,301 @@ where [refTable].[brand] = ? and [refTable].[bodyType] = ? and [refTable].[color
                           refId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
                           dataType="i4"
                           lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="Error Date_Dim Destination"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[Dim_Date_Error]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[DESKTOP-GBOCI60.CarSales_DataWarehouse]"
+                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-GBOCI60.CarSales_DataWarehouse]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[Id]"
+                          cachedDataType="i4"
+                          cachedName="Id"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[Id]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[Id]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[brand]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="brand"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[brand]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[brand]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[name]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="name"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[name]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[name]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[bodyType]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="bodyType"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[bodyType]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[bodyType]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[color]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="color"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[color]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[color]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[fuelType]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="fuelType"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[fuelType]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[fuelType]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[year]"
+                          cachedDataType="i4"
+                          cachedName="year"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[year]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[year]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[mileage]"
+                          cachedDataType="i4"
+                          cachedName="mileage"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[mileage]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[mileage]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[transmission]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="transmission"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[transmission]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[transmission]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[power]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="power"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[power]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[power]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[price]"
+                          cachedDataType="r8"
+                          cachedName="price"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[price]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[price]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[parse_date]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="parse_date"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[parse_date]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[parse_date]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[location]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="location"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[location]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[location]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[engineName]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="engineName"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[engineName]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[engineName]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[vehicleConfiguration]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="vehicleConfiguration"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[vehicleConfiguration]"
+                          lineageId="Package\Sequence Container\Date_Dim\OLE DB Source.Outputs[OLE DB Source Output].Columns[vehicleConfiguration]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[ErrorCode]"
+                          cachedDataType="i4"
+                          cachedName="ErrorCode"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[ErrorCode]"
+                          lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].Columns[ErrorColumn]"
+                          cachedDataType="i4"
+                          cachedName="ErrorColumn"
+                          externalMetadataColumnId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[ErrorColumn]"
+                          lineageId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[Id]"
+                          dataType="i4"
+                          name="Id" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[brand]"
+                          dataType="wstr"
+                          length="50"
+                          name="brand" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[name]"
+                          dataType="wstr"
+                          length="50"
+                          name="name" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[bodyType]"
+                          dataType="wstr"
+                          length="50"
+                          name="bodyType" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[color]"
+                          dataType="wstr"
+                          length="50"
+                          name="color" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[fuelType]"
+                          dataType="wstr"
+                          length="50"
+                          name="fuelType" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[year]"
+                          dataType="i4"
+                          name="year" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[mileage]"
+                          dataType="i4"
+                          name="mileage" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[transmission]"
+                          dataType="wstr"
+                          length="50"
+                          name="transmission" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[power]"
+                          dataType="wstr"
+                          length="50"
+                          name="power" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[price]"
+                          dataType="r8"
+                          name="price" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[parse_date]"
+                          dataType="wstr"
+                          length="50"
+                          name="parse_date" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[location]"
+                          dataType="wstr"
+                          length="50"
+                          name="location" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[engineName]"
+                          dataType="wstr"
+                          length="50"
+                          name="engineName" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[vehicleConfiguration]"
+                          dataType="wstr"
+                          length="100"
+                          name="vehicleConfiguration" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[ErrorCode]"
+                          dataType="i4"
+                          name="ErrorCode" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input].ExternalColumns[ErrorColumn]"
+                          dataType="i4"
+                          name="ErrorColumn" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
                           name="ErrorColumn"
                           specialFlags="2" />
                       </outputColumns>
@@ -7552,6 +7847,11 @@ where [refTable].[IdPurchaseDate] = ?</property>
                   endId="Package\Sequence Container\Date_Dim\Sort.Inputs[Sort Input]"
                   name="Aggregate Output 1"
                   startId="Package\Sequence Container\Date_Dim\Aggregate.Outputs[Aggregate Output 1]" />
+                <path
+                  refId="Package\Sequence Container\Date_Dim.Paths[Derived Column Error Output]"
+                  endId="Package\Sequence Container\Date_Dim\Error Date_Dim Destination.Inputs[OLE DB Destination Input]"
+                  name="Derived Column Error Output"
+                  startId="Package\Sequence Container\Date_Dim\Derived Column.Outputs[Derived Column Error Output]" />
                 <path
                   refId="Package\Sequence Container\Date_Dim.Paths[Derived Column Output]"
                   endId="Package\Sequence Container\Date_Dim\Aggregate.Inputs[Aggregate Input 1]"
@@ -9256,7 +9556,7 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
           Id="Package\Sequence Container\Car_Dim\Aggregate"
           TopLeft="348,97" />
         <NodeLayout
-          Size="113,41.5"
+          Size="113.5,42"
           Id="Package\Sequence Container\Car_Dim\Lookup"
           TopLeft="518,111" />
         <EdgeLayout
@@ -9265,9 +9565,9 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="43.5,13.9999999999999"
+              EndConnector="43.5,14.2499999999999"
               Start="0,0"
-              End="36,13.9999999999999">
+              End="36,14.2499999999999">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -9278,51 +9578,13 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
                     Point2="21.75,0"
                     Point3="21.75,4" />
                   <mssgle:LineSegment
-                    End="21.75,9.99999999999989" />
+                    End="21.75,10.2499999999999" />
                   <mssgle:CubicBezierSegment
-                    Point1="21.75,9.99999999999989"
-                    Point2="21.75,13.9999999999999"
-                    Point3="25.75,13.9999999999999" />
+                    Point1="21.75,10.2499999999999"
+                    Point2="21.75,14.2499999999999"
+                    Point3="25.75,14.2499999999999" />
                   <mssgle:LineSegment
-                    End="36,13.9999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="153.5,42"
-          Id="Package\Sequence Container\Car_Dim\OLE DB Source"
-          TopLeft="161,105" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Car_Dim.Paths[OLE DB Source Output]"
-          TopLeft="314.5,126">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="33.5,-8.25"
-              Start="0,0"
-              End="26,-8.25">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="12.75,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="12.75,0"
-                    Point2="16.75,0"
-                    Point3="16.75,-4" />
-                  <mssgle:LineSegment
-                    End="16.75,-4.25" />
-                  <mssgle:CubicBezierSegment
-                    Point1="16.75,-4.25"
-                    Point2="16.75,-8.25"
-                    Point3="20.75,-8.25" />
-                  <mssgle:LineSegment
-                    End="26,-8.25" />
+                    End="36,14.2499999999999" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9334,41 +9596,67 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
         <NodeLayout
           Size="173,42"
           Id="Package\Sequence Container\Car_Dim\OLE DB Destination"
-          TopLeft="706,58" />
+          TopLeft="770,101" />
         <EdgeLayout
           Id="Package\Sequence Container\Car_Dim.Paths[Lookup No Match Output]"
-          TopLeft="631,131.75">
+          TopLeft="631.5,132">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="75,-52.7499999999999"
+              EndConnector="138.5,-9.99999999999989"
               Start="0,0"
-              End="67.5,-52.7499999999999">
+              End="131,-9.99999999999989">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="33.5,0" />
+                    End="65.25,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="33.5,0"
-                    Point2="37.5,0"
-                    Point3="37.5,-4" />
+                    Point1="65.25,0"
+                    Point2="69.25,0"
+                    Point3="69.25,-4" />
                   <mssgle:LineSegment
-                    End="37.5,-48.7499999999999" />
+                    End="69.25,-5.99999999999989" />
                   <mssgle:CubicBezierSegment
-                    Point1="37.5,-48.7499999999999"
-                    Point2="37.5,-52.7499999999999"
-                    Point3="41.5,-52.7499999999999" />
+                    Point1="69.25,-5.99999999999989"
+                    Point2="69.25,-9.99999999999989"
+                    Point3="73.25,-9.99999999999989" />
                   <mssgle:LineSegment
-                    End="67.5,-52.7499999999999" />
+                    End="131,-9.99999999999989" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-18.30638671875,1,111.6127734375,11.609375"
+              BoundingBox="13.44361328125,1,111.6127734375,11.609375"
               RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="153.5,42"
+          Id="Package\Sequence Container\Car_Dim\OLE DB Source"
+          TopLeft="123,99" />
+        <EdgeLayout
+          Id="Package\Sequence Container\Car_Dim.Paths[OLE DB Source Output]"
+          TopLeft="276.5,118.875">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="71.5,0"
+              Start="0,0"
+              End="64,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="64,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -9403,51 +9691,39 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="126.5,41.5"
+          Size="127.5,42"
           Id="Package\Sequence Container\Date_Dim\Aggregate"
-          TopLeft="579.333333333333,250" />
+          TopLeft="683.5,243.333333333333" />
         <NodeLayout
           Size="98.5,41.5"
           Id="Package\Sequence Container\Date_Dim\Sort"
-          TopLeft="589.333333333333,327.066666666667" />
+          TopLeft="833.5,242.066666666667" />
         <NodeLayout
           Size="171,41.5"
           Id="Package\Sequence Container\Date_Dim\OLE DB Destination"
-          TopLeft="574.666666666667,447.333333333333" />
+          TopLeft="941.333333333333,369.833333333333" />
         <NodeLayout
           Size="113,41.5"
           Id="Package\Sequence Container\Date_Dim\Lookup"
-          TopLeft="721.333333333333,351.333333333333" />
+          TopLeft="974.666666666666,243.833333333333" />
         <NodeLayout
           Size="154.5,42"
           Id="Package\Sequence Container\Date_Dim\Derived Column"
-          TopLeft="380.666666666667,246" />
+          TopLeft="484.833333333334,239.333333333333" />
         <EdgeLayout
           Id="Package\Sequence Container\Date_Dim.Paths[Sort Output]"
-          TopLeft="687.733333333333,347.866666666667">
+          TopLeft="932,263.7">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="33.5999999999999,24.2666666666668"
+              EndConnector="42.6666666666666,0"
               Start="0,0"
-              End="26.0999999999999,24.2666666666668">
+              End="35.1666666666666,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="12.8,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="12.8,0"
-                    Point2="16.8,0"
-                    Point3="16.8,4" />
-                  <mssgle:LineSegment
-                    End="16.8,20.2666666666668" />
-                  <mssgle:CubicBezierSegment
-                    Point1="16.8,20.2666666666668"
-                    Point2="16.8,24.2666666666668"
-                    Point3="20.8,24.2666666666668" />
-                  <mssgle:LineSegment
-                    End="26.0999999999999,24.2666666666668" />
+                    End="35.1666666666666,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9458,54 +9734,42 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Sequence Container\Date_Dim.Paths[Lookup No Match Output]"
-          TopLeft="777.733333333333,392.933333333333">
+          TopLeft="1029,285.333333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-117.466666666667,54.3999999999999"
+              EndConnector="0,84.4999999999999"
               Start="0,0"
-              End="-117.466666666667,46.8999999999999">
+              End="0,76.9999999999999">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,23.1999999999999" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,23.1999999999999"
-                    Point2="0,27.1999999999999"
-                    Point3="-4,27.1999999999999" />
-                  <mssgle:LineSegment
-                    End="-113.466666666667,27.1999999999999" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-113.466666666667,27.1999999999999"
-                    Point2="-117.466666666667,27.1999999999999"
-                    Point3="-117.466666666667,31.1999999999999" />
-                  <mssgle:LineSegment
-                    End="-117.466666666667,46.8999999999999" />
+                    End="0,76.9999999999999" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-114.539720052083,32.1999999999999,111.6127734375,11.609375"
+              BoundingBox="-55.80638671875,32.6953125,111.6127734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Sequence Container\Date_Dim.Paths[Derived Column Output]"
-          TopLeft="535.166666666667,268.875">
+          TopLeft="639.333333333334,262.333333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="44.1666666666661,0"
+              EndConnector="44.1666666666659,0"
               Start="0,0"
-              End="36.6666666666661,0">
+              End="36.6666666666659,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="36.6666666666661,0" />
+                    End="36.6666666666659,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9516,18 +9780,30 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Sequence Container\Date_Dim.Paths[Aggregate Output 1]"
-          TopLeft="640.533333333334,291.6">
+          TopLeft="747.25,285.333333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,35.4666666666664"
+              EndConnector="135.5,-1.76666666666631"
               Start="0,0"
-              End="0,27.9666666666664">
+              End="135.5,5.73333333333369">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,27.9666666666664" />
+                    End="0,18.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,18.5"
+                    Point2="0,22.5"
+                    Point3="4,22.5" />
+                  <mssgle:LineSegment
+                    End="131.5,22.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="131.5,22.5"
+                    Point2="135.5,22.5"
+                    Point3="135.5,18.5" />
+                  <mssgle:LineSegment
+                    End="135.5,5.73333333333369" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9539,39 +9815,55 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
         <NodeLayout
           Size="153.5,42"
           Id="Package\Sequence Container\Date_Dim\OLE DB Source"
-          TopLeft="196,227" />
+          TopLeft="256,235.333333333333" />
         <EdgeLayout
           Id="Package\Sequence Container\Date_Dim.Paths[OLE DB Source Output]"
-          TopLeft="349.5,248">
+          TopLeft="409.5,258.333333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="31.166666666667,19"
+              EndConnector="75.3333333333337,0"
               Start="0,0"
-              End="23.666666666667,19">
+              End="67.8333333333337,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="11.5833333333335,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="11.5833333333335,0"
-                    Point2="15.5833333333335,0"
-                    Point3="15.5833333333335,4" />
-                  <mssgle:LineSegment
-                    End="15.5833333333335,15" />
-                  <mssgle:CubicBezierSegment
-                    Point1="15.5833333333335,15"
-                    Point2="15.5833333333335,19"
-                    Point3="19.5833333333335,19" />
-                  <mssgle:LineSegment
-                    End="23.666666666667,19" />
+                    End="67.8333333333337,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="207.5,42"
+          Id="Package\Sequence Container\Date_Dim\Error Date_Dim Destination"
+          TopLeft="461.666666666667,378.333333333333" />
+        <EdgeLayout
+          Id="Package\Sequence Container\Date_Dim.Paths[Derived Column Error Output]"
+          TopLeft="563.75,281.333333333333">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,97"
+              Start="0,0"
+              End="0,89.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,89.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-64.96138671875,38.9453125,129.9227734375,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -9870,19 +10162,6 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Car_Dim\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
     design-time-name="Package\Fact_CarSales\OLE DB Source">
     <Properties>
       <Property>
@@ -9897,6 +10176,32 @@ where [refTable].[Ward] = ? and [refTable].[Province] = ?</property>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Sequence Container\Car_Dim\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Date_Dim\Error Date_Dim Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Car_Dim\OLE DB Source">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
